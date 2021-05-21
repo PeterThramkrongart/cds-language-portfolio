@@ -8,7 +8,7 @@ source network_visualization_venv/bin/activate
 cd src
 
 #run the script
-python network_analysis.py
+python network_analysis.py -l -p
 
 cd ..
 

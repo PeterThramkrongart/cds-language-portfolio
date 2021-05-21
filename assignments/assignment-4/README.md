@@ -34,7 +34,7 @@ The purpose of this assignment is to create a reusable network analysis pipeline
 ## Reproducibility
 
 **Step 1: Clone repository**  
-- open a linux terminal
+- open a Linux terminal
 - Navigate the destination of the repository
 - run the following command  
 ```console
@@ -42,13 +42,54 @@ The purpose of this assignment is to create a reusable network analysis pipeline
 ``` 
 
 **step 2: Run bash script:**  
-- Navigate to the folder "assignment-4".  
+- Navigate to the folder "assignment-3".  
 ```console
-cd assignments/assignment-4
+cd assignments/assignment-3
 ```  
-- We have written ad _network_analysis.sh_ to set up a virtual environment, run the python script, save the plot, and kill the environment afterwards:  
+- We have written a bash script _network_analysis.sh_ to set up a virtual environment, run the python script, save the plot, and kill the environment afterwards:  
 ```console
 bash network_analysis.sh
+```  
+By default, the bash script runs the analysis on all the data and uses all available cores. This may not by an option for you. Therefore, you have to run the analysis manually:
+
+**Step 1: Clone repository**  
+- open a Linux terminal
+- Navigate the destination of the repository
+- run the following command  
+```console
+ git clone https://github.com/PeterThramkrongart/cds-language-portfolio.git
+``` 
+
+**step 2: Set up the environment and activate it:**  
+- Navigate to the folder "assignment-3".  
+```console
+cd assignments/assignment-3
+```  
+- We have written a bash script _create_network_analysis_venv.sh_ to set up a virtual environment:  
+```console
+bash create_network_analysis_venv.sh
+
+source network_analysis_venv/bin/activate
+```  
+
+**step 3: run the python script:**  
+- Navigate to the folder "src".  
+```console
+cd src
+```  
+- run the python script _network_analysis.py_ and specify the number of cores to use in integers and the number of samples to use:  
+```console
+python network_analysis.py -c {number of cores} -s {number of samples}
+```  
+
+**step 4 (optional): kill the environment:**  
+- Navigate to the folder "assignment-3".  
+```console
+cd ..
+```  
+- run the bash script _kill_network_analysis_venv.sh_ to remove the virtual environment:  
+```console
+bash kill_network_analysis_venv.sh
 ```  
 
 ## Running the project on something else than Linux

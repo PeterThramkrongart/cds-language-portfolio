@@ -12,7 +12,7 @@ To run the script follow these steps:
 There are 6 arguments which can but do not have to be specified (the default option is the Trump tweet data):
 
 flags: -i, --input_file,   default: ../data/raw/edges_df.csv,                              description: str, path to the input_file,
-flags: -o, --output_file:  default: ../data/interim/measures_of_centrality.csv,            description: str, path to output_file
+flags: -o, --output_file:  default: ../data/processed/measures_of_centrality.csv,            description: str, path to output_file
 flags: -t, --threshold:    default: 500,                                                   description: int, the minimum weight threshold
 flags: -l, --graph_labels: default: False,                                                 description: bool, whether to plot labels or not
 flags: -p, --plot_network: default: False,                                                 description: bool, whether to plot  the network or not
@@ -41,7 +41,7 @@ matplotlib.use("Agg")
 ## withing the main funciton allows the function to have default values when using the script as a module in a python session.
 def main(
   input_file = os.path.join("..", "data", "raw", "edges_df.csv"), 
-         output_file = os.path.join("..", "data", "interim","measures_of_centrality.csv"),
+         output_file = os.path.join("..", "data", "processed","measures_of_centrality.csv"),
          threshold = 500, 
          graph_labels = False,
          plot_network = False,
@@ -53,7 +53,7 @@ def main(
   
   Input:
     input_file,   default: ../data/raw/edges_df.csv,                              description: str, path to the input_file,
-    output_file:  default: ../data/interim/measures_of_centrality.csv,            description: str, path to output_file
+    output_file:  default: ../data/processed/measures_of_centrality.csv,            description: str, path to output_file
     threshold:    default: 500,                                                   description: int, the minimum weight threshold
     graph_labels: default: False,                                                 description: bool, whether to plot labels or not
     plot_network: default: False,                                                 description: bool, whether to plot  the network or not
@@ -120,7 +120,7 @@ if __name__ =="__main__":
     ap.add_argument("-i", "--input_file", default = os.path.join("..", "data", "raw", "edges_df.csv"),
                     type = str, help = "str,path to input_file")
         
-    ap.add_argument("-o", "--output_file",default = os.path.join("..", "data", "interim", "measures_of_centrality.csv"),
+    ap.add_argument("-o", "--output_file",default = os.path.join("..", "data", "processed", "measures_of_centrality.csv"),
                     type = str, help = "str, path to output_file")
     
     ap.add_argument("-t", "--threshold", default = 500, type = int, help = "int, the minimum weight threshold")
