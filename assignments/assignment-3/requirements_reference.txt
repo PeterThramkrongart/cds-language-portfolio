@@ -1,0 +1,5 @@
+spacy
+matplotlib
+pandas
+spacytextblob
+argparse
