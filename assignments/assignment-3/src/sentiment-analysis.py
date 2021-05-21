@@ -8,7 +8,6 @@ import matplotlib
 matplotlib.use("Agg")
 import spacy # for nlp pipeline
 from spacytextblob.spacytextblob import SpacyTextBlob  #For sentiment analysis
-from tqdm import tqdm
 import argparse
 
 # initialise spacy
@@ -39,7 +38,7 @@ input:
 
 
 
-def main(samples = 50000, cores = -1):
+def main(samples = 1195191, cores = -1):
 	"""
 	This function loads data as a pandas dataframe, calculates mean and variance of the sentiment scores per week and month. Lastly, it saves the figures.
 
@@ -50,11 +49,11 @@ def main(samples = 50000, cores = -1):
 	Output:
 		plots of mean and variance per week and month saved in reports/figures/
 	"""
-
+  
 	# load data as a pandas dataframe
 	data_path = os.path.join("..", "data", "raw", "abcnews-date-text.csv") #path to data
 	data = pd.read_csv(data_path) # read data
-
+	
 	# set a column to a date type and sample data frame 
 	data['publish_date'] = pd.to_datetime(data.publish_date, format="%Y%m%d") #convert variable to datetime format
 	data = data.sample(samples) # sample x random headlines
@@ -66,7 +65,7 @@ def main(samples = 50000, cores = -1):
 	senti_list = []
 
 	# a loop to extract sentiment score for every headline
-	for doc in tqdm(nlp.pipe(data.headline_text, disable = ["ner"])): #for each headline...
+	for doc in nlp.pipe(data.headline_text, disable = ["ner"], n_process = cores): #for each headline...
 	    #doc = nlp(headline)  #process headline
 	    score = doc._.polarity #extract sentiment score
 	    senti_list.append(score) #append to list
@@ -99,7 +98,7 @@ if __name__ =="__main__":
 	# We argparse to add possible inputs from terminal
     ap = argparse.ArgumentParser(description = "[INFO] This function loads data as a pandas dataframe, calculates mean and variance of the sentiment scores per week and month. Lastly, it saves the figures.")
     
-    ap.add_argument("-s", "--samples", default = 50000,
+    ap.add_argument("-s", "--samples", default = 1195191,
                     type = int, help = "int, The number of samples to use in the analysis")
 
     ap.add_argument("-c", "--cores", default = -1,
@@ -107,4 +106,6 @@ if __name__ =="__main__":
     
     args = vars(ap.parse_args())
 
+
     main(args["samples" ], args["cores"])
+

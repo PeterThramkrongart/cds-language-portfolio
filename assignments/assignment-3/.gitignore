@@ -8,6 +8,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 env/
+sentiment_analysis_venv/
 build/
 develop-eggs/
 dist/
