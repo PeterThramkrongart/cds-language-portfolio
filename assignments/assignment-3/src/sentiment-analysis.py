@@ -102,9 +102,9 @@ if __name__ =="__main__":
     ap.add_argument("-s", "--samples", default = 50000,
                     type = int, help = "int, The number of samples to use in the analysis")
 
-       ap.add_argument("-c", "--cores", default = -1,
+    ap.add_argument("-c", "--cores", default = -1,
                     type = int, help = "int,the number of cpu cores use for the text processing. Uses all available cores as a default.")
     
     args = vars(ap.parse_args())
 
-    main(args["samples", "cores"])
+    main(args["samples" ], args["cores"])
