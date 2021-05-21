@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/cds-au604148/cds-language-portfolio/assignments/assignment-3/sentiment_analysis_venv"
+VIRTUAL_ENV="/home/cds-au615814/cds-language-portfolio/assignments/assignment-3/sentiment_analysis_venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

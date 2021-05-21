@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/cds-au604148/cds-language-portfolio/assignments/assignment-3/sentiment_analysis_venv"
+set -gx VIRTUAL_ENV "/home/cds-au615814/cds-language-portfolio/assignments/assignment-3/sentiment_analysis_venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
