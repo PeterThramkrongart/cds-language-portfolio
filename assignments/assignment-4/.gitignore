@@ -8,7 +8,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 env/
-network_visualization_venv/
+network_analysis_venv/
 build/
 develop-eggs/
 dist/

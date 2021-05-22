@@ -34,38 +34,52 @@ The purpose of this assignment is to create a reusable network analysis pipeline
 ## Reproducibility
 
 **Step 1: Clone repository**  
-- open a Linux terminal
+
+- Open a Linux terminal
+
 - Navigate the destination of the repository
-- run the following command  
+
+- Run the following command  
+
 ```console
  git clone https://github.com/PeterThramkrongart/cds-language-portfolio.git
 ``` 
 
 **step 2: Run bash script:**  
-- Navigate to the folder "assignment-3".  
+
+- Navigate to the folder "assignment-4"
+
 ```console
-cd assignments/assignment-3
+cd assignments/assignment-4
 ```  
 - We have written a bash script _network_analysis.sh_ to set up a virtual environment, run the python script, save the plot, and kill the environment afterwards:  
+
 ```console
 bash network_analysis.sh
 ```  
-By default, the bash script runs the analysis on all the data and uses all available cores. This may not by an option for you. Therefore, you have to run the analysis manually:
+By default, the script runs on an edgelist created by taken from the real headlines from the "real or fake news" dataset from kaggle (https://www.kaggle.com/rchitic17/real-or-fake). If you want to run the script manually, you can do as follows:  
 
 **Step 1: Clone repository**  
-- open a Linux terminal
+
+- Open a Linux terminal
+
 - Navigate the destination of the repository
-- run the following command  
+
+- Run the following command  
+
 ```console
  git clone https://github.com/PeterThramkrongart/cds-language-portfolio.git
 ``` 
 
 **step 2: Set up the environment and activate it:**  
-- Navigate to the folder "assignment-3".  
+
+- Navigate to the folder "assignment-4" 
+
 ```console
-cd assignments/assignment-3
+cd assignments/assignment-4
 ```  
-- We have written a bash script _create_network_analysis_venv.sh_ to set up a virtual environment:  
+- We have written a bash script _create_network_analysis_venv.sh_ to set up a virtual environment: 
+
 ```console
 bash create_network_analysis_venv.sh
 
@@ -73,21 +87,60 @@ source network_analysis_venv/bin/activate
 ```  
 
 **step 3: run the python script:**  
+
 - Navigate to the folder "src".  
+
 ```console
 cd src
 ```  
-- run the python script _network_analysis.py_ and specify the number of cores to use in integers and the number of samples to use:  
-```console
-python network_analysis.py -c {number of cores} -s {number of samples}
-```  
+
+- Run the python script _network_analysis.py_ and specify the desired arguments:
+
+
+
+    flags: -i, --input_file,   default: ../data/interim/edges_df                         description: str,
+                                                                                         path to the input_file,
+                                                                                         
+    flags: -o, --output_file:  default: ../data/processed/measures_of_centrality.csv,    description: str,
+                                                                                         path to output_file
+                                                                                         
+    flags: -t, --threshold:    default: 500,                                             description: int,
+                                                                                         the minimum weight  threshold
+
+    flags: -l, --graph_labels: default: False,                                           description: bool,
+                                                                                         whether to plot labels or not
+                                                                                         
+                                                                                         
+    flags: -p, --plot_network: default: False,                                           description: bool,
+                                                                                         whether to plot  the network
+                                                                                         or not
+                                                                                         
+    flags: -pf, --plot_file:   default: ../report/figures/network_visualization.png,     description: str,
+                                                                                         path to plot_file
+    
+    
+    
+    examples:
+    
+      python network_analysis.py -p -l -t 1500 -pf ../reports/figures/network_visualization_threshold_1500.png
+      
+    When using boolean flags, just leave them empty.
+
+
+ ```console
+python network_analysis.py -p -l
+```
 
 **step 4 (optional): kill the environment:**  
-- Navigate to the folder "assignment-3".  
+
+- Navigate to the folder "assignment-4"
+
 ```console
 cd ..
 ```  
-- run the bash script _kill_network_analysis_venv.sh_ to remove the virtual environment:  
+
+- Run the bash script _kill_network_analysis_venv.sh_ to remove the virtual environment:  
+
 ```console
 bash kill_network_analysis_venv.sh
 ```  
