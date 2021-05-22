@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#usr/bin/python
 
 # Packages
 
@@ -98,9 +98,9 @@ def process_word_no_grams():
   # lemmatize and POS tag using spaCy
   print("lemmatizing and pos-tagging docs...")
   for sent in texts:
-      sentence_list.append(sent)
+      sentence_list.append(" ".join(sent))
   
-  for doc in nlp.pipe(sentence_list, n_process = -1):
+  for doc in tqdm(nlp.pipe(sentence_list, n_process = -1), total = len(sentence_list)):
       texts_out.append([f"{token.lemma_}_{token.pos_}" for token in doc if token.pos_ in allowed_postags]) 
   return texts_out
 
@@ -143,8 +143,8 @@ def lda_modeling():
   vis = pyLDAvis.gensim.prepare(lda_model, corpus, dictionary=lda_model.id2word)
    
   # save the LDA plot
-  pyLDAvis.save_html(vis,os.path.join("..", "report", "figure", "philosophy_LDAvis.html"))
-  print(f"Done!, the vizualization is available at {os.path.join('..', 'report', 'figure', 'philosophy_LDAvis.html')}")
+  pyLDAvis.save_html(vis,os.path.join("..", "reports", "figures", "philosophy_LDAvis.html"))
+  print(f"Done!, the vizualization is available at {os.path.join('..', 'report', 'figures', 'philosophy_LDAvis.html')}")
   
 if __name__ =="__main__":
   df = data_wrapping()

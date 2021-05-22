@@ -3,12 +3,12 @@
   The function calculates measures of network centrality and and can optionally plot the network.
 
 
-flags: -i, --input_file,   default: ../data/interim/edges_df.csv,                              description: str, path to the input_file,
-flags: -o, --output_file:  default: ../data/processed/measures_of_centrality.csv,            description: str, path to output_file
+flags: -i, --input_file,   default: ../data/interim/edges_df.csv,                          description: str, path to the input_file,
+flags: -o, --output_file:  default: ../data/processed/measures_of_centrality.csv,          description: str, path to output_file
 flags: -t, --threshold:    default: 500,                                                   description: int, the minimum weight threshold
 flags: -l, --graph_labels: default: False,                                                 description: bool, whether to plot labels or not
 flags: -p, --plot_network: default: False,                                                 description: bool, whether to plot  the network or not
-flags: -pf, --plot_file:   default: ../report/figures/network_visualization.png,           description: str, path to plot_file
+flags: -pf, --plot_file:   default: ../reports/figures/network_visualization.png,           description: str, path to plot_file
 
 
 

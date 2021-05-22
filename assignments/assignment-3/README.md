@@ -33,6 +33,8 @@ Originally, we were using a 2.3.2 version of Spacy which was considerably slower
 
 We saved the resulting figures with the matplotlib.
 
+Because this project uses Spacy's nlp.pipe() method for the processing, the progress bar is a bit weird. That is the cost of mini-batches and parallelization. If you monitor the machine with ```htop ```, you can see that the machine is indeed working and not stuck.
+
 ## Results
 
 __Weekly and monthly mean sentiments scores based on the full dataset:__
@@ -58,14 +60,17 @@ __Variance of weekly sentiments scores based on the full 50000:__
 
 Sample size seems to highly influential on the readability as well as the reliability of the analysis. We consider it very difficult to conclude anything from our original plots based on 50000. We, of course, see a huge increase in variance, and an uncountable amount of spikes compared to the full sample size.
 
-## Reproducibility
 
 ## Reproducibility
 
 **Step 1: Clone repository**  
-- open a Linux terminal
+
+- Open a Linux terminal
+
 - Navigate the destination of the repository
-- run the following command  
+
+- Run the following command:  
+
 ```console
  git clone https://github.com/PeterThramkrongart/cds-language-portfolio.git
 ``` 
@@ -82,19 +87,26 @@ bash sentiment_analysis.sh
 By default, the bash script runs the analysis on all the data and uses all available cores. This may not by an option for you. Therefore, you have to run the analysis manually:
 
 **Step 1: Clone repository**  
-- open a Linux terminal
+
+- Open a Linux terminal
+
 - Navigate the destination of the repository
-- run the following command  
+
+- Run the following command:
+
 ```console
  git clone https://github.com/PeterThramkrongart/cds-language-portfolio.git
 ``` 
 
 **step 2: Set up the environment and activate it:**  
-- Navigate to the folder "assignment-3".  
+
+- Navigate to the folder "assignment-3":
+
 ```console
 cd assignments/assignment-3
 ```  
-- We have written a bash script _create_sentiment_analysis_venv.sh_ to set up a virtual environment:  
+- We have written a bash script _create_sentiment_analysis_venv.sh_ to set up a virtual environment: 
+
 ```console
 bash create_sentiment_analysis_venv.sh
 
@@ -102,21 +114,28 @@ source sentiment_analysis_venv/bin/activate
 ```  
 
 **step 3: run the python script:**  
-- Navigate to the folder "src".  
+
+- Navigate to the folder "src":
+
 ```console
 cd src
 ```  
-- run the python script _sentiment_analysis.py_ and specify the number of cores to use in integers and the number of samples to use:  
+- Run the python script _sentiment_analysis.py_ and specify the number of cores to use in integers and the number of samples to use:  
+
 ```console
 python sentiment_analysis.py -c {number of cores} -s {number of samples}
 ```  
 
 **step 4 (optional): kill the environment:**  
-- Navigate to the folder "assignment-3".  
+
+- Navigate to the folder "assignment-3":
+
 ```console
 cd ..
 ```  
-- run the bash script _kill_sentiment_analysis_venv.sh_ to remove the virtual environment:  
+
+- Run the bash script _kill_sentiment_analysis_venv.sh_ to remove the virtual environment:  
+
 ```console
 bash kill_sentiment_analysis_venv.sh
 ```

@@ -381,7 +381,7 @@ summary {
 <div id="github-link" class="section level2">
 <h2>Github link</h2>
 <p>Link to the repository: <a href="https://github.com/PeterThramkrongart/cds-language-portfolio.git" class="uri">https://github.com/PeterThramkrongart/cds-language-portfolio.git</a></p>
-<p>Link to the assignment folder:</p>
+<p>Link to the assignment folder: <a href="https://github.com/PeterThramkrongart/cds-language-portfolio/tree/main/assignments/assignment-3" class="uri">https://github.com/PeterThramkrongart/cds-language-portfolio/tree/main/assignments/assignment-3</a></p>
 </div>
 <div id="contribution" class="section level2">
 <h2>Contribution</h2>
@@ -401,7 +401,7 @@ summary {
 </div>
 <div id="methods" class="section level2">
 <h2>Methods</h2>
-<p>We used SpacyTextBlob and Spacy to extract a 1-month and 1-week rolling averages and variance. Spacy and its pre-trained model <em>en_core_web_sm</em> (<a href="https://spacy.io/models/en" class="uri">https://spacy.io/models/en</a>) to pre-process the headlines. Then we used the spacytextblob pipeline which utilizes Textblob package and returns a polarity value in the range of -1 to 1</p>
+<p>We used SpacyTextBlob and Spacy to extract a 1-month and 1-week rolling averages and variance. Spacy and its pre-trained model <em>en_core_web_sm</em> (<a href="https://spacy.io/models/en" class="uri">https://spacy.io/models/en</a>) to pre-process the headlines. Then we used the spacytextblob pipeline which utilizes Textblob package and returns a polarity value in the range of -1 to 1.</p>
 <p>Originally, we were using a 2.3.2 version of Spacy which was considerably slower compared to the Spacy &gt;= 3.0.0. For the final version of this project, we used the newest version of spacy available (spacy==3.0.6) and spacytextblob (spacytextblob==3.0.1). This allowed us to use the nlp.pipe() method instead, which can distribute the workload in mini-batches. It additionally allows the calculations to be made in parallel to increase speed dramatically. Initially, we used the default model pipeline, but we chose to disable named entity recognition, as we assume that only names like Voldemort and Hitler are going to influence the score if at all. We, therefore, deemed NER unnecessary and slow. That warranted a 20% increase in speed. Originally, we only able to run the project on less than 1/20th of the dataset, but after our improvements, we are now able to utilize the whole dataset. Using all data and all available processing power on worker2 it takes about 14 minutes to run the project.</p>
 <p>We saved the resulting figures with the matplotlib.</p>
 </div>
@@ -419,21 +419,65 @@ summary {
 </div>
 <div id="reproducibility" class="section level2">
 <h2>Reproducibility</h2>
-<p><strong>Step 1: Clone repository</strong><br />
-- open a Linux terminal - Navigate the destination of the repository - run the following command</p>
+</div>
+<div id="reproducibility-1" class="section level2">
+<h2>Reproducibility</h2>
+<p><strong>Step 1: Clone repository</strong></p>
+<ul>
+<li><p>Open a Linux terminal</p></li>
+<li><p>Navigate the destination of the repository</p></li>
+<li><p>Run the following command:</p></li>
+</ul>
 <pre class="console"><code> git clone https://github.com/PeterThramkrongart/cds-language-portfolio.git</code></pre>
 <p><strong>step 2: Run bash script:</strong><br />
 - Navigate to the folder “assignment-3”.</p>
 <pre class="console"><code>cd assignments/assignment-3</code></pre>
 <ul>
-<li>We have written ad <em>edge_detection.sh</em> to set up a virtual environment, run the python script, save the images, and kill the environment afterward:<br />
+<li>We have written a bash script <em>sentiment_analysis.sh</em> to set up a virtual environment, run the python script, save the plots, and kill the environment afterwards:<br />
 </li>
 </ul>
-<pre class="console"><code>bash edge_detection.sh</code></pre>
+<pre class="console"><code>bash sentiment_analysis.sh</code></pre>
+<p>By default, the bash script runs the analysis on all the data and uses all available cores. This may not by an option for you. Therefore, you have to run the analysis manually:</p>
+<p><strong>Step 1: Clone repository</strong></p>
+<ul>
+<li><p>Open a Linux terminal</p></li>
+<li><p>Navigate the destination of the repository</p></li>
+<li><p>Run the following command:</p></li>
+</ul>
+<pre class="console"><code> git clone https://github.com/PeterThramkrongart/cds-language-portfolio.git</code></pre>
+<p><strong>step 2: Set up the environment and activate it:</strong></p>
+<ul>
+<li>Navigate to the folder “assignment-3”:</li>
+</ul>
+<pre class="console"><code>cd assignments/assignment-3</code></pre>
+<ul>
+<li>We have written a bash script <em>create_sentiment_analysis_venv.sh</em> to set up a virtual environment:</li>
+</ul>
+<pre class="console"><code>bash create_sentiment_analysis_venv.sh
+
+source sentiment_analysis_venv/bin/activate</code></pre>
+<p><strong>step 3: run the python script:</strong></p>
+<ul>
+<li>Navigate to the folder “src”:</li>
+</ul>
+<pre class="console"><code>cd src</code></pre>
+<ul>
+<li>Run the python script <em>sentiment_analysis.py</em> and specify the number of cores to use in integers and the number of samples to use:</li>
+</ul>
+<pre class="console"><code>python sentiment_analysis.py -c {number of cores} -s {number of samples}</code></pre>
+<p><strong>step 4 (optional): kill the environment:</strong></p>
+<ul>
+<li>Navigate to the folder “assignment-3”:</li>
+</ul>
+<pre class="console"><code>cd ..</code></pre>
+<ul>
+<li>Run the bash script <em>kill_sentiment_analysis_venv.sh</em> to remove the virtual environment:</li>
+</ul>
+<pre class="console"><code>bash kill_sentiment_analysis_venv.sh</code></pre>
 </div>
 <div id="running-the-project-on-something-else-than-linux" class="section level2">
 <h2>Running the project on something else than Linux</h2>
-<p>Our projects are mainly made for Linux/mac users. Our python scripts should run on any machine, though our bash scripts may not work. For this case, we recommend using the python distribution system from <a href="https://www.anaconda.com/" class="uri">https://www.anaconda.com/</a> to set up environments using our requirements.txt files.</p>
+<p>Our projects are mainly made for Linux/Mac users. Our python scripts should run on any machine, though our bash scripts may not work. For this case, we recommend using the python distribution system from <a href="https://www.anaconda.com/" class="uri">https://www.anaconda.com/</a> to set up environments using our requirements.txt files.</p>
 </div>
 <div id="project-organization" class="section level2">
 <h2>Project Organization</h2>

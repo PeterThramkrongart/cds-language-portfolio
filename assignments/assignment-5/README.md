@@ -37,6 +37,8 @@ First, we loaded the data as sentences and collapsed them into large text string
 Second, we divided the texts into chunks of 2000 tokens for easier modeling. The chunk size of 2000 tokens was chosen as a balance between strain on memory or CPU, sufficient context to words, and reasonable computational time.   
 Third, we removed stopwords and then tokenized, lemmatized, and pos-tagged the texts using a modified version of Ross' function for pre-processing with spaCy. We chose to only consider nouns, adjectives, and verbs, and to disregard n-grams entirely. This was because this analysis was about the major concepts and topics in philosophy and not the major individuals or places. We, therefore, don't expect n-grams to be of much use for us. Lastly, we chose to bind lemmas to their POS-tag to aid comprehension of the models and to attempt to individualize homonyms(words that are spelled the same way but have multiple meanings like the word "show").
 
+Because this project uses Spacy's nlp.pipe() method for the processing, the progress bar is a bit weird. That is the cost of mini-batches and parallelization. If you monitor the machine with ```htop ```, you can see that the machine is indeed working and not stuck.
+
 __Modeling__
 
 We modeled our data using Gensim's LDA-algorithm. We fit the model to 15 topics with 1000 iterations and 10 passes. We set the gamma threshold to 0.005 to stop the model earlier when it stopped improving more than the threshold. Each text chunk (that originally consisted of 2000 words each before pre-processing) was treated as a separate document. Lastly, we computed a coherence score and perplexity to evaluate the model's performance.
