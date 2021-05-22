@@ -1,3 +1,5 @@
+#usr/bin/python
+
 # Packages
 
 ## standard library
@@ -39,7 +41,7 @@ def data_wrapping():
   """
   collapses sentences tro full texts by title
   """
-  data = pd.read_csv(os.path.join("..", "data", "assignment5","small_dataset.csv"))
+  data = pd.read_csv(os.path.join("..", "data", "interim","small_dataset.csv"))
     
   # group by title (author and school just to keep in, don't have any effect)
   df = data.groupby(["author","school","title"])
@@ -80,7 +82,7 @@ def chunking():
   # flatten chunk list from a nested list to a list
   text_chunks = [item for l in chunk_list for item in l]
   
-  print("Texts have been divided into cunks of 2000 tokens each for easier preprocessing")
+  print("Texts have been divided into chunks of 2000 tokens each for easier preprocessing")
   return(text_chunks)
 
 ## Ross' function for stopwords, lemmatization
@@ -92,11 +94,13 @@ def process_word_no_grams():
   text_chunks = [[word for word in simple_preprocess(str(doc)) if word not in stop_words] for doc in tqdm(texts)]
   print("the texts have been roughly preprocessed")
   texts_out = []
-  
+  sentence_list = []
   # lemmatize and POS tag using spaCy
   print("lemmatizing and pos-tagging docs...")
-  for sent in tqdm(texts): 
-      doc = nlp(" ".join(sent)) 
+  for sent in texts:
+      sentence_list.append(" ".join(sent))
+  
+  for doc in tqdm(nlp.pipe(sentence_list, n_process = -1), total = len(sentence_list)):
       texts_out.append([f"{token.lemma_}_{token.pos_}" for token in doc if token.pos_ in allowed_postags]) 
   return texts_out
 
@@ -139,8 +143,8 @@ def lda_modeling():
   vis = pyLDAvis.gensim.prepare(lda_model, corpus, dictionary=lda_model.id2word)
    
   # save the LDA plot
-  pyLDAvis.save_html(vis,os.path.join("..", "data", "assignment5", "philosophy_LDAvis.html"))
-  print(f"Done!, the vizualization is available at {os.path.join('..', 'data', 'assignment5', 'philosophy_LDAvis.html')}")
+  pyLDAvis.save_html(vis,os.path.join("..", "reports", "figures", "philosophy_LDAvis.html"))
+  print(f"Done!, the vizualization is available at {os.path.join('..', 'reports', 'figures', 'philosophy_LDAvis.html')}")
   
 if __name__ =="__main__":
   df = data_wrapping()

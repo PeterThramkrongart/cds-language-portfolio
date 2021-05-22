@@ -15,4 +15,4 @@ cd ..
 deactivate
 
 # kill the environment
-bash kill_lda_venv_venv.sh
+bash kill_lda_venv.sh
