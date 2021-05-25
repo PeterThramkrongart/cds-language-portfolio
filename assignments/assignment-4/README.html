@@ -406,6 +406,8 @@ summary {
 </div>
 <div id="results" class="section level2">
 <h2>Results</h2>
+<p>With our data, we see a clearly defined cluster around “Clinton”, where many nodes only connect to “Clinton”. We also see small, but much more interconnected, clusters around “Trump”,“Bush”,“Obama” and a couple of others. All clusters seem to be connected to each other forming a big clusters with four non-connected outliers. We assume, that the “Clinton”-cluster has taken the center role, partly because it actually refers to 2 very prominent figures instead of just one. We see small but similar cases with “Bush” and “Obama”. We think the difference between “Clinton” and the other cases is that both Hillary and Bill Clinton have had very long, prominent and powerful careers in politics compared to Michelle Obama and Jeb Bush. This artifact seems be be caused by the named entity recognition as it doesn’t assign full names to the last name, and vice versa, thereby, creating an overlap.</p>
+<p>Below are the top 20 entries sorted by their degree of centrality, and plots of the network with and without labels:</p>
 <pre><code>| I |node            |    degree| betweenness| eigenvector|
 |--:|:---------------|---------:|-----------:|-----------:|
 |  7|Clinton         | 0.8080808|   0.7087182|   0.4704822|
@@ -497,7 +499,11 @@ source network_analysis_venv/bin/activate</code></pre>
 </div>
 <div id="running-the-project-on-something-else-than-linux" class="section level2">
 <h2>Running the project on something else than Linux</h2>
-<p>Our projects are mainly made for Linux/mac users. Our python scripts should run on any machine, though our bash scripts may not work. For this case, we recommend using the python distribution system from <a href="https://www.anaconda.com/" class="uri">https://www.anaconda.com/</a> to setup environments using our requirements.txt files. We have heard about people having problems with networkx and matplotlib on Windows machines, so this specific script might not run as intended on Windows. Project Organization ———— The folder structure of our projects is based on a simplified version of the cookiecutter datascience folder structure <a href="https://drivendata.github.io/cookiecutter-data-science/" class="uri">https://drivendata.github.io/cookiecutter-data-science/</a>. For the sake of generalizability, some folders will remain empty in some projects but overall this will make folder navigation easier.</p>
+<p>Our projects are mainly made for Linux/mac users. Our python scripts should run on any machine, though our bash scripts may not work. For this case, we recommend using the python distribution system from <a href="https://www.anaconda.com/" class="uri">https://www.anaconda.com/</a> to setup environments using our requirements.txt files. We have heard about people having problems with networkx and matplotlib on Windows machines, so this specific script might not run as intended on Windows.</p>
+</div>
+<div id="project-organization" class="section level2">
+<h2>Project Organization</h2>
+<p>The folder structure of our projects is based on a simplified version of the cookiecutter datascience folder structure <a href="https://drivendata.github.io/cookiecutter-data-science/" class="uri">https://drivendata.github.io/cookiecutter-data-science/</a>. For the sake of generalizability, some folders will remain empty in some projects but overall this will make folder navigation easier.</p>
 <pre><code>├── LICENSE
 ├── README.md          &lt;- The top-level README for developers using this project.
 ├── data
