@@ -73,10 +73,13 @@ def main():
 
     data[['book_pages', 'book_rating', 'book_rating_count', 'book_review_count']] = scaler.fit_transform(data[['book_pages', 'book_rating', 'book_rating_count', 'book_review_count']])
     
+    print("Data has been succesfully loaded and scaled")
     # empty list containers
     english = []
     texts = []
-
+    
+    print("Lemmatizing summaries and detecting languages. This uses all available cores...")
+    
     # parallel detecting a language of book description  and lemmetazing it
     for doc in tqdm(nlp.pipe(data.book_desc,n_process = -1)):
         english.append(doc._.language == 'en')
@@ -90,14 +93,16 @@ def main():
     data = data.sort_values("book_review_count", ascending = False)
     data = data.drop_duplicates(subset = ["book_title"])
     data = data.reset_index(drop = True)
-
+    
     # replacing value seperator in genres and book_authors
     data["genres"] = data.genres.str.replace("|", ", ")
     data["book_authors"] = data.book_authors.str.replace("|", ", ")
 
     # saving the cleaned dataset
     data.to_csv(os.path.join("..","data","processed","rec_catalog.csv"),index = False)
-
+    
+    
+    print("Vectorizing genre- , author- and summary columns")
     # initiliasing a count vectorizer with custom tokenizer to treat author names and two name genres as one
     vectorizer = CountVectorizer(tokenizer = split_authors_and_genres)
 
@@ -113,7 +118,8 @@ def main():
     tf = TfidfVectorizer(analyzer='word', ngram_range=(1, 3), min_df=0, stop_words='english')
     tfidf_vec= tf.fit_transform((data["text_processed"]))
     np.save(os.path.join("..","data","processed","tfidf_vec.npy"), tfidf_vec)
-
+    
+    print("Done :-)")
 if __name__=="__main__":
     main()
 

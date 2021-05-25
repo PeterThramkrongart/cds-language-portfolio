@@ -1,0 +1,501 @@
+,book_title,book_authors,genres,book_rating_count,book_rating,rec_score
+2319,Gerald's Game,Stephen King,"Fiction, Horror, Thriller",0.20520194546133189,-1.8410412061014692,1.0
+1574,Duma Key,Stephen King,"Horror, Fiction",0.09711111978511598,-0.16228720030580626,0.9998103185518203
+1294,The Green Mile,Stephen King,"Horror, Fiction, Fantasy, Thriller",0.5812773843400093,1.6656893837828048,0.9947952135654623
+2136,The Eyes of the Dragon,Stephen King,"Fantasy, Fiction, Horror",0.10384628616742754,-0.1995928448790424,0.990650978633036
+12965,Storm of the Century: An Original Screenplay,Stephen King,"Horror, Fiction",-0.1753193283031174,-0.3115097785987543,0.9809285625552844
+1111,The Drawing of the Three,Stephen King,"Fantasy, Fiction, Horror, Science Fiction",0.4661662025216741,0.919576492318068,0.9794680765659516
+311,The Shining,Stephen King,"Horror, Fiction, Thriller",3.3401796804669783,0.7703539140251199,0.9724525189583928
+1573,The Dark Tower,Stephen King,"Fantasy, Fiction, Horror",0.2267630726446135,1.1061047151842522,0.9719369200137022
+402,Doctor Sleep,Stephen King,"Horror, Fiction, Thriller, Fantasy",0.2758078979134878,0.4346031128659843,0.9666932677272775
+3962,Hearts in Atlantis,Stephen King,"Horror, Fiction, Fantasy",0.054051372763168175,-0.6472605797578865,0.9574440721504298
+19979,Carrie / 'Salem's Lot / The Shining,Stephen King,"Horror, Fiction",-0.19048517279043375,2.113357118661649,0.9542322345703647
+363,The Gunslinger,Stephen King,"Fantasy, Fiction, Horror, Science Fiction",1.4509420699743552,-0.05037026658609438,0.9502676134520949
+968,'Salem's Lot,Stephen King,"Horror, Fiction, Paranormal, Vampires, Fantasy",0.8282517163336127,0.061546667133615826,0.9499584086251376
+19654,"The Dark Tower, Books 1-3: The Gunslinger, The Drawing of the Three, and The Waste Lands",Stephen King,"Fantasy, Fiction, Horror, Science Fiction",-0.2160389566110254,1.8149119620757532,0.9310958930187869
+374,The Stand,Stephen King,"Horror, Fiction, Fantasy, Science Fiction, Apocalyptic, Post Apocalyptic",1.8026865249614799,1.3299385826236725,0.9309910118222844
+2342,LISEY'S STORY.,Stephen King,"Horror, Fiction, Fantasy",-0.009670958363214577,-1.206845248356441,0.9240780465919296
+1425,Cell,Stephen King,"Horror, Fiction, Horror, Zombies, Thriller",0.4161486067022223,-1.2441508929296787,0.921746837643413
+1039,Pet Sematary,Stephen King,"Horror, Fiction, Thriller, Fantasy, Fantasy, Paranormal, Fantasy, Supernatural, Suspense, Adult, Horror, Zombies, Mystery",1.014011824403527,-0.1995928448790424,0.915112417674848
+1630,The Wind Through the Keyhole,"Stephen King, Jae Lee","Fantasy, Fiction, Horror",-0.030153833851880182,0.6211313357321718,0.9054141163352236
+440,Under the Dome,Stephen King,"Horror, Fiction, Science Fiction, Thriller",0.6272398161775358,-0.3115097785987543,0.9009329046401677
+3122,Just After Sunset,Stephen King,"Horror, Short Stories, Fiction",-0.08062851462883225,-0.4607323568917023,0.8981708951878058
+373,Mahşer,Stephen King,"Horror, Fiction, Fantasy, Science Fiction, Apocalyptic, Post Apocalyptic",1.803022501938788,1.3299385826236725,0.8893763415744855
+651,Carrie,Stephen King,"Horror, Fiction, Thriller, Fantasy, Paranormal",1.3943065090437454,-0.16228720030580626,0.8858694630621693
+5608,Four Past Midnight,Stephen King,"Horror, Fiction, Short Stories",0.09976768193127136,-0.2742041340255165,0.8797453803740627
+4847,Black House,"Stephen King, Peter Straub","Horror, Fantasy, Fiction",-0.055113797898625284,0.061546667133615826,0.8747579965909047
+2187,Cujo,Stephen King,"Horror, Fiction, Thriller",0.4933451773022666,-1.1322339592099668,0.8736396389689911
+1610,The Waste Lands,"Stephen King, Ned Dameron","Fantasy, Fiction, Horror, Science Fiction",0.3622282085533451,0.956882136891304,0.8728797002031476
+897,Misery,Stephen King,"Horror, Fiction, Thriller",1.3244545514360129,0.5465200465856962,0.8662308043314693
+4602,Skeleton Crew,Stephen King,"Horror, Fiction, Short Stories",0.1350687048028301,-0.16228720030580626,0.8577762208752697
+3659,Everything's Eventual: 14 Dark Tales,Stephen King,"Horror, Short Stories, Fiction",0.04947270977008862,-0.1249815557325684,0.8541113124802662
+6405,Rita Hayworth and Shawshank Redemption: A Story from Different Seasons,Stephen King,"Fiction, Short Stories, Horror, Audiobook",-0.183292921450622,2.0014401849419365,0.8470748014481633
+705,Revival,Stephen King,"Horror, Fiction, Thriller",0.06778345503336837,-0.8337888026240724,0.84667729596107
+104,11.22.63,Stephen King,"Fiction, Historical, Historical Fiction, Science Fiction, Science Fiction, Time Travel, Fantasy",1.1038622255791557,1.1807160043307243,0.8450225922207455
+105,11/22/1963,Stephen King,"Fiction, Historical, Historical Fiction, Science Fiction, Science Fiction, Time Travel, Fantasy",1.1028503879381937,1.1807160043307243,0.8449973237077009
+1522,Wizard and Glass,"Stephen King, Dave McKean","Fantasy, Fiction, Horror, Science Fiction",0.2958766622440763,0.9941877814645405,0.839148403130844
+2496,Needful Things,Stephen King,"Horror, Fiction, Thriller",0.44282361601685294,-0.3488154231719905,0.8295461988770105
+8805,Apt Pupil,Stephen King,"Horror, Fiction, Thriller, Short Stories",-0.1665487665117662,-0.4980380014649386,0.8282703972687793
+6029,Nightmares and Dreamscapes,Stephen King,"Horror, Short Stories, Fiction",0.008999204131603841,-0.23689848945228026,0.8254170935483818
+1291,"Full Dark, No Stars",Stephen King,"Horror, Fiction, Short Stories, Thriller",0.0615991346254802,0.2480748899998001,0.821625076829287
+3636,Rose Madder,Stephen King,"Horror, Fiction, Thriller",0.0814569366679916,-1.1322339592099668,0.8163528180937418
+3260,Firestarter,Stephen King,"Horror, Fiction, Thriller, Science Fiction",0.390942519986054,-0.4607323568917023,0.8119273161151808
+2728,The Talisman,"Stephen King, Peter Straub","Horror, Fantasy",0.12742327521455646,0.5465200465856962,0.8070408289646664
+13143,"Nightmare At 20,000 Feet: Horror Stories","Richard Matheson, Stephen King","Horror, Short Stories, Fiction, Fantasy, Science Fiction",-0.2192580848587196,0.3972974682927481,0.8065336392849236
+4313,The Dark Half,Stephen King,"Horror, Fiction, Thriller",0.17553439702323795,-0.8710944471973087,0.8048408058088168
+635,Joyland,Stephen King,"Mystery, Horror, Fiction, Thriller, Mystery, Crime",0.11770728983589705,-0.2742041340255165,0.8018252660885352
+431,Mr. Mercedes,Stephen King,"Fiction, Thriller, Horror, Mystery, Mystery, Crime",0.4532115553501282,-0.16228720030580626,0.7995549934493725
+5609,"Four Past Midnight (Four Past Midnight, #1-4)",Stephen King,"Horror, Fiction, Short Stories",0.09978721547646367,-0.2742041340255165,0.7977955693203989
+5137,Cycle of the Werewolf,"Stephen King, Bernie Wrightson","Horror, Fiction, Fantasy, Shapeshifters, Werewolves",-0.086211201844797,-1.3187621820761528,0.7944646507141562
+3882,The Mist,"Stephen King, B. Amato","Horror, Fiction, Thriller, Fantasy, Science Fiction",0.12618875515840192,-0.16228720030580626,0.7907994363952545
+1529,Sleeping Beauties,"Stephen King, Owen King","Horror, Fantasy, Fiction, Thriller",-0.1005683575611514,-0.8710944471973087,0.7685471919774394
+1950,The Girl Who Loved Tom Gordon,Stephen King,"Horror, Fiction, Thriller",0.1905752268213235,-1.5425960495155748,0.7673655117353713
+890,Finders Keepers,Stephen King,"Fiction, Horror, Mystery, Mystery, Crime, Thriller",0.0779526186604896,0.2107692454265639,0.7602678397244873
+1895,The Bazaar of Bad Dreams,Stephen King,"Fantasy, Audiobook",-0.1053032889157695,-0.23689848945228026,0.7592858011205699
+2937,Night Shift,"Stephen King, John D. MacDonald","Horror, Short Stories, Fiction",0.24652711367020175,-0.013064622012858192,0.7490026945527581
+131,A Monster Calls,Patrick Ness,"Fantasy, Young Adult, Fiction, Horror",0.3898369213281687,1.4418555163433844,0.7429516377171981
+1112,End of Watch,Stephen King,"Horror, Fiction, Thriller, Mystery, Mystery, Crime, Audiobook",-0.000611300103017064,0.3972974682927481,0.7429323004606647
+7795,The Bachman Books,"Richard Bachman, Stephen King","Horror, Fantasy, Suspense, Anthologies",-0.005916610977250879,0.4719087574392238,0.7400055446594618
+5946,The Regulators,"Richard Bachman, Stephen King","Horror, Fiction, Thriller",0.0036977999664084883,-1.0949283146367308,0.7394702126471087
+11,Harry Potter and the Sorcerer's Stone,"J.K. Rowling, Mary GrandPré","Fantasy, Young Adult, Fiction",21.5881636630438,1.7776063175025167,0.7350641855047845
+0,The Hunger Games,Suzanne Collins,"Young Adult, Fiction, Science Fiction, Dystopia, Fantasy, Science Fiction",21.3298442480025,1.2926329380504364,0.7240619179021731
+4699,From a Buick 8,Stephen King,"Horror, Thriller, Science Fiction, Fantasy, Supernatural, Fiction, Mystery, Fantasy, Paranormal, Audiobook, Emergency Services, Police, Suspense",-0.035967016901114285,-2.0648750735408914,0.720553955733046
+4945,Blaze,"Richard Bachman, Stephen King","Horror, Fiction, Thriller",-0.11082737549615727,-1.0949283146367308,0.7095084645110952
+5213,Rage,"Richard Bachman, Stephen King","Horror, Fiction, Thriller",-0.1392682172961736,-0.7218718689043606,0.7067992474797019
+2872,Christine,"Stephen King, Marie Milpois","Horror, Fiction, Thriller",0.41947712280299343,-0.9084000917705448,0.701751709198424
+8274,Danse Macabre,Stephen King,"Horror, Nonfiction",-0.15695388911329916,-1.3187621820761528,0.7016823374365488
+6686,The Body,"Stephen King, Robin A.H. Waterfield","Horror, Fiction, Short Stories, Young Adult, Coming Of Age",-0.13379491793328585,1.0314934260377764,0.7008881799101978
+3468,Dreamcatcher,"Stephen King, William Olivier Desmond, Maria Teresa Marenco","Horror, Fiction, Science Fiction",0.28189845730445284,-1.393373471222627,0.6897089549532096
+4,Divergent,Veronica Roth,"Young Adult, Science Fiction, Dystopia, Fiction, Fantasy",9.502634237866863,0.8822708477448284,0.6607992645614515
+19348,Song for the Basilisk,Patricia A. McKillip,"Fantasy, Fiction, Fantasy, High Fantasy, Science Fiction Fantasy",-0.2358459714360368,-0.013064622012858192,0.66027014267942
+10053,Books of Blood: Volumes One to Three,Clive Barker,"Short Stories, Fiction, Fantasy, Horror",-0.15758286926849185,0.6957426248786442,0.6589204736385685
+1,The Fault in Our Stars,John Green,"Young Adult, Fiction, Romance, Contemporary",11.024047378970044,0.956882136891304,0.6579709038737325
+1063,Odd Thomas,Dean Koontz,"Horror, Fiction, Mystery, Fantasy, Thriller, Fantasy, Paranormal",0.6389286896206193,-0.1249815557325684,0.6563532778870037
+1601,Oathbringer,Brandon Sanderson,"Fantasy, Fiction, Fantasy, Epic Fantasy",-0.013843323616293894,2.449107919820781,0.6511023045913336
+21437,Inside the Outside,Martin Lastrapes,"Horror, Fiction, Fantasy",-0.2436632962220028,-0.08767591115933222,0.6427361963373281
+5317,Abarat,Clive Barker,"Fantasy, Young Adult, Fiction, Horror",-0.15158216418541146,0.3972974682927481,0.6419985323299953
+14388,Toothiana: Queen of the Tooth Fairy Armies,William Joyce,"Fantasy, Childrens, Fiction",-0.2356701695293059,0.8822708477448284,0.6412065754651703
+9372,"The Way of Kings, Part 1",Brandon Sanderson,"Fantasy, Fiction",-0.1972359660088992,2.561024853540493,0.6404955263156212
+435,On Writing: A Memoir of the Craft,Stephen King,"Nonfiction, Language, Writing, Autobiography, Memoir, Biography",0.4487227466649333,1.2553272934772002,0.6369798867400989
+6448,Weaveworld,Clive Barker,"Fantasy, Horror, Fiction, Fantasy, Dark Fantasy",-0.14601510380560054,0.5465200465856962,0.6328622147853764
+148,The Graveyard Book,"Neil Gaiman, Chris Riddell","Fantasy, Young Adult, Fiction, Horror, Childrens, Fantasy, Paranormal",1.1997406788011338,0.5092144020124599,0.6325791260512046
+769,House of Leaves,Mark Z. Danielewski,"Horror, Fiction, Fantasy, Mystery",0.14928131228476132,0.5092144020124599,0.6293728373149237
+6595,The Dark Tower: The Gunslinger Born,"Peter David, Robin Furth, Jae Lee, Richard Isanove, Stephen King","Sequential Art, Graphic Novels, Fantasy, Sequential Art, Comics, Fiction, Horror",0.02752091168296063,0.8076595585983559,0.628912450836891
+12811,The Stand: Captain Trips,"Roberto Aguirre-Sacasa, Stephen King, Mike Perkins, Laura       Martin","Sequential Art, Graphic Novels, Fiction, Fantasy, Sequential Art, Comics, Graphic Novels Comics, Science Fiction",-0.014780933785525203,1.6656893837828048,0.6282328853855161
+17,Ready Player One. Movie Tie-In,Ernest Cline,"Science Fiction, Fiction, Young Adult, Science Fiction, Dystopia, Fantasy",2.27623044764079,1.1434103597574885,0.6274182392011363
+3066,The Running Man,"Richard Bachman, Stephen King","Horror, Fiction, Science Fiction, Science Fiction, Dystopia, Thriller",0.07427640545529518,-0.4980380014649386,0.6240555075101952
+1498,The Long Walk,"Richard Bachman, Stephen King","Horror, Fiction, Science Fiction, Dystopia, Thriller, Science Fiction",0.10750296582742963,0.4719087574392238,0.618704858426069
+9252,Unwritten,Charles Martin,"Fiction, Christian Fiction, Romance, Christian",-0.2264698697437237,0.658436980305408,0.6182367330729025
+4993,The Stolen Child,Keith Donohue,"Fantasy, Fiction, Fantasy, Fairy Tales",-0.20430710936851865,-1.0203170254902567,0.6181766736318525
+11681,Coldheart Canyon,Clive Barker,"Horror, Fiction, Fantasy",-0.21909400307910407,-1.1695396037832049,0.6171641808021959
+36,Harry Potter and the Deathly Hallows,"J.K. Rowling, Mary GrandPré","Fantasy, Young Adult, Fiction",7.842177415375718,2.374496630674309,0.615715489328422
+93,Harry Potter and the Goblet of Fire,"J.K. Rowling, Mary GrandPré","Fantasy, Young Adult, Fiction",7.8724348768786205,2.0760514740884126,0.6137153969934535
+103,Harry Potter and the Order of the Phoenix,"J.K. Rowling, Mary GrandPré","Fantasy, Young Adult, Fiction",7.731121397539308,1.8522176066489924,0.613213759762899
+8508,Night of the Soul Stealer,"Joseph Delaney, Patrick  Arrasmith","Young Adult, Horror, Fantasy, Fiction",-0.1511016389736804,0.5465200465856962,0.6118101141562295
+102,The Name of the Wind,Patrick Rothfuss,"Fantasy, Fiction, Fantasy, Epic Fantasy",1.8923533108123007,2.113357118661649,0.6100322101369651
+4653,A Game of Thrones: The First 5 Books,George R.R. Martin,"Fantasy, Fiction",-0.08054256702998604,2.449107919820781,0.6094300289191916
+80,Harry Potter and the Chamber of Secrets,J.K. Rowling,"Fantasy, Young Adult, Fiction",8.212013839919969,1.5537724500630965,0.6092838164563639
+16604,Fluke,James Herbert,"Horror, Fiction, Fantasy, Animals",-0.2285169852798787,-0.4980380014649386,0.6083282477550795
+107,American Gods,Neil Gaiman,"Fantasy, Fiction, Fantasy, Urban Fantasy, Fantasy, Mythology, Science Fiction",2.173862950705924,0.4719087574392238,0.607757131650197
+16576,The Sandman and the War of Dreams,William Joyce,"Fantasy, Childrens, Fiction",-0.23929950222603874,1.3672442271969087,0.6069703951320129
+17347,The Weird: A Compendium of Strange and Dark Stories,"Jeff VanderMeer, Ann VanderMeer, George R.R. Martin, Bob Leman, Haruki Murakami, Mervyn Peake, Michael Chabon, Neil Gaiman, William Gibson, Franz Kafka, Stephen King, Kelly Link","Horror, Short Stories, Fantasy, Anthologies, Fiction, Fantasy, Weird Fiction",-0.2388932044860385,0.9941877814645405,0.6046224047756285
+8369,The Elementals,Michael McDowell,"Horror, Fiction, Gothic, Fantasy, Paranormal, Gothic, Southern Gothic, Audiobook",-0.2264073623991083,0.2107692454265639,0.6038444340326549
+18559,Tales of the Cthulhu Mythos,"H.P. Lovecraft, James Turner, Clark Ashton Smith, Robert E. Howard, Frank Belknap Long, August Derleth, Robert Bloch, Henry Kuttner, Fritz Leiber, Brian Lumley, Ramsey Campbell, Colin Wilson, Joanna Russ, Karl Edward Wagner, Philip José Farmer, Stephen King, Richard A. Lupoff","Horror, Fiction, Fantasy, Short Stories, Science Fiction, Anthologies",-0.22714573040737795,0.8076595585983559,0.602763685185538
+10769,Cabal,Clive Barker,"Horror, Fiction, Fantasy",-0.18162475669119796,-0.1995928448790424,0.6016077916145517
+76,The Ocean at the End of the Lane,Neil Gaiman,"Fiction, Fantasy, Horror, Magical Realism, Audiobook",1.2795273974936796,0.024241022560379646,0.6007469624578663
+12407,The Spook's Nightmare: Book 7,Joseph Delaney,"Fantasy, Young Adult, Horror, Fiction",-0.20218967306967128,0.7330482694518804,0.5991900464902347
+804,NOS4R2,"Joe Hill, Gabriel Rodríguez","Horror, Fiction, Fantasy, Thriller, Fantasy, Paranormal",0.033080158644694595,0.28538053457303625,0.5982773373050037
+805,NOS4A2,Joe Hill,"Horror, Fiction, Fantasy, Thriller, Fantasy, Paranormal",0.032896543319886784,0.28538053457303625,0.5982752315955833
+18,The Martian,Andy Weir,"Science Fiction, Fiction",2.2051869437763267,1.5537724500630965,0.5971192462641731
+13651,The Store,Bentley Little,"Horror, Fiction, Thriller, Fantasy",-0.2226491083041061,-0.4234267123184645,0.595589614028772
+19901,Doppelganger,David Stahler Jr.,"Fantasy, Young Adult, Horror, Fantasy, Supernatural, Fiction, Fantasy, Paranormal",-0.24235064198507894,-1.057622670063493,0.5955586767178349
+8822,The Great and Secret Show,Clive Barker,"Horror, Fantasy, Fiction",-0.13957684731021225,0.2480748899998001,0.5955301027922834
+198,Il ritratto di Dorian Gray,"Oscar Wilde, Marco Amante, Franco Marenco","Classics, Fiction, Horror, Fantasy",2.7881773201682,0.28538053457303625,0.595095539555561
+235,A Storm of Swords,George R.R. Martin,"Fantasy, Fiction, Fantasy, Epic Fantasy, Science Fiction Fantasy",2.0077223354271747,2.0760514740884126,0.5948300780072184
+5068,Beasts of Extraordinary Circumstance,Ruth Emmie Lang,"Fantasy, Magical Realism, Fiction",-0.2192854318219888,0.919576492318068,0.5942387609775319
+47,Percy Jackson and the Lightning Thief,Rick Riordan,"Fantasy, Young Adult, Fantasy, Mythology, Fiction",6.1045982497562585,0.956882136891304,0.5933722660471619
+51,A Game of Thrones,George R.R. Martin,"Fantasy, Fiction, Fantasy, Epic Fantasy, Science Fiction Fantasy, Adult, Fantasy, High Fantasy, Adventure, Fantasy, Dragons, Epic, Audiobook",6.232835973943832,1.7403006729292805,0.5921998616691733
+6859,My Soul to Steal,Rachel Vincent,"Young Adult, Fantasy, Paranormal, Fantasy, Romance",-0.1830428920721603,0.5465200465856962,0.5920632626806104
+18562,Dreadful Sorry,Kathryn Reiss,"Young Adult, Mystery, Fantasy, Horror, Fiction",-0.2388619508137308,0.4719087574392238,0.5917038735561126
+920,Horns,Joe Hill,"Horror, Fiction, Fantasy, Thriller, Mystery",0.09136435078953577,-0.23689848945228026,0.5901471079249608
+26,Harry Potter and the Cursed Child - Parts One and Two,"John Tiffany, Jack Thorne, J.K. Rowling","Fantasy, Fiction, Young Adult, Plays",1.769733434222038,-1.057622670063493,0.5896323643582017
+2672,Lullaby,Chuck Palahniuk,"Fiction, Horror, Contemporary, Fantasy, Novels",0.07316299337933299,-0.9457057363437826,0.589553885577233
+22230,In and Out of Step,Christine M. Knight,"Fiction, Horror",-0.2444368246116186,0.5838256911589323,0.5889716762295082
+11768,The Moorchild,Eloise Jarvis McGraw,"Fantasy, Young Adult, Fiction, Childrens",-0.21917995067795026,-0.1995928448790424,0.5888010520325468
+33,Wonder,R.J. Palacio,"Young Adult, Fiction, Realistic Fiction, Contemporary, Childrens, Middle Grade",1.8660845992376704,1.7403006729292805,0.5882593846168804
+19293,The Dark at the End,F. Paul Wilson,"Horror, Thriller, Fiction, Fantasy, Urban Fantasy, Fantasy",-0.2381157693873842,0.7703539140251199,0.5878539835917317
+115,Harry Potter and the Half-Blood Prince,"J.K. Rowling, Mary GrandPré","Fantasy, Young Adult, Fiction",7.533922445404771,2.113357118661649,0.5876995807656202
+25,"Harry Potter and the Cursed Child, Parts 1 & 2","John Tiffany, Jack Thorne, J.K. Rowling","Fantasy, Fiction, Young Adult, Plays",1.7704249217218462,-1.057622670063493,0.5875985233506698
+18321,Shiva Trilogy,Amish Tripathi,"Fantasy, Mythology, Fiction, Fantasy, Historical, Historical Fiction",-0.2299312139518026,1.1061047151842522,0.5874931468313922
+21514,The Evil Within,Nancy Holder,"Young Adult, Fantasy, Paranormal, Horror",-0.24242486945680974,0.061546667133615826,0.5870076438444608
+6302,The Call of Cthulhu and Other Weird Stories,"H.P. Lovecraft, S.T. Joshi","Horror, Fiction, Short Stories, Fantasy, Classics, Science Fiction",-0.12698943078828195,0.956882136891304,0.5868189615066193
+9240,Attack of the Fiend,"Joseph Delaney, Patrick  Arrasmith","Fantasy, Young Adult, Horror, Fiction",-0.1715415406629229,0.7703539140251199,0.5859185260233213
+11856,"The Way of Kings, Part 2",Brandon Sanderson,"Fantasy, Fantasy, Epic Fantasy, Fiction, Fantasy, High Fantasy",-0.2082411653702517,2.971386943846101,0.5857141330241286
+22411,The Haunter of the Dark,"H.P. Lovecraft, August Derleth","Horror, Fiction, Short Stories, Fantasy, Horror, Lovecraftian",-0.23835017192969205,0.8822708477448284,0.5856209874697214
+21341,"The Malloreon, Vol. 1: Guardians of the West / King of the Murgos / Demon Lord of Karanda",David Eddings,"Fantasy, Fiction, Fantasy, High Fantasy, Fantasy, Epic Fantasy, Science Fiction Fantasy",-0.2268019400119931,1.2926329380504364,0.5847974557346214
+5241,The Ordinary Princess,M.M. Kaye,"Fantasy, Childrens, Fantasy, Fairy Tales, Fiction, Young Adult, Romance",-0.1997050061212083,0.7330482694518804,0.5840785125939272
+1070,Flowers in the Attic,V.C. Andrews,"Fiction, Horror, Mystery",0.2796872599886824,-0.6845662243311244,0.5830693795733104
+6229,Curse of the Bane,"Joseph Delaney, Patrick  Arrasmith","Fantasy, Young Adult, Horror, Fiction",-0.1511680530273343,0.4719087574392238,0.5828329435008105
+14130,The Nightmarys,Dan Poblocki,"Horror, Young Adult, Fantasy, Paranormal, Mystery, Fantasy, Fantasy, Supernatural",-0.2372875470712299,-0.5353436460381764,0.5826093198456754
+13795,Tempest's Legacy,Nicole Peeler,"Fantasy, Urban Fantasy, Fantasy, Paranormal, Fantasy, Romance, Paranormal, Vampires, Romance, Paranormal Romance, Fantasy, Magic",-0.2266964588679546,0.3226861791462757,0.5815378864761812
+1787,The Library at Mount Char,Scott  Hawkins,"Fantasy, Horror, Fiction, Science Fiction",-0.15921978035560816,0.35999182371951194,0.5806832319190371
+20881,"The Sword of Truth, Boxed Set I: Wizard's First Rule, Blood of the Fold, Stone of Tears",Terry Goodkind,"Fantasy, Fiction",-0.2289818836554559,1.1434103597574885,0.5798849254710928
+16,Ready Player One,Ernest Cline,"Science Fiction, Fiction, Young Adult, Science Fiction, Dystopia, Fantasy",2.2781955222871377,1.1434103597574885,0.5798260681946005
+4746,The Thief of Always,Clive Barker,"Fantasy, Horror, Fiction, Young Adult",-0.15012886842310294,0.7703539140251199,0.5794333787364582
+1429,A Memory of Light,"Robert Jordan, Brandon Sanderson","Fantasy, Fiction, Fantasy, Epic Fantasy, Fantasy, High Fantasy",0.10440885226896633,1.964134540368701,0.5786972872620509
+229,A Dance with Dragons,George R.R. Martin,"Fantasy, Fiction, Fantasy, Epic Fantasy",1.5989985291140554,1.2553272934772002,0.5776109781685081
+20727,Storm Rising,Mercedes Lackey,"Fantasy, Fiction, Science Fiction Fantasy",-0.20187322963755566,0.09885231170685202,0.5772301007381747
+21497,The War of Mists,"Robert Fanney, Matthew R. Friedman","Fantasy, Fantasy, Magic, Young Adult, Fantasy, Dragons, Feminism, Adventure",-0.2430030623945024,0.9941877814645405,0.5770094572431659
+22488,Tallow,Karen  Brooks,"Fantasy, Young Adult, Fantasy, High Fantasy, Romance, Fiction",-0.2419560643721941,-1.3560678266493889,0.5767266921893961
+15942,Death's Shadow,Darren Shan,"Horror, Fantasy, Young Adult, Fiction",-0.2137300915692933,0.7703539140251199,0.5763456917389818
+4590,The Dragon Keeper,Robin Hobb,"Fantasy, Fantasy, Dragons, Fiction, Fantasy, Epic Fantasy",-0.1379868167315575,-0.16228720030580626,0.5760825979788944
+7305,Everwild,Neal Shusterman,"Fantasy, Young Adult, Fantasy, Paranormal, Fiction",-0.2021349791431328,0.8449652031715923,0.5749378747589708
+3774,This Book Is Full of Spiders,David  Wong,"Horror, Fiction, Humor, Fantasy, Science Fiction",-0.16246625556657154,1.0314934260377764,0.5745799840094379
+18164,Memoirs of an Invisible Man,H.F. Saint,"Fiction, Science Fiction, Fantasy, Thriller",-0.2391393271554617,0.4719087574392238,0.5745682353460977
+30,Miss Peregrine’s Home for Peculiar Children,Ransom Riggs,"Fantasy, Young Adult, Fiction, Fantasy, Paranormal",2.889790822258643,-0.3115097785987543,0.5745230722754981
+11220,The Spook's Sacrifice: Book 6,Joseph Delaney,"Fantasy, Young Adult, Horror, Fiction",-0.19970109941216985,0.8076595585983559,0.5744586165445675
+9621,The Case of Charles Dexter Ward,H.P. Lovecraft,"Horror, Fiction, Classics, Fantasy, Horror, Lovecraftian, Mystery",-0.19456768373562844,0.7703539140251199,0.5737567998725015
+19595,Sleeping in Flame,Jonathan Carroll,"Fantasy, Fiction, Magical Realism, Horror, Fantasy, Urban Fantasy",-0.23809232913315345,0.2480748899998001,0.5730047333173639
+17748,Dead Sea,Tim Curran,"Horror, Fiction, Science Fiction, Horror, Lovecraftian, Fantasy, Paranormal",-0.24110049509277054,-0.2742041340255165,0.5720883730815884
+7523,Revan,Drew Karpyshyn,"Media Tie In, Star Wars, Science Fiction, Fiction, Fantasy",-0.20180290887486335,-0.23689848945228026,0.5720228024785765
+4630,Mastiff,Tamora Pierce,"Fantasy, Young Adult, Fiction, Fantasy, Magic",-0.15409417809714365,0.9941877814645405,0.5710713422551872
+6634,Harry Potter Collection,J.K. Rowling,"Fantasy, Fiction, Young Adult, Fantasy, Magic",-0.13290028156347766,2.784858720979917,0.5710675818960895
+6824,I Don't Want to Kill You,Dan Wells,"Young Adult, Horror, Fantasy, Fiction, Mystery",-0.2136832110608317,0.8822708477448284,0.5708136665782476
+297,The Wise Man's Fear,Patrick Rothfuss,"Fantasy, Fiction, Fantasy, Epic Fantasy",1.0564504046883592,2.225274052381361,0.5706860735177162
+19136,"Bone: Quest for the Spark, Vol. 1","Tom Sniegoski, Jeff Smith, Thomas E. Sniegoski, Steve Hamaker","Sequential Art, Graphic Novels, Fantasy, Sequential Art, Comics, Fiction, Adventure",-0.1964780644554372,1.2926329380504364,0.5703576928042289
+12897,The Spook's Destiny: Book 8,Joseph Delaney,"Fantasy, Young Adult, Horror, Fiction",-0.201791188747748,0.9941877814645405,0.5701368030416747
+1978,The Archived,Victoria Schwab,"Fantasy, Young Adult, Horror, Fiction",-0.1643688228683034,0.09885231170685202,0.5694852555384913
+19958,The Science of Discworld III: Darwin's Watch,"Terry Pratchett, Ian Stewart, Jack Cohen","Fantasy, Fiction",-0.22991558711564875,-0.16228720030580626,0.5692312709100344
+10335,Wrath of the Bloodeye,"Joseph Delaney, Patrick  Arrasmith","Fantasy, Young Adult, Horror, Fiction",-0.19383322243639725,0.8076595585983559,0.5691215124764599
+10342,The Spook's Mistake,Joseph Delaney,"Fantasy, Young Adult, Horror, Fiction",-0.19384494256351265,0.8076595585983559,0.5691215124764599
+10347,The Spook's Mistake: Book 5,Joseph Delaney,"Fantasy, Young Adult, Horror, Fiction",-0.19383322243639725,0.8076595585983559,0.5688882851466408
+31,Miss Peregrine's Home for Peculiar Children,Ransom Riggs,"Fantasy, Young Adult, Fiction, Fantasy, Paranormal",2.888153911171526,-0.3115097785987543,0.5682600517700012
+236,Tormenta de espadas,George R.R. Martin,"Fantasy, Fiction, Fantasy, Epic Fantasy, Science Fiction Fantasy",2.007437145667367,2.0760514740884126,0.5678545259079688
+4636,The Deep,Nick Cutter,"Horror, Fiction, Science Fiction, Thriller",-0.21392542702121647,-2.3260145855535512,0.567132569646776
+11901,Lord of the Shadows,Darren Shan,"Fantasy, Young Adult, Paranormal, Vampires, Horror",-0.17282294122753905,0.919576492318068,0.5665776018232775
+17635,Sacrament,Clive Barker,"Horror, Fantasy, Fiction",-0.2278606581614168,-0.8710944471973087,0.5663801701256264
+48,The Lightning Thief,Rick Riordan,"Fantasy, Young Adult, Fantasy, Mythology, Fiction",6.102305011550679,0.956882136891304,0.5662405283151571
+17665,The Dream Cycle of H.P. Lovecraft: Dreams of Terror and Death,"H.P. Lovecraft, E. Hoffmann Price, Neil Gaiman","Horror, Fiction, Fantasy, Short Stories, Classics, Horror, Lovecraftian",-0.2214731888835285,1.0687990706110126,0.5661156177724513
+19549,Miss Peregrine's Peculiar Children Boxed Set,Ransom Riggs,"Fantasy, Young Adult, Fiction",-0.2356701695293059,1.6656893837828048,0.5660871956886333
+12374,Spooks: I Am Grimalkin,Joseph Delaney,"Fantasy, Young Adult, Horror, Fiction",-0.21837126190698827,0.956882136891304,0.5658698506773028
+652,Children of Blood and Bone,Tomi Adeyemi,"Fantasy, Young Adult, Fiction",-0.07006868009786464,1.1061047151842522,0.5655565278185528
+18941,The Living Blood,Tananarive Due,"Horror, Fiction, Fantasy, Science Fiction, Fantasy, Paranormal",-0.23756492341296084,1.2926329380504364,0.565444298978963
+12397,The Spook's Nightmare,Joseph Delaney,"Fantasy, Young Adult, Horror, Fiction",-0.20218185965159435,0.7330482694518804,0.5647452908784096
+18905,The Spirit Clearing,Mark Tufo,"Horror, Fantasy, Paranormal, Fantasy, Fiction",-0.2403191532850778,0.1361579562800882,0.5639265693752689
+216,A Clash of Kings,George R.R. Martin,"Fantasy, Fiction, Fantasy, Epic Fantasy, Science Fiction Fantasy",2.3812740402670047,1.5910780946363323,0.563866412586113
+12451,No Time to Wave Goodbye,Jacquelyn Mitchard,Fiction,-0.23677576818719115,-2.736376675859157,0.5634590808764128
+22995,Waking Up Screaming: Haunting Tales of Terror,"H.P. Lovecraft, Denise L. Fitzer","Horror, Short Stories, Fiction, Fantasy, Science Fiction",-0.24261239149065605,0.5092144020124599,0.5627476884639014
+11216,The Spook's Sacrifice,Joseph Delaney,"Fantasy, Young Adult, Horror, Fiction",-0.19970109941216985,0.8076595585983559,0.5621560753412487
+4640,The Sorcerer in the North,John Flanagan,"Fantasy, Adventure, Fiction, Young Adult",-0.04358900623515713,1.0314934260377764,0.5620824811011502
+1634,Authority,Jeff VanderMeer,"Science Fiction, Fiction, Horror, Fantasy",-0.08414845947248811,-1.7664299169549968,0.561718434385766
+12398,Rise of the Huntress,"Joseph Delaney, Patrick  Arrasmith","Fantasy, Young Adult, Horror, Fiction",-0.20220529990582514,0.7330482694518804,0.5616125104668233
+197,The Picture of Dorian Gray,"Oscar Wilde, Robert Mighall","Classics, Fiction, Horror, Fantasy",2.7882593610580075,0.28538053457303625,0.5610530075337798
+23043,A Nightmare on Clown Street,R.L. Stine,"Horror, Childrens, Middle Grade, Childrens",-0.2432023045554641,0.3972974682927481,0.5610201804686994
+22450,Violet Eyes,John Everson,"Horror, Fiction",-0.2438625383829645,-0.3115097785987543,0.560906927218645
+22478,Sunblind,Michael McBride,"Horror, Fantasy, Thriller, Fiction",-0.2437140834395028,0.3972974682927481,0.5595528159999732
+120,Lord of the Flies,"William Golding, Neil Gower, Stephen King","Classics, Fiction, Young Adult, Academic, School, Literature",6.95113131117386,-1.206845248356441,0.5589490745828992
+16923,The Beginning: Born at Midnight and Awake at Dawn,C.C. Hunter,"Paranormal, Vampires, Young Adult, Fantasy, Paranormal, Fantasy",-0.23193926239757295,2.038745829515177,0.5586841713945029
+7718,Dead and Alive,Dean Koontz,"Horror, Fiction, Thriller, Fantasy",-0.15880566919753095,0.09885231170685202,0.5576922167189919
+1821,Skin Game,Jim Butcher,"Fantasy, Fantasy, Urban Fantasy, Fiction, Fantasy, Paranormal, Mystery, Fantasy, Magic",-0.013948804760332415,2.150662763234885,0.5567161782114561
+14488,How to Ride a Dragon's Storm,Cressida Cowell,"Fantasy, Fantasy, Dragons, Childrens, Fiction",-0.22432899319064556,1.0314934260377764,0.5566581910376913
+12,The Help,Kathryn Stockett,"Fiction, Historical, Historical Fiction, Historical, Adult",6.7517524153958615,1.7776063175025167,0.5565589215999813
+13962,Unclean Jobs for Women and Girls,Alissa Nutting,"Short Stories, Fiction, Fantasy, Horror",-0.23818999685911504,-0.2742041340255165,0.5563908509047786
+437,The Way of Kings,Brandon Sanderson,"Fantasy, Fiction, Fantasy, Epic Fantasy, Fantasy, High Fantasy, Science Fiction Fantasy, Audiobook, Epic, Fantasy, Magic, Adult, Adventure",0.5715574922523114,2.4864135643940206,0.5561615883119628
+5292,Lost Boy: The True Story of Captain Hook,Christina Henry,"Fantasy, Horror, Retellings, Fiction",-0.22084811543737431,0.7330482694518804,0.5559841658954288
+19720,The Dark Portal,"Robin Jarvis, Peter Glassman","Fantasy, Young Adult, Fiction, Animals, Childrens, Horror",-0.23674060780584494,-0.6472605797578865,0.5558863729495858
+14945,The Naming of the Beasts,Mike Carey,"Fantasy, Urban Fantasy, Fantasy, Horror, Fiction, Mystery, Fantasy, Paranormal",-0.22679412659391615,0.7703539140251199,0.5555547804517926
+19092,Giants of the Frost,Kim Wilkins,"Fantasy, Romance, Fantasy, Mythology, Fantasy, Urban Fantasy, Fiction, Horror",-0.24124895003623215,-0.4234267123184645,0.5555429137359712
+11648,Sunrise,Erin Hunter,"Fantasy, Animals, Fiction",-0.19346989849582014,1.4045498717701483,0.5540048488033125
+10,Catching Fire,Suzanne Collins,"Young Adult, Science Fiction, Dystopia, Fiction, Fantasy, Science Fiction",8.069778377247577,1.1434103597574885,0.5539680279885404
+22289,"Books of Blood, Volumes 4-6",Clive Barker,"Horror, Short Stories, Fiction, Fantasy",-0.2321463179766116,1.1061047151842522,0.5539616675916746
+4258,Gossamer,Lois Lowry,"Fantasy, Young Adult, Fiction, Childrens",-0.18949677540370247,-0.3488154231719905,0.5536193256521619
+6293,The Last of the Really Great Whangdoodles,Julie Andrews Edwards,"Fantasy, Childrens, Fiction",-0.20257253055544075,0.9941877814645405,0.5535139818438977
+22,The Alchemist,"Paulo Coelho, Alan R. Clarke, James Noel Smith","Fiction, Classics, Fantasy, Philosophy",6.183978670708804,-0.5353436460381764,0.5534934721066707
+1752,Cold Days,Jim Butcher,"Fantasy, Fantasy, Urban Fantasy, Fiction, Mystery, Fantasy, Paranormal, Fantasy, Magic",0.04047165214546807,1.964134540368701,0.553472527521113
+17981,The Hogwarts Library,J.K. Rowling,"Fiction, Fantasy",-0.2276145354919936,1.926828895795465,0.553349898901519
+12914,Teatro Grottesco,Thomas Ligotti,"Horror, Short Stories, Fiction, Fantasy, Weird Fiction, Fantasy",-0.2328964061119966,0.3972974682927481,0.5527757507215595
+3999,A Storm of Swords: Steel and Snow,George R.R. Martin,"Fantasy, Fiction",-0.016222509420718338,1.8895232512222289,0.5526757035693443
+2879,Lirael,Garth Nix,"Fantasy, Young Adult, Fiction",0.12426274760243924,1.1434103597574885,0.552218106649525
+18796,Plague Nation,Dana Fredsti,"Horror, Zombies, Horror, Fantasy, Urban Fantasy, Fiction, Fantasy, Paranormal",-0.2422725078043097,-0.23689848945228026,0.5520185969227083
+19164,Villains by Necessity,Eve Forward,"Fantasy, Fiction, Humor, Adventure, Fantasy, High Fantasy",-0.2397253335112313,0.7703539140251199,0.551923081897303
+5117,The Crown Tower,Michael J. Sullivan,"Fantasy, Fiction, Fantasy, Epic Fantasy, Adventure",-0.15103522492002652,1.2553272934772002,0.5518975684610435
+8381,The Cloud Roads,Martha Wells,"Fantasy, Fiction, Fantasy, High Fantasy, Adventure",-0.2246571567498765,-0.08767591115933222,0.5516724948745184
+21163,The Road to the Dark Tower: Exploring Stephen King's Magnum Opus,Bev Vincent,"Fantasy, Horror, Reference, Fiction",-0.10793250409865562,1.1807160043307243,0.5516295517799248
+8087,Dreams and Shadows,C. Robert Cargill,"Fantasy, Fantasy, Urban Fantasy, Fiction, Horror, Fantasy, Magic",-0.22760672207391666,-1.281456537502915,0.5510852061599796
+2851,Forever Odd,Dean Koontz,"Fiction, Thriller, Fantasy, Mystery, Fantasy, Paranormal",0.004483048483139708,-0.05037026658609438,0.5509907984738918
+10148,Slice of Cherry,Dia Reeves,"Young Adult, Horror, Fantasy, Fantasy, Paranormal, Fiction",-0.23290421953007354,-1.0949283146367308,0.5506626211990244
+12303,The Warden and the Wolf King,"Andrew Peterson, Joe Sutphin","Fantasy, Fiction, Christian, Young Adult, Childrens",-0.23548264749545966,2.784858720979917,0.5506112666912264
+2225,Fragile Things: Short Fictions and Wonders,Neil Gaiman,"Fantasy, Short Stories, Fiction, Horror",-0.04788247946842883,0.09885231170685202,0.5505193586001438
+190,World War Z: An Oral History of the Zombie War,Max Brooks,"Horror, Fiction, Horror, Zombies, Science Fiction, Fantasy, Apocalyptic, Post Apocalyptic",1.214820575689604,0.09885231170685202,0.5504385179461277
+10169,Sacrifice of Love,Quinn Loftis,"Shapeshifters, Werewolves, Fantasy, Paranormal, Fantasy, Young Adult, Romance",-0.21674607094698733,2.225274052381361,0.5501371914095979
+12068,Only Forward,Michael Marshall Smith,"Science Fiction, Fantasy, Fiction",-0.2280403667771861,1.0687990706110126,0.5496723105491388
+11572,The Sword of Shannara Trilogy,Terry Brooks,"Fantasy, Fiction, Fantasy, Epic Fantasy, Science Fiction Fantasy",-0.16957646601657564,-0.16228720030580626,0.5495165720268375
+14984,Cast in Ruin,"Michelle Sagara, Michelle Sagara West","Fantasy, Fantasy, Magic, Fantasy, Dragons, Fantasy, Urban Fantasy, Fiction, Fantasy, Paranormal",-0.22037540364372016,1.1434103597574885,0.5491423498934389
+6,The Book Thief,Markus Zusak,"Historical, Historical Fiction, Fiction, Young Adult",5.563862838324409,1.4045498717701483,0.5489012744935851
+2520,Revenge of the Witch,"Joseph Delaney, Patrick  Arrasmith","Fantasy, Young Adult, Horror, Fiction, Fantasy, Magic",-0.09909162154461207,-0.013064622012858192,0.5483082540741301
+17769,Domain,James Herbert,"Horror, Fiction, Thriller",-0.22592293047833875,0.024241022560379646,0.5482999771628196
+3484,"The Sandman, Vol. 2: The Doll's House","Neil Gaiman, Steve Parkhouse, Chris Bachalo, Michael Zulli, Mike Dringenberg, Malcolm Jones III, Todd Klein, Clive Barker","Sequential Art, Graphic Novels, Sequential Art, Comics, Fantasy, Fiction, Horror, Graphic Novels Comics",0.020899039862764517,1.7029950283560444,0.5481412629827038
+14408,The Song of the Lioness Quartet,Tamora Pierce,"Fantasy, Young Adult, Fiction, Fantasy, Magic",-0.19663042610793727,2.262579696954597,0.5468696690889521
+3,Gone Girl,Gillian Flynn,"Fiction, Mystery, Thriller, Mystery, Crime",6.986783937858879,0.2480748899998001,0.5464810199844526
+9631,A Stir of Echoes,Richard Matheson,"Horror, Fiction, Mystery, Fantasy, Paranormal, Thriller, Fantasy, Fantasy, Supernatural",-0.2042485087329417,-0.3488154231719905,0.5462874596412387
+20256,Fancies and Goodnights,"John Collier, Ray Bradbury","Short Stories, Fiction, Fantasy, Horror",-0.2418740234823864,0.4719087574392238,0.5462173440504258
+14588,Peter Pan in Kensington Gardens / Peter and Wendy,"J.M. Barrie, Peter Hollindale","Classics, Fantasy, Fiction, Childrens",-0.22422351204660698,0.3226861791462757,0.546072026005758
+9,Twilight,Stephenie Meyer,"Young Adult, Fantasy, Romance, Paranormal, Vampires, Fiction, Fantasy, Paranormal",16.488791049063565,-1.505290404942337,0.5459365332053518
+10094,The Hitchhiker's Guide to the Galaxy: A Trilogy in Four Parts,Douglas Adams,"Science Fiction, Fiction, Humor, Fantasy",-0.11969951172250852,1.964134540368701,0.5456435820409963
+17478,Comes the Blind Fury,John Saul,"Horror, Fiction, Thriller, Mystery",-0.2205785525137203,-0.08767591115933222,0.545618588536898
+5353,Moving Pictures,Terry Pratchett,"Fantasy, Fiction, Humor",-0.02619633759591637,-0.1995928448790424,0.5455125746748093
+6765,World's End,"Neil Gaiman, Mike Allred, Gary Amaro, Mark Buckingham, David Giordano, Tony Harris, Steve Leialoha, Vince Locke, Shea Anton Pensa, Alec Stevens, Bryan Talbot, John Watkiss, Todd Klein, Michael Zulli, Stephen King","Sequential Art, Graphic Novels, Sequential Art, Comics, Fantasy, Fiction, Graphic Novels Comics",-0.09360660205460893,1.8149119620757532,0.5447786515000564
+16079,Killashandra,Anne McCaffrey,"Science Fiction, Fantasy, Fiction, Science Fiction Fantasy",-0.19518103705466727,0.1361579562800882,0.5447438325865628
+2608,Waking Gods,Sylvain Neuvel,"Science Fiction, Fiction, Fantasy",-0.16500170973253456,0.35999182371951194,0.5446119969708405
+939,The Amber Spyglass,Philip Pullman,"Fantasy, Young Adult, Fiction",0.6991115423581539,0.35999182371951194,0.544373334078522
+3814,The Child Thief,Brom,"Fantasy, Horror, Retellings, Fiction, Fantasy, Fairy Tales, Adult",-0.1960092593708216,0.3972974682927481,0.5443349099908271
+14177,The Lords of Salem,"Rob Zombie, B.K. Evenson","Horror, Fiction, Fantasy, Paranormal",-0.2392096479181541,-2.4379315192732616,0.54418789929965
+3709,Monster Hunter International,Larry Correia,"Fantasy, Fantasy, Urban Fantasy, Horror, Fiction, Fantasy, Paranormal",-0.1568405945511837,0.2480748899998001,0.5436833043003213
+15898,Mountain Echoes,C.E. Murphy,"Fantasy, Urban Fantasy, Fantasy, Fantasy, Paranormal, Fantasy, Magic, Fiction, Romance",-0.2327948316769965,1.1434103597574885,0.5436683672143576
+19882,Shadow Castle,"Marian Cockrell, Olive Bailey","Fantasy, Childrens, Young Adult, Fiction",-0.24209279918854035,1.5537724500630965,0.5433190558113712
+137,The Shadow of the Wind,"Carlos Ruiz Zafón, Lucia Graves","Fiction, Historical, Historical Fiction, Mystery, Fantasy",1.1661586079064992,1.0314934260377764,0.543112226020014
+9022,The Magic Faraway Tree,Enid Blyton,"Fantasy, Childrens, Fiction",-0.1286888492200137,1.1434103597574885,0.542887079961551
+6933,Kill the Dead,Richard Kadrey,"Fantasy, Urban Fantasy, Fantasy, Horror, Fiction, Fantasy, Paranormal",-0.1760303493481178,0.3226861791462757,0.542770510246892
+1053,Harry Potter: The Complete Series,J.K. Rowling,"Fantasy, Young Adult, Fiction",0.6227666343284947,2.822164365553153,0.5424605912178377
+63,Breaking Dawn,Stephenie Meyer,"Young Adult, Fantasy, Romance, Paranormal, Vampires, Fiction",4.276524075969824,-1.0949283146367308,0.542422697256064
+64,Så länge vi båda andas,"Stephenie Meyer, Carina Jansson","Young Adult, Fantasy, Romance, Paranormal, Vampires, Fiction",4.276621743695785,-1.0949283146367308,0.542422697256064
+8,Mockingjay,Suzanne Collins,"Young Adult, Science Fiction, Dystopia, Fiction, Fantasy, Science Fiction",7.613045023560778,0.17346360085332768,0.5423415661256512
+3670,Half the World,Joe Abercrombie,"Fantasy, Young Adult, Fiction, Fantasy, Epic Fantasy",-0.15456688989079778,0.8076595585983559,0.5419959393786375
+7651,Imajica,Clive Barker,"Fantasy, Horror, Fiction, Fantasy, Dark Fantasy",-0.1711430563409996,0.658436980305408,0.5419264501418172
+11357,The Last Watch,"Sergei Lukyanenko, Andrew Bromfield","Fantasy, Fantasy, Urban Fantasy, Fiction, Horror, Cultural, Russia, Paranormal, Vampires",-0.19835328479389985,0.4719087574392238,0.5418241398473328
+10890,Dark Harvest,Norman Partridge,"Horror, Holiday, Halloween, Fiction, Fantasy, Fantasy, Paranormal",-0.2307945966493031,-1.1322339592099668,0.5416356589215864
+15,Me Before You,Jojo Moyes,"Romance, Fiction, Contemporary, Womens Fiction, Chick Lit",3.159717069853221,1.0314934260377764,0.5414165219714451
+15511,The Devil's Labyrinth,John Saul,"Horror, Fiction, Mystery, Thriller",-0.2346036379618053,-1.952958139821181,0.5413975562798347
+13748,The Book of Dead Days,Marcus Sedgwick,"Fantasy, Young Adult, Fiction, Horror",-0.23403716515122805,-1.505290404942337,0.5413120373323613
+12428,Magician's End,Raymond E. Feist,"Fantasy, Fiction, Fantasy, Epic Fantasy",-0.22261394792275996,0.9941877814645405,0.5411481576256267
+16701,Second Child,John Saul,"Horror, Fiction, Thriller",-0.21889085420910395,-0.3115097785987543,0.5410825634598881
+4643,The Sorcerer of the North,John Flanagan,"Fantasy, Adventure, Fiction, Young Adult",-0.043487431800157066,1.0314934260377764,0.5404044236136506
+4200,Black: The Birth of Evil,Ted Dekker,"Fantasy, Christian Fiction, Fiction, Christian",-0.1389908409544427,0.8449652031715923,0.5403756523838372
+9566,Lord Sunday,Garth Nix,"Fantasy, Young Adult, Fiction",-0.19402855788832046,0.061546667133615826,0.5402199171009818
+4672,Fire and Ice,Erin Hunter,"Fantasy, Animals, Fiction",-0.0971812408248033,1.4418555163433844,0.5400903537105667
+264,The Final Empire,Brandon Sanderson,"Fantasy, Fiction, Fantasy, Epic Fantasy, Fantasy, High Fantasy",0.8749915832697934,1.7029950283560444,0.5399832335615791
+9879,Stone of Farewell,Tad Williams,"Fantasy, Fiction, Fantasy, Epic Fantasy, Science Fiction Fantasy, Fantasy, High Fantasy",-0.09673196928537996,0.4346031128659843,0.539946055756506
+2135,Changes,Jim Butcher,"Fantasy, Urban Fantasy, Fantasy, Fiction, Mystery, Fantasy, Paranormal",0.07200660750394773,2.0760514740884126,0.5398367143842147
+640,The Lord of the Rings,J.R.R. Tolkien,"Fantasy, Classics, Fiction",1.6312405988084968,1.8522176066489924,0.5398149763069854
+12370,Percepliquis,Michael J. Sullivan,"Fantasy, Fantasy, Epic Fantasy, Fiction, Adventure, Fantasy, High Fantasy",-0.2198245576692968,2.113357118661649,0.5396391982233244
+14422,The Children of Noisy Village,"Astrid Lindgren, Ilon Wikland, Florence Lamborn","Childrens, Classics, Fiction",-0.2143121912160244,1.0687990706110126,0.5393577702136164
+22709,Crown of Stars,Kate Elliott,"Fantasy, Fiction",-0.2357600238371905,-0.2742041340255165,0.5388769451332307
+19683,Mateguas Island: A Novel of Horror and Suspense,Linda  Watkins,"Horror, Fantasy, Paranormal, Gothic, Suspense, Fantasy, Fiction",-0.2430186892306563,-0.7218718689043606,0.5385095814540265
+4855,First Lord's Fury,Jim Butcher,"Fantasy, Fiction, Fantasy, Epic Fantasy, Fantasy, Magic",-0.04779262516054416,1.4791611609166206,0.538494580674283
+22513,Legacy of a Dreamer,Allie Jean,"Paranormal, Angels, Fantasy, Paranormal, Young Adult, Romance, Romance, Paranormal Romance, Mystery, Fiction, Fantasy",-0.2442844629591185,0.2480748899998001,0.538385337771067
+24,The Night Circus,Erin Morgenstern,"Fantasy, Fiction, Romance, Historical, Historical Fiction",1.8575640668247808,0.2107692454265639,0.5380591373776157
+15704,Houdini Heart,Ki Longfellow,"Horror, Fantasy, Fiction, Mystery, Magical Realism, Literature",-0.2376782179750763,0.919576492318068,0.5371535312816837
+18253,The God Project,John Saul,"Horror, Fiction, Thriller, Suspense, Mystery",-0.2053814543540962,-0.2742041340255165,0.5370977031732336
+9170,The King's Traitor,Jeff Wheeler,"Fantasy, Fiction, Fantasy, Magic, Young Adult",-0.19942372307043893,1.5910780946363323,0.536767868688721
+329,Northern Lights,Philip Pullman,"Fantasy, Young Adult, Fiction",4.03188986269026,-0.08767591115933222,0.5365706089753457
+14632,Perfect Nightmare,John Saul,"Horror, Thriller, Mystery, Fiction, Suspense",-0.2295991436835332,-0.3488154231719905,0.5365156347487592
+6895,Menagerie,Rachel Vincent,"Fantasy, Fantasy, Urban Fantasy, Fantasy, Paranormal, Young Adult, Adult, Fiction",-0.22672380583122384,0.17346360085332768,0.5364788187071731
+12624,To Green Angel Tower,Tad Williams,"Fantasy, Fiction, Fantasy, Epic Fantasy, Science Fiction Fantasy, Fantasy, High Fantasy",-0.13421684250943994,0.6957426248786442,0.5361974315759346
+18918,Body Rides,Richard Laymon,"Horror, Fiction",-0.2355725018033443,-0.5353436460381764,0.5360639454565135
+13,To Kill a Mockingbird,Harper Lee,"Classics, Fiction, Historical, Historical Fiction, Academic, School",14.396873373655446,1.0687990706110126,0.5360613556303132
+8823,The Rats,James Herbert,"Horror, Fiction, Thriller",-0.18967257731043333,-0.16228720030580626,0.5357912586865261
+19361,The Swords of Night and Day,David Gemmell,"Fantasy, Fiction, Fantasy, Epic Fantasy, Fantasy, Heroic Fantasy",-0.2168788990542951,1.1807160043307243,0.5355587727929391
+7301,The Oath,Frank E. Peretti,"Fiction, Christian, Horror, Christian Fiction, Thriller, Fantasy",-0.15034373742021845,0.3226861791462757,0.5354328400406869
+22971,Exile's Song,Marion Zimmer Bradley,"Fantasy, Science Fiction, Fiction",-0.23510369671872866,0.17346360085332768,0.5354065462623433
+20426,Classics of Horror: Frankenstein Dr. Jekyll & Mr. Hyde Dracula,"Mary Wollstonecraft Shelley, Bram Stoker, Robert Louis Stevenson","Classics, Horror, Fiction, Fantasy",-0.23643197779180636,1.0687990706110126,0.535197032235136
+3237,King of Thorns,Mark  Lawrence,"Fantasy, Fiction, Fantasy, Dark Fantasy, Fantasy, Epic Fantasy",-0.06511497303709257,0.8076595585983559,0.5349997092654003
+12849,Polgara the Sorceress,"David Eddings, Leigh Eddings","Fantasy, Fiction, Fantasy, Epic Fantasy, Science Fiction Fantasy",-0.14555020543002334,0.35999182371951194,0.5348518913874395
+22124,Plague World,Dana Fredsti,"Horror, Zombies, Horror, Fantasy, Urban Fantasy, Fantasy, Paranormal, Fantasy, Fiction",-0.2434679607700796,-0.23689848945228026,0.5345423594350701
+13841,Soulstice,Simon Holt,"Horror, Young Adult, Fantasy, Paranormal, Fantasy",-0.2332909837248815,0.6211313357321718,0.5343317936674754
+17350,"Harry Potter Boxed Set, Books 1-5 (Harry Potter, #1-5)","J.K. Rowling, Mary GrandPré","Fantasy, Young Adult, Fiction, Fantasy, Magic",-0.09453639880576332,2.971386943846101,0.5343049770936268
+2122,The Exorcist,William Peter Blatty,"Horror, Fiction, Classics, Fantasy, Paranormal, Thriller",0.3414054493783332,0.6211313357321718,0.5342685329937203
+282,Neil Gaiman's Neverwhere,Neil Gaiman,"Fantasy, Fiction, Fantasy, Urban Fantasy, Science Fiction Fantasy",1.1296894790324397,0.6957426248786442,0.5342474023050207
+283,Neverwhere,Neil Gaiman,"Fantasy, Fiction, Fantasy, Urban Fantasy, Science Fiction Fantasy",1.1282674369424388,0.6957426248786442,0.5342158166637146
+18039,The First Battle,Erin Hunter,"Fantasy, Animals, Fiction",-0.2328846859848812,2.0760514740884126,0.5339743306509552
+78,The Hobbit,"J.R.R. Tolkien, Peter Sís","Fantasy, Classics, Fiction, Adventure, Young Adult, Science Fiction Fantasy, Fantasy, High Fantasy, Childrens, Fantasy, Epic Fantasy, Novels",9.226746352279587,1.0314934260377764,0.5337212471673267
+18870,God's Demon,Wayne Barlowe,"Fantasy, Horror, Fiction, Fantasy, Dark Fantasy, Paranormal, Demons",-0.2412176963639245,-0.16228720030580626,0.5337111138923756
+594,The Hero of Ages,Brandon Sanderson,"Fantasy, Fiction, Fantasy, Epic Fantasy, Fantasy, High Fantasy",0.5132186061809318,1.8149119620757532,0.5336360515233174
+12899,Rage of the Fallen,"Joseph Delaney, Patrick  Arrasmith","Fantasy, Young Adult, Horror, Fiction",-0.20180290887486335,0.9941877814645405,0.5335483591094683
+14471,Demon Apocalypse,Darren Shan,"Horror, Fantasy, Young Adult, Fiction",-0.21053440357582992,0.9941877814645405,0.5334051708688813
+12120,Moon Rising,Tui T. Sutherland,"Fantasy, Fantasy, Dragons, Childrens, Middle Grade, Young Adult, Fiction",-0.21846892963294987,2.561024853540493,0.5331227993661227
+797,Vicious,"V.E. Schwab, Victoria Schwab","Fantasy, Science Fiction, Adult, Fiction, Fantasy, Paranormal",-0.07068594012594193,1.1434103597574885,0.533036699278916
+13523,The Harry Potter Collection 1-4,"J.K. Rowling, Mary GrandPré","Fantasy, Young Adult, Fiction",-0.059036133773242926,2.5237192089672567,0.5329171443714046
+6299,The Core,Peter V. Brett,"Fantasy, Fiction, Fantasy, Epic Fantasy",-0.1974039544975532,0.8076595585983559,0.5327133599208664
+19908,Indian Hill,Mark Tufo,"Science Fiction, Horror, Fiction",-0.23878381663296155,1.1434103597574885,0.5323452451454134
+10503,Kill Creek,Scott   Thomas,"Horror, Fiction, Audiobook",-0.2365530857719987,-0.2742041340255165,0.5322242081354241
+2678,The Children of Húrin,"J.R.R. Tolkien, Christopher Tolkien, Alan  Lee","Fantasy, Fiction, Classics",-0.032826022834189415,-0.08767591115933222,0.5321029841984312
+1244,Wizard's First Rule,Terry Goodkind,"Fantasy, Fiction, Fantasy, Epic Fantasy",0.5566768375248029,0.5465200465856962,0.5320404450238547
+19268,The Horror Stories of Robert E. Howard,Robert E. Howard,"Horror, Fantasy, Short Stories, Classics, Fiction, Pulp",-0.23605302701507536,0.5838256911589323,0.5320068299169133
+7344,The Devouring,Simon Holt,"Horror, Young Adult, Fantasy, Paranormal, Fantasy, Paranormal, Demons, Fantasy, Supernatural, Fiction, Young Adult, Teen, Thriller, Fantasy, Urban Fantasy",-0.2158358077410253,-0.23689848945228026,0.5318826650905051
+21624,Hell's Horizon,"D.B. Shan, Darren Shan","Fantasy, Horror, Mystery, Fiction",-0.2404519813923856,0.4346031128659843,0.53162075416261
+1583,His Dark Materials Trilogy: The Golden Compass/The Subtle Knife/The Amber Spyglass,Philip Pullman,"Fantasy, Young Adult, Fiction",0.1825039659478573,1.0314934260377764,0.531394084069242
+11604,"The Belgariad, Vol. 1: Pawn of Prophecy / Queen of Sorcery / Magician's Gambit",David Eddings,"Fantasy, Fiction, Fantasy, Epic Fantasy, Science Fiction Fantasy, Fantasy, High Fantasy",-0.18953974920312555,1.0687990706110126,0.5312900202612865
+19729,The Dream Merchant,"Isabel Hoving, Hester Velmans","Fantasy, Young Adult, Fiction, Adventure",-0.24022929897719314,-0.23689848945228026,0.5312121313108704
+32,Insurgent,Veronica Roth,"Young Adult, Science Fiction, Dystopia, Fiction, Fantasy",3.733307904298551,0.28538053457303625,0.53095239148736
+2850,The Last Dragonslayer,Jasper Fforde,"Fantasy, Young Adult, Fiction, Fantasy, Dragons, Humor, Fantasy, Magic",-0.17646008734234886,-0.4234267123184645,0.5307087400402982
+3126,Brother Odd,Dean Koontz,"Horror, Fiction, Fantasy, Thriller, Mystery, Fantasy, Paranormal",-0.0270675337114938,-0.013064622012858192,0.5306266526097357
+83,Ender's Game,Orson Scott Card,"Science Fiction, Fiction, Young Adult, Fantasy",3.529096409439972,1.1807160043307243,0.5305691381522463
+10985,Necronomicon: The Best Weird Tales,"H.P. Lovecraft, Les Edwards, Stephen Jones","Horror, Fantasy, Fiction, Classics, Short Stories, Science Fiction",-0.20399847935448,1.1807160043307243,0.5305544982818794
+1054,Harry Potter Boxset,J.K. Rowling,"Fantasy, Young Adult, Fiction",0.6226338062211869,2.822164365553153,0.5303991817569512
+10215,Tales of the Unexpected,Roald Dahl,"Short Stories, Fiction, Fantasy, Horror, Classics",-0.20840915385890565,0.7330482694518804,0.5303820187645998
+16493,The Folklore of Discworld,"Terry Pratchett, Jacqueline Simpson","Fantasy, Fiction",-0.2353537260971903,-0.1249815557325684,0.5301446791169455
+21818,The Gathering Darkness,Lisa Collicutt,"Romance, Young Adult, Fantasy, Paranormal, Fantasy, Fantasy, Supernatural, Fantasy, Magic",-0.2440149000354645,-0.6472605797578865,0.5301226794568269
+15841,Wolf Island,"Darren Shan, Richard Podaný","Horror, Fantasy, Young Adult, Fiction",-0.21555452469025588,0.8822708477448284,0.5301130402158447
+22605,The Essential Ellison: A 50 Year Retrospective,"Harlan Ellison, Terry Dowling","Science Fiction, Fiction, Short Stories, Fantasy, Horror",-0.2396159456581543,2.113357118661649,0.5299681244809543
+4670,The Dragonbone Chair,"Tad Williams, Michael Whelan","Fantasy, Fiction, Fantasy, Epic Fantasy, Fantasy, High Fantasy, Science Fiction Fantasy",-0.03434573265015182,-0.08767591115933222,0.5299633252756735
+10585,Beauty and the Beast Novelization,Elizabeth Rudnick,"Fantasy, Romance, Young Adult, Fantasy, Fairy Tales, Fiction",-0.2254150583033385,1.516466805489857,0.5295853466564334
+2419,Magnus Chase and the Ship of the Dead,Rick Riordan,"Fantasy, Fantasy, Mythology, Young Adult, Childrens, Middle Grade",-0.13879550550251948,1.4791611609166206,0.5295740604011153
+486,Matilda,"Roald Dahl, Quentin Blake","Childrens, Fiction, Fantasy, Classics",1.701604335300268,1.1434103597574885,0.5294864420210442
+2,Nestala,"Gillian Flynn, Tatjana Jambrišak","Fiction, Mystery, Thriller, Mystery, Crime",6.987705921191957,0.2480748899998001,0.5294598923491813
+2522,The Spook's Apprentice,Joseph Delaney,"Fantasy, Young Adult, Horror, Fiction, Fantasy, Magic",-0.099099434962689,-0.013064622012858192,0.5293925676051948
+19065,In the Skin of a Monster,Kathryn Barker,"Young Adult, Fantasy, Contemporary, Fantasy, Paranormal, Horror",-0.2424795633833483,-0.9457057363437826,0.5293604102797078
+1324,Slade House,David Mitchell,"Horror, Fiction, Fantasy, Mystery, Fantasy, Paranormal",-0.08547283383652733,-0.6099549351846504,0.5288430305864358
+21918,The Beast That Shouted Love at the Heart of the World,Harlan Ellison,"Science Fiction, Short Stories, Fiction, Fantasy, Horror",-0.2381157693873842,0.5465200465856962,0.528751716611831
+13538,Tangled Webs,Anne Bishop,"Fantasy, Romance, Fantasy, Magic, Fiction, Fantasy, Dark Fantasy",-0.2022912475046713,0.17346360085332768,0.5286482587411426
+17324,Virus,Sarah Langan,"Horror, Fiction, Horror, Zombies, Fantasy, Supernatural",-0.23947530413276966,-1.3560678266493889,0.5284098476361815
+14598,Deathbird Stories,Harlan Ellison,"Science Fiction, Short Stories, Horror, Fiction, Fantasy",-0.2304156458725721,0.7330482694518804,0.5283610855219839
+9449,Remember Me,Christopher Pike,"Young Adult, Horror, Fantasy, Paranormal, Mystery, Fiction",-0.20411568062563396,0.2107692454265639,0.5281183317031724
+9860,The Lost Days,"Rob Reger, Jessica Gruner","Young Adult, Fantasy, Mystery, Fiction",-0.22405943026699154,-0.2742041340255165,0.528096368127955
+20412,The Many Deaths of the Black Company,Glen Cook,"Fantasy, Fiction, Fantasy, Epic Fantasy, Fantasy, Dark Fantasy",-0.2231999542785295,1.2180216489039608,0.5276976913518802
+272,The Lost Hero,Rick Riordan,"Fantasy, Young Adult, Fantasy, Mythology",1.8424724498091951,1.3672442271969087,0.5274806274041468
+771,Words of Radiance,Brandon Sanderson,"Fantasy, Fiction, Fantasy, Epic Fantasy, Fantasy, High Fantasy, Audiobook, Fantasy, Magic, Epic, Science Fiction Fantasy, Adult, Adventure",0.30688186160542874,2.934081299272861,0.5274214847056157
+19601,Muddle Earth,"Paul Stewart, Chris Riddell","Fantasy, Fiction, Childrens, Humor",-0.23922527475430794,-0.4234267123184645,0.5271426686151257
+948,The Colour Of Magic,Terry Pratchett,"Fantasy, Fiction, Humor",0.7678383677628088,0.024241022560379646,0.5268222654575674
+1402,Geek Love,Katherine Dunn,"Fiction, Horror, Fantasy, Contemporary",-0.0562662770649721,-0.013064622012858192,0.5267783504555703
+12346,Fablehaven: The Complete Series Boxed Set,Brandon Mull,"Fantasy, Young Adult, Fiction",-0.21917995067795026,2.225274052381361,0.5267622592047776
+12137,The Hunter,L.J. Smith,"Young Adult, Fantasy, Fantasy, Paranormal, Horror, Romance",-0.2230710328802602,0.061546667133615826,0.5265820083377197
+1023,The Book of Lost Things,John Connolly,"Fantasy, Fiction, Young Adult, Horror, Fantasy, Fairy Tales",-0.02749727170572481,0.024241022560379646,0.5263833921401446
+3530,20th Century Ghosts,"Joe Hill, Christopher Golden","Horror, Short Stories, Fiction, Fantasy, Paranormal, Ghosts",-0.13623270437328724,-0.1249815557325684,0.5262612001074656
+16125,Soul's Gate,James L. Rubart,"Christian Fiction, Christian, Fiction, Fantasy",-0.2409911072396936,1.3672442271969087,0.5259090144081379
+2191,Acceptance,Jeff VanderMeer,"Science Fiction, Fiction, Horror, Fantasy",-0.1253212660288579,-1.5425960495155748,0.5258283362419521
+19366,The Eye of the Moon,Anonymous,"Fantasy, Horror, Thriller, Fiction",-0.2378813668450764,0.7330482694518804,0.5256765051680737
+21668,Devil's Footsteps,E.E. Richardson,"Horror, Young Adult, Fantasy, Fiction, Young Adult, Teen",-0.2421982803325789,-1.0203170254902567,0.5256571215168141
+5228,Thief of Time,Terry Pratchett,"Fantasy, Fiction, Humor",-0.04023314317111674,1.0314934260377764,0.5256386255177271
+2855,Towers of Midnight,"Robert Jordan, Brandon Sanderson","Fantasy, Fiction, Fantasy, Epic Fantasy",0.17611649666996906,1.6283837392095686,0.5255934948109
+4959,The Hellbound Heart,Clive Barker,"Horror, Fiction, Fantasy, Supernatural, Fantasy",-0.12066056214597062,0.17346360085332768,0.5254732414397866
+20898,Nightmare,Robin Parrish,"Horror, Fiction, Paranormal, Ghosts, Fantasy, Paranormal, Fantasy, Christian Fiction, Christian, Fantasy, Supernatural",-0.2425655109821945,-0.2742041340255165,0.5249697137729952
+20869,The Transition of H. P. Lovecraft: The Road to Madness,"H.P. Lovecraft, Barbara Hambly","Horror, Fiction, Short Stories, Fantasy, Classics, Horror, Lovecraftian",-0.20847166120352106,1.1807160043307243,0.5248191679684898
+12275,The Fire Eternal,Chris d'Lacey,"Fantasy, Fantasy, Dragons, Young Adult, Fiction",-0.19611864722389855,0.024241022560379646,0.5246104030866802
+15153,Shadowheart,Tad Williams,"Fantasy, Fiction, Fantasy, Epic Fantasy",-0.2260049713681465,0.061546667133615826,0.524344028873936
+21476,The Immortals,Tamora Pierce,"Fantasy, Young Adult, Fiction, Fantasy, Magic",-0.21702344728871828,2.1879684078081247,0.5243020162777587
+4303,Stone of Tears,Terry Goodkind,"Fantasy, Fiction, Fantasy, Epic Fantasy",0.1269114963305177,0.4719087574392238,0.5238501179041213
+1247,The Witches,"Roald Dahl, Quentin Blake","Childrens, Fantasy, Fiction",0.7788748207964692,0.6957426248786442,0.5235969436014569
+20114,Caine Black Knife,Matthew Woodring Stover,"Fantasy, Science Fiction, Fiction, Fantasy, Dark Fantasy, Fantasy, Epic Fantasy",-0.2345059702358437,0.2480748899998001,0.5228542684705222
+9748,Whispers,Dean Koontz,"Horror, Fiction, Thriller",-0.13215410013713105,-0.2742041340255165,0.5228469179085846
+11762,The Reckoning,Alma Katsu,"Fantasy, Fantasy, Paranormal, Historical, Historical Fiction, Romance, Fiction, Adult",-0.233935590716228,0.2480748899998001,0.5223256136410872
+3817,Patient Zero,Jonathan Maberry,"Horror, Zombies, Horror, Thriller, Fiction, Science Fiction",-0.15487942661387488,0.024241022560379646,0.5221800616411421
+205,The Sea of Monsters,Rick Riordan,"Fantasy, Young Adult, Fantasy, Mythology, Fiction",2.1535832240872588,0.956882136891304,0.5221656855651399
+1560,La Belle Sauvage,Philip Pullman,"Fantasy, Young Adult, Fiction",-0.08994992239460682,0.8076595585983559,0.5220678482340849
+16127,Offspring: The Sequel to Off Season,"Jack Ketchum, Neal McPheeters","Horror, Fiction, Thriller, Horror, Splatterpunk",-0.2358772251083445,-0.8710944471973087,0.5220466226524245
+20423,Storm Breaking,Mercedes Lackey,"Fantasy, Fiction, Science Fiction Fantasy",-0.20150209227890167,0.2107692454265639,0.5220304514695244
+77,The Hobbit or There and Back Again,J.R.R. Tolkien,"Fantasy, Classics, Fiction, Adventure, Young Adult, Science Fiction Fantasy, Fantasy, High Fantasy, Childrens, Fantasy, Epic Fantasy, Novels",9.22682057975132,1.0314934260377764,0.522021854042296
+20397,The Last Herald-Mage,"Mercedes Lackey, Dawn Wilson","Fantasy, Fiction, Fantasy, Magic",-0.22331324884064496,1.8522176066489924,0.5219395505764299
+17095,Orb Sceptre Throne,Ian C. Esslemont,"Fantasy, Fantasy, Epic Fantasy, Fiction",-0.22514940208872292,0.5465200465856962,0.5216933917036966
+14296,Angel Fire East,Terry Brooks,"Fantasy, Fantasy, Urban Fantasy, Fiction",-0.20106454086659373,0.4346031128659843,0.5216165987517923
+20342,The Unloved,"John Saul, Lisa Falkenstern","Horror, Fiction, Thriller, Mystery",-0.22960305039257164,-0.4980380014649386,0.5215163076736484
+22920,The Lost Road and Other Writings,"J.R.R. Tolkien, Christopher Tolkien","Fantasy, Fiction",-0.23656089919007564,-0.08767591115933222,0.5214057242300855
+6256,City of Blades,Robert Jackson Bennett,"Fantasy, Fiction, Mystery, Fantasy, Urban Fantasy",-0.21314017850448527,0.8822708477448284,0.5213169181816654
+12576,Demon,Tosca Lee,"Christian Fiction, Fiction, Christian, Fantasy, Horror, Thriller",-0.23306439460065054,0.6957426248786442,0.5211347464913909
+3961,Kings of the Wyld,Nicholas Eames,"Fantasy, Fiction, Humor, Adventure, Fantasy, Epic Fantasy",-0.20630734439621207,1.4418555163433844,0.5209543914881858
+16285,Tales of H.P. Lovecraft,"H.P. Lovecraft, Joyce Carol Oates","Horror, Short Stories, Fiction, Classics, Fantasy, Science Fiction",-0.22375861367102984,0.8076595585983559,0.5209083288126856
+2430,The Stone Sky,N.K. Jemisin,"Fantasy, Fiction, Science Fiction, Science Fiction, Dystopia",-0.1441437901761764,1.4791611609166206,0.5204858062159804
+18465,Death of a Darklord,Laurell K. Hamilton,"Fantasy, Horror, Fiction",-0.2335996137389201,-2.102180718114129,0.5201961744592933
+23271,Noonshade,James Barclay,"Fantasy, Fantasy, Epic Fantasy, Fiction",-0.2384048658562305,-0.3488154231719905,0.5201175522975146
+4194,Life Expectancy,Dean Koontz,"Horror, Fiction, Thriller, Mystery",-0.1356232577632869,0.024241022560379646,0.519962786077971
+13255,Winter Turning,Tui T. Sutherland,"Fantasy, Fantasy, Dragons, Childrens, Middle Grade, Adventure, Fiction",-0.22151616268295166,2.374496630674309,0.5198199069521715
+3217,Red Sister,Mark  Lawrence,"Fantasy, Fiction, Adult, Fantasy, Magic",-0.17631553910792566,1.1061047151842522,0.5198130931996964
+10393,The Book With No Name,Anonymous,"Fantasy, Horror, Thriller, Fiction, Mystery",-0.2257549419896848,-0.6099549351846504,0.5197342926702844
+7027,Carrion Comfort,Dan Simmons,"Horror, Fiction, Fantasy, Paranormal, Vampires, Thriller, Fantasy, Paranormal",-0.18110907109812072,-0.3115097785987543,0.5195492970768743
+1513,Trigger Warning: Short Fictions and Disturbances,Neil Gaiman,"Fantasy, Short Stories, Fiction, Horror, Science Fiction",-0.07747970714383044,-0.23689848945228026,0.5193130050207091
+19576,Descendants,Rico Green,"Fiction, Fantasy, Childrens",-0.23633431006584474,0.5838256911589323,0.5190778131089704
+4451,The World of Ice and Fire: The Untold History of Westeros and the Game of Thrones,"George R.R. Martin, Elio M. García Jr., Linda Antonsson","Fantasy, Fiction, Fantasy, Epic Fantasy",-0.16940066410984475,1.0687990706110126,0.5190646381298628
+20991,Dawnspell,Katharine Kerr,"Fantasy, Fiction",-0.22078560809275888,0.2107692454265639,0.5189695777088921
+10056,Dust of Dreams,Steven Erikson,"Fantasy, Fantasy, Epic Fantasy, Fiction, Fantasy, High Fantasy",-0.1691271944771523,1.2180216489039608,0.5189277956465177
+6034,Maskerade:,Terry Pratchett,"Fantasy, Fiction, Humor",-0.07239707868478906,0.35999182371951194,0.5187064413625138
+423,The Darkest Minds,Alexandra Bracken,"Young Adult, Science Fiction, Dystopia, Fantasy, Science Fiction, Romance, Fantasy, Paranormal, Fiction, Did Not Finish, Adventure, Fantasy, Supernatural",0.2046510994869085,0.8822708477448284,0.5184953769928996
+8402,American Elsewhere,Robert Jackson Bennett,"Horror, Fantasy, Fiction, Science Fiction, Mystery, Fantasy, Urban Fantasy, Fantasy, Paranormal",-0.22839197059064786,-0.7964831580508346,0.5182324296727634
+5079,New Spring,Robert Jordan,"Fantasy, Fiction, Fantasy, Epic Fantasy",0.014523290711991628,0.17346360085332768,0.5178724703605684
+831,Peter Pan,"J.M. Barrie, Tony DiTerlizzi","Classics, Fantasy, Fiction, Childrens",0.6264389408246507,0.3972974682927481,0.517168661017008
+19311,Eye of the Oracle,Bryan Davis,"Fantasy, Christian, Fantasy, Dragons, Christian Fiction, Young Adult, Fiction",-0.23266591027872724,0.4719087574392238,0.5169350437113286
+15759,Cast in Fury,Michelle Sagara,"Fantasy, Fantasy, Magic, Fantasy, Dragons, Fantasy, Urban Fantasy, Fiction, Fantasy, Paranormal",-0.2149372646621786,0.7703539140251199,0.5167812991273322
+65,The Time Traveler's Wife,Audrey Niffenegger,"Fiction, Romance, Fantasy, Science Fiction, Time Travel, Science Fiction",5.25744792831058,-0.08767591115933222,0.5167125470197924
+9575,Demon Dentist,"David Walliams, Tony Ross","Childrens, Fantasy, Fiction, Humor",-0.22184432624218256,0.8076595585983559,0.5166782973981615
+22576,Dragonworld,"Byron Preiss, Michael Reaves","Fantasy, Fantasy, Dragons, Fiction",-0.24181542284680946,-0.7964831580508346,0.5164430369533631
+1025,The Twelve,Justin Cronin,"Horror, Fiction, Fantasy, Science Fiction, Apocalyptic, Post Apocalyptic, Paranormal, Vampires",0.049601631168357925,0.024241022560379646,0.5164133111900443
+332,The Golden Compass,Philip Pullman,"Fantasy, Young Adult, Fiction",4.029260647507375,-0.08767591115933222,0.5162753581675443
+4101,The Opal Deception,Eoin Colfer,"Young Adult, Fiction, Fantasy",0.19590788465882653,0.2480748899998001,0.5162385859177957
+11826,Carniepunk,"Rachel Caine, Rob Thurman, Delilah S. Dawson, Kevin Hearne, Mark Henry, Jaye Wells, Allison Pang, Hillary Jacques, Jennifer Estep, Kelly Meding, Nicole Peeler, Jackie Kessler, Kelly Gay, Seanan McGuire","Fantasy, Urban Fantasy, Fantasy, Anthologies, Short Stories, Horror, Fiction, Science Fiction, Steampunk",-0.2340918590777665,-1.206845248356441,0.516197061628021
+3476,The Daylight War,Peter V. Brett,"Fantasy, Fantasy, Epic Fantasy, Fiction, Fantasy, High Fantasy, Fantasy, Magic",-0.06520482734497722,0.8822708477448284,0.5161952101539578
+19180,The Magic Circle,Donna Jo Napoli,"Fantasy, Young Adult, Fantasy, Fairy Tales, Fiction, Retellings",-0.24044026126527016,-0.9084000917705448,0.5159499827855897
+22405,Black Wind,F. Paul Wilson,"Horror, Fiction, Thriller, Historical, Historical Fiction, Fantasy, Fantasy, Supernatural",-0.2415575800502708,0.919576492318068,0.5158075222737218
+7192,Kushiel's Avatar,Jacqueline Carey,"Fantasy, Romance, Fiction, Fantasy, Epic Fantasy, Science Fiction Fantasy",-0.12598931327443522,1.4418555163433844,0.5157232422692916
+3485,The Sorceress,Michael Scott,"Fantasy, Young Adult, Fiction, Fantasy, Magic",0.030036832303731307,0.4346031128659843,0.5153211534291813
+10079,The Hitchhiker's Guide to the Galaxy: The Trilogy of Four,Douglas Adams,"Science Fiction, Fiction, Humor, Fantasy",-0.11965653792308545,1.964134540368701,0.5152973875130825
+5955,The Darkest Hour,Erin Hunter,"Fantasy, Animals, Fiction, Young Adult",-0.11751956807904572,2.0014401849419365,0.5152188708059626
+3047,The Shepherd's Crown,"Terry Pratchett, Rob Wilkins","Fantasy, Fiction, Young Adult, Humor",-0.17477238903773246,1.3672442271969087,0.5151407241482314
+8098,Seeds of Yesterday,V.C. Andrews,"Fiction, Young Adult, Horror",-0.1211918745752017,-0.6099549351846504,0.5150836519259121
+23015,The Cold One,Christopher Pike,"Horror, Young Adult, Fiction, Fantasy, Thriller",-0.2387564696696923,-1.057622670063493,0.5149634907440409
+8460,Strangers,Dean Koontz,"Horror, Fiction, Thriller, Suspense",-0.09111021497903056,0.061546667133615826,0.5146187871319112
+317,The Fellowship of the Ring,J.R.R. Tolkien,"Fantasy, Classics, Fiction, Adventure",7.653721678069262,1.3672442271969087,0.5146072076924113
+5350,Moving Pictures:,Terry Pratchett,"Fantasy, Fiction, Humor",-0.026118203415147097,-0.1995928448790424,0.5144752057726669
+5,The Girl on the Train,Paula Hawkins,"Fiction, Mystery, Thriller, Mystery, Crime",5.89502284338787,-0.3115097785987543,0.5143556697160319
+3686,The Dark and Hollow Places,Carrie Ryan,"Young Adult, Horror, Zombies, Science Fiction, Dystopia, Horror, Fantasy",-0.16162240641426334,0.17346360085332768,0.514354971286698
+14159,The Mask,"Owen  West, Dean Koontz","Horror, Fiction, Thriller",-0.18148411516581325,-0.7591775134775984,0.5142865299398999
+2227,River Marked,Patricia Briggs,"Fantasy, Urban Fantasy, Fantasy, Fantasy, Paranormal, Romance, Shapeshifters, Werewolves, Paranormal, Vampires",0.020902946571802986,1.0687990706110126,0.5141924722176594
+130,A Court of Mist and Fury,Sarah J. Maas,"Fantasy, Romance, Young Adult, New Adult",0.5240401902174765,2.6356361426869688,0.5141733848354277
+711,Library of Souls,Ransom Riggs,"Fantasy, Young Adult, Fiction",0.10512768673204366,0.6211313357321718,0.5141201443665787
+19154,Crow's Revenge,Marcus Alexander,"Fantasy, Fantasy, Magic, Young Adult, Family, Fiction",-0.24359297545931044,1.7029950283560444,0.5138235253103706
+14653,Search for Senna,Katherine Applegate,"Fantasy, Young Adult, Fantasy, Mythology, Fiction",-0.22725902496949335,-0.7218718689043606,0.5137586154329661
+720,The Bone Clocks,David Mitchell,"Fiction, Fantasy, Science Fiction",0.041811653345661136,-0.6099549351846504,0.5137403463983945
+19709,The Girlfriend,R.L. Stine,"Horror, Young Adult, Fiction",-0.23831891825738435,-1.393373471222627,0.5136774264812947
+1998,Inkspell,"Cornelia Funke, Anthea Bell","Fantasy, Young Adult, Fiction",0.13029079964878887,-0.2742041340255165,0.5135722059291
+7237,The Crippled God,Steven Erikson,"Fantasy, Fantasy, Epic Fantasy, Fiction, Fantasy, High Fantasy",-0.1702171662988837,1.7403006729292805,0.5133633195290979
+5335,Memories of Ice,Steven Erikson,"Fantasy, Fantasy, Epic Fantasy, Fiction, Fantasy, High Fantasy, Epic, Fantasy, Dark Fantasy, Science Fiction Fantasy, War, Fantasy, Magic, War, Military Fiction",-0.09661476801422604,1.5537724500630965,0.513344153676124
+11657,The High Druid's Blade,Terry Brooks,"Fantasy, Fiction, Fantasy, Epic Fantasy",-0.2292827002514176,-0.1995928448790424,0.513257927211378
+2233,Year One,Nora Roberts,"Fantasy, Fantasy, Paranormal, Romance, Fiction, Science Fiction, Dystopia, Fantasy, Urban Fantasy",-0.1310524081882843,0.3226861791462757,0.5130936488621172
+415,The Bad Beginning,Lemony Snicket,"Fiction, Young Adult, Childrens, Fantasy",1.0425034534210436,-0.23689848945228026,0.5129090354637895
+8355,The Fifty Year Sword,Mark Z. Danielewski,"Fiction, Horror, Fantasy, Poetry",-0.2262745342918005,-1.505290404942337,0.5128243404372409
+22682,Spiritwalk,Charles de Lint,"Fantasy, Fantasy, Urban Fantasy, Fiction",-0.23701017072949895,0.4346031128659843,0.5128037674977161
+1701,The Immortals of Meluha,Amish Tripathi,"Fiction, Fantasy, Fantasy, Mythology, Asian Literature, Indian Literature, Cultural, India",0.07216678257452472,0.2107692454265639,0.5127542468418562
+1363,Prince of Thorns,Mark  Lawrence,"Fantasy, Fiction, Fantasy, Dark Fantasy, Fantasy, Epic Fantasy, Fantasy, High Fantasy",0.0461637272145098,-0.4234267123184645,0.5123286876460962
+6341,A Dance with Dragons 2: After the Feast,George R.R. Martin,"Fantasy, Fiction, Fantasy, Epic Fantasy",-0.16845914723157498,1.6283837392095686,0.5122773038153203
+15690,Dreams of the Ringed Vale,Robert Fanney,"Fantasy, Fantasy, Magic, Young Adult, Adventure, Fantasy, Dragons, Shapeshifters, Werewolves",-0.24138177814353995,0.024241022560379646,0.5122677219871271
+10526,Servant of the Bones,Anne Rice,"Horror, Fantasy, Fiction, Fantasy, Paranormal",-0.1392252434967505,-1.0203170254902567,0.5120354911243252
+12180,Necropolis,Anthony Horowitz,"Fantasy, Young Adult, Horror",-0.2048970224333267,0.5838256911589323,0.5117924718350025
+7408,The Rose and the Thorn,Michael J. Sullivan,"Fantasy, Fiction, Fantasy, Epic Fantasy, Audiobook, Adventure",-0.17859705718638852,1.516466805489857,0.51172367376332
+11145,Disney in Shadow,Ridley Pearson,"Fantasy, Young Adult, Fiction",-0.2127690411458312,0.5092144020124599,0.5116900224458599
+127,The Little Prince & Letter to a Hostage,"Antoine de Saint-Exupéry, T.V.F. Cuffe","Classics, Fiction, Fantasy, Childrens",3.773910331335304,1.1434103597574885,0.5116092450025422
+16328,Night in the Lonesome October,Richard Laymon,"Horror, Fiction",-0.2340176316060357,-0.3861210677452283,0.5115625427127922
+19646,Wolf in Shadow,David Gemmell,"Fantasy, Fiction, Apocalyptic, Post Apocalyptic, Science Fiction",-0.22910689834468675,0.6957426248786442,0.5112054927564157
+7262,A Dangerous Path,Erin Hunter,"Fantasy, Animals, Fiction",-0.1212661020469325,1.6656893837828048,0.5111566376296695
+445,Annihilation,Jeff VanderMeer,"Science Fiction, Fiction, Horror, Fantasy, Mystery",0.1815741691967029,-1.206845248356441,0.5110139103936617
+6253,The Mummy,Anne Rice,"Horror, Fantasy, Fiction, Fantasy, Paranormal, Fantasy, Supernatural",-0.08647295135037407,-0.6099549351846504,0.5108401748451444
+12107,Remnant Population,Elizabeth Moon,"Science Fiction, Fiction, Fantasy",-0.2315056176943035,0.2480748899998001,0.5108055290532455
+780,A Heartbreaking Work of Staggering Genius,Dave Eggers,Fiction,0.3700806937206573,-1.1322339592099668,0.5107705600638169
+13688,Plague Town,Dana Fredsti,"Horror, Zombies, Fantasy, Urban Fantasy, Horror, Fantasy, Paranormal, Fiction",-0.2389166447402693,-0.6472605797578865,0.5106899923607795
+9740,"The Walking Dead, Vol. 10: What We Become",Robert Kirkman,"Sequential Art, Graphic Novels, Sequential Art, Comics, Horror, Horror, Zombies, Fiction, Graphic Novels Comics, Apocalyptic, Post Apocalyptic",-0.18344528310312205,1.1061047151842522,0.5106697500756991
+3548,Grimm's Complete Fairy Tales,"Jacob Grimm, Wilhelm Grimm","Classics, Fantasy, Fiction, Fantasy, Fairy Tales, Childrens",0.27767139812483504,1.2180216489039608,0.5105657864705886
+3550,The Complete Grimm's Fairy Tales,"Jacob Grimm, Wilhelm Grimm, Josef Scharl, Padraic Colum, Joseph Campbell, Margaret Raine Hunt, James Stern","Classics, Fantasy, Fiction, Fantasy, Fairy Tales, Childrens",0.2775932639440658,1.2180216489039608,0.5105636807611682
+323,The Princess Bride: S. Morgenstern's Classic Tale of True Love and High Adventure,William Goldman,"Fantasy, Fiction, Classics, Romance, Humor, Young Adult, Adventure, Science Fiction Fantasy, Fantasy, Fairy Tales, Humor, Comedy",2.4334676730208806,1.0314934260377764,0.5105302118121966
+99,Throne of Glass,Sarah J. Maas,"Fantasy, Young Adult, Romance",1.4155941665943346,0.8822708477448284,0.5104960435588415
+9191,The Thief's Daughter,Jeff Wheeler,"Fantasy, Fiction, Young Adult, Fantasy, Magic",-0.19629054242159094,1.1807160043307243,0.5104257588268825
+1401,John Dies at the End,David  Wong,"Horror, Fiction, Humor, Fantasy, Science Fiction",-0.04329209634823388,-0.2742041340255165,0.5102467385913911
+18826,A Man Called Blessed,"Ted Dekker, Bill Bright","Christian Fiction, Fiction, Christian, Fantasy",-0.23297063358372744,0.4719087574392238,0.5099424785476377
+20225,Dagon and Other Macabre Tales,"H.P. Lovecraft, S.T. Joshi, T.E.D. Klein","Horror, Fiction, Short Stories, Fantasy, Horror, Lovecraftian",-0.2271730773706472,0.8449652031715923,0.5099229612313734
+1840,The City of Mirrors,Justin Cronin,"Horror, Fiction, Fantasy, Science Fiction, Apocalyptic, Post Apocalyptic",-0.10846772323692516,0.8076595585983559,0.5096757901861184
+359,Coraline,"Neil Gaiman, Chris Riddell","Fantasy, Young Adult, Fiction, Horror, Childrens",1.2939470605546497,0.2107692454265639,0.5096599867043503
+3450,A Storm of Swords: Blood and Gold,George R.R. Martin,"Fantasy, Fiction, Fantasy, Epic Fantasy",0.029458639366038663,2.150662763234885,0.5095651621115176
+22582,Fatal Charm,Linda Joy Singleton,"Young Adult, Fantasy, Fantasy, Paranormal, Mystery, Fantasy, Supernatural",-0.2390650996837309,0.4346031128659843,0.5095524756544916
+5517,The Shadow of What Was Lost,James Islington,"Fantasy, Fantasy, Epic Fantasy, Fiction, Fantasy, High Fantasy",-0.18821146813004788,0.6211313357321718,0.5095246403036915
+11323,The Land of Laughs,Jonathan Carroll,"Fantasy, Fiction, Horror, Magical Realism, Fantasy, Urban Fantasy",-0.22537208450391535,-0.3115097785987543,0.5094570016421089
+19827,Knights of Dark Renown,David Gemmell,"Fantasy, Fiction, Fantasy, Epic Fantasy",-0.2312751218610341,0.2480748899998001,0.5094171740443653
+19147,White Wolf,David Gemmell,"Fantasy, Fiction, Fantasy, Heroic Fantasy, Fantasy, Epic Fantasy",-0.2132339395214084,0.9941877814645405,0.509363475737497
+9056,Demon Road,Derek Landy,"Fantasy, Young Adult, Horror, Fantasy, Paranormal, Fantasy, Urban Fantasy",-0.23049768676237986,0.17346360085332768,0.5091879127419374
+9861,Wards of Faerie,Terry Brooks,"Fantasy, Fiction, Fantasy, Epic Fantasy",-0.2195003008191043,0.2107692454265639,0.5090099157242418
+14911,Sword in the Storm,David Gemmell,"Fantasy, Fiction, Fantasy, Epic Fantasy, Fantasy, Heroic Fantasy",-0.21081568662659933,0.9941877814645405,0.5085328104589666
+16149,A Man Rides Through,Stephen R. Donaldson,"Fantasy, Fiction, Science Fiction Fantasy",-0.19873223557063086,0.09885231170685202,0.5085280229921222
+639,The Well of Ascension,Brandon Sanderson,"Fantasy, Fiction, Fantasy, Epic Fantasy, Fantasy, High Fantasy",0.5611968998823055,1.4045498717701483,0.5085012254742314
+9253,Off Armageddon Reef,David Weber,"Science Fiction, Fantasy, Fiction",-0.20906548097736755,0.5465200465856962,0.5084397325752695
+1855,Welcome to Night Vale,"Joseph Fink, Jeffrey Cranor","Fantasy, Fiction, Horror, Science Fiction, Humor",-0.14225294300155994,-0.4980380014649386,0.5084382314161191
+7569,House of Dark Shadows,Robert Liparulo,"Fantasy, Young Adult, Horror, Mystery, Fiction, Fantasy, Paranormal, Science Fiction, Time Travel, Christian Fiction, Thriller, Christian",-0.22007458704775848,-0.3861210677452283,0.5082167911321612
+567,The Scorpio Races,Maggie Stiefvater,"Fantasy, Young Adult, Romance, Fiction, Fantasy, Mythology",0.08130848172452998,0.3972974682927481,0.5081783317230522
+7081,The Death of Dulgath,Michael J. Sullivan,"Fantasy, Fiction, Fantasy, Epic Fantasy, Audiobook",-0.20915142857621372,1.4791611609166206,0.5080374880690592
+17542,Cold Hand in Mine: Strange Stories,Robert Aickman,"Horror, Short Stories, Fiction, Fantasy, Fantasy, Weird Fiction, Gothic",-0.23707658478315285,0.2480748899998001,0.5079974688142544
+2354,Guards! Guards!,Terry Pratchett,"Fantasy, Fiction, Humor",0.2834650476288769,1.2926329380504364,0.5079834337617698
+8479,Lady of the Lake,Andrzej Sapkowski,"Fantasy, Fiction, European Literature, Polish Literature",-0.1690178066240753,1.0314934260377764,0.5079428197056522
+168,All the Bright Places,Jennifer Niven,"Young Adult, Contemporary, Fiction, Mental Health, Mental Illness",0.5320294102011349,0.7330482694518804,0.5078861609320003

@@ -1,0 +1,501 @@
+,book_title,book_authors,genres,book_rating_count,book_rating,rec_score
+8,Mockingjay,Suzanne Collins,"Young Adult, Science Fiction, Dystopia, Fiction, Fantasy, Science Fiction",7.613045023560778,0.17346360085332768,1.0
+10,Catching Fire,Suzanne Collins,"Young Adult, Science Fiction, Dystopia, Fiction, Fantasy, Science Fiction",8.069778377247577,1.1434103597574885,0.9928886603036544
+1090,The Hunger Games Trilogy Boxset,Suzanne Collins,"Young Adult, Fiction, Fantasy, Science Fiction, Dystopia, Science Fiction",0.4233447647510726,1.8522176066489924,0.5725806500362778
+14407,The World of the Hunger Games,Kate Egan,"Young Adult, Science Fiction, Dystopia",-0.17697577293542605,1.8522176066489924,0.5240630544006226
+10634,The Hunger Games Tribute Guide,Emily Seife,"Young Adult, Science Fiction, Dystopia",0.06743575792894509,1.5537724500630965,0.44427692945954284
+3863,Gregor and the Prophecy of Bane,Suzanne Collins,"Fantasy, Young Adult, Fiction, Adventure, Childrens, Middle Grade",-0.1067370511328857,0.7330482694518804,0.43042716165264683
+4070,Gregor and the Code of Claw,Suzanne Collins,"Fantasy, Fiction, Young Adult, Childrens, Middle Grade",-0.09674759612153383,1.0314934260377764,0.4160059122387527
+4893,Gregor and the Curse of the Warmbloods,Suzanne Collins,"Fantasy, Young Adult, Fiction, Adventure, Childrens, Middle Grade",-0.09935337105018917,0.8076595585983559,0.40125891380340134
+5847,Gregor and the Marks of Secret,Suzanne Collins,"Fantasy, Young Adult, Fiction, Adventure, Childrens, Middle Grade",-0.1339511862948244,0.8822708477448284,0.40011303423868416
+1268,Gregor the Overlander,Suzanne Collins,"Fantasy, Young Adult, Fiction, Childrens, Middle Grade, Adventure, Childrens",0.06723260905894497,0.061546667133615826,0.3842941708491699
+16,Ready Player One,Ernest Cline,"Science Fiction, Fiction, Young Adult, Science Fiction, Dystopia, Fantasy",2.2781955222871377,1.1434103597574885,0.24909211838936535
+4,Divergent,Veronica Roth,"Young Adult, Science Fiction, Dystopia, Fiction, Fantasy",9.502634237866863,0.8822708477448284,0.246062547430017
+8903,Arena One: Slaverunners,Morgan Rice,"Science Fiction, Dystopia, Young Adult, Apocalyptic, Post Apocalyptic, Fiction, Fantasy",-0.22466106345891496,-2.3633202301267877,0.23158947624689843
+17,Ready Player One. Movie Tie-In,Ernest Cline,"Science Fiction, Fiction, Young Adult, Science Fiction, Dystopia, Fantasy",2.27623044764079,1.1434103597574885,0.2277283280042788
+29,The Giver,Lois Lowry,"Young Adult, Fiction, Classics, Science Fiction, Dystopia, Science Fiction",5.434523422187989,0.5092144020124599,0.22621394552897167
+1137,The Yiddish Policemen's Union,Michael Chabon,"Fiction, Mystery, Science Fiction, Science Fiction, Alternate History, Mystery, Crime",-0.02569627883899301,-1.057622670063493,0.2257047830396658
+11816,The Maze Runner Series,James Dashner,"Young Adult, Science Fiction, Fiction, Science Fiction, Dystopia",-0.20297882829544095,0.8076595585983559,0.21530923576567654
+15899,"Inheritance Cycle 4-Book Hard Cover Boxed Set (Eragon, Eldest, Brisingr, Inheritance)",Christopher Paolini,"Young Adult, Fantasy, Fantasy, Dragons",-0.21673044411083348,1.8522176066489924,0.2081252832964866
+767,Scythe,Neal Shusterman,"Young Adult, Science Fiction, Dystopia, Fantasy, Science Fiction",-0.06578302028266987,1.4045498717701483,0.20780901434075705
+5206,Among the Impostors,Margaret Peterson Haddix,"Young Adult, Science Fiction, Dystopia, Science Fiction, Fiction",-0.14473370324098445,0.28538053457303625,0.20514292198929876
+3995,Who Fears Death,Nnedi Okorafor,"Fantasy, Fiction, Science Fiction, Cultural, Africa, Science Fiction, Dystopia",-0.1989314777315925,-0.08767591115933222,0.2039609176768842
+3469,The Lottery,Shirley Jackson,"Short Stories, Classics, Horror, Fiction, Science Fiction, Dystopia",-0.06665030968920882,0.3972974682927481,0.20324444246402137
+2430,The Stone Sky,N.K. Jemisin,"Fantasy, Fiction, Science Fiction, Science Fiction, Dystopia",-0.1441437901761764,1.4791611609166206,0.20279008482909128
+42,The Maze Runner,James Dashner,"Young Adult, Science Fiction, Dystopia, Science Fiction",3.1246934233233934,0.17346360085332768,0.20252920828492438
+12420,The Quillan Games,D.J. MacHale,"Fantasy, Young Adult, Science Fiction",-0.16710351919522806,0.7703539140251199,0.20040384863274965
+1014,The Subtle Knife,Philip Pullman,"Fantasy, Young Adult, Fiction, Childrens, Science Fiction, Adventure, Science Fiction Fantasy, Science Fiction, Steampunk, Audiobook, Fantasy, Magic",0.9268531457554,0.5092144020124599,0.1997403164733071
+14729,A Time to Die,Nadine Brandes,"Science Fiction, Dystopia, Fantasy, Christian Fiction, Christian, Young Adult, Science Fiction",-0.2424561231291175,1.4045498717701483,0.19942468273648664
+32,Insurgent,Veronica Roth,"Young Adult, Science Fiction, Dystopia, Fiction, Fantasy",3.733307904298551,0.28538053457303625,0.198710414635028
+18,The Martian,Andy Weir,"Science Fiction, Fiction",2.2051869437763267,1.5537724500630965,0.19858236406715968
+6447,Undertow,Michael Buckley,"Young Adult, Fantasy, Science Fiction, Romance, Science Fiction, Dystopia",-0.22513377525256908,-0.3861210677452283,0.19827710528140377
+16284,City of Skies,Farah Cook,"Fantasy, Young Adult, Romance, Science Fiction, Dystopia",-0.2422295340048866,-0.1995928448790424,0.19735187826768458
+11,Harry Potter and the Sorcerer's Stone,"J.K. Rowling, Mary GrandPré","Fantasy, Young Adult, Fiction",21.5881636630438,1.7776063175025167,0.19635611522878582
+878,Morning Star,Pierce Brown,"Science Fiction, Fantasy, Science Fiction, Dystopia, Fiction, Young Adult",0.09136435078953577,1.8895232512222289,0.1962369138245566
+470,Unravel Me,Tahereh Mafi,"Science Fiction, Dystopia, Young Adult, Fantasy, Paranormal, Science Fiction",0.2945171274986909,1.0687990706110126,0.194851259567828
+22689,The Exemeus,"Folami Morris, Abeni Morris","Fantasy, Science Fiction, Dystopia, Young Adult, Romance, Fantasy, Magic, Science Fiction",-0.2443079032133493,0.4346031128659843,0.19355041550635782
+21175,Inside the Maze Runner: The Guide to the Glade,James Dashner,"Young Adult, Science Fiction, Dystopia, Science Fiction",-0.2408739059685397,1.1061047151842522,0.1935220489646663
+8224,Among the Free,Margaret Peterson Haddix,"Science Fiction, Dystopia, Young Adult, Science Fiction, Fiction",-0.18809817356793246,0.5838256911589323,0.19299837929796593
+1278,Never Fade,Alexandra Bracken,"Science Fiction, Dystopia, Young Adult, Fantasy, Science Fiction",-0.0066041917680205045,1.1807160043307243,0.19291136010373822
+16320,Closer,"Roderick Gordon, Brian  Williams","Fantasy, Young Adult, Adventure, Science Fiction, Fiction",-0.2299468407879565,0.4719087574392238,0.192474746007347
+134,The 5th Wave,Rick Yancey,"Young Adult, Science Fiction, Science Fiction, Dystopia",1.0599351891506688,0.35999182371951194,0.19211202197648608
+261,Red Rising,Pierce Brown,"Science Fiction, Fantasy, Young Adult, Science Fiction, Dystopia, Fiction",0.4215437718843408,1.0687990706110126,0.1915025924468582
+15900,Truancy,Isamu Fukui,"Young Adult, Science Fiction, Dystopia, Fiction, Science Fiction",-0.24022929897719314,-0.6472605797578865,0.19129890714487707
+21,Allegiant,Veronica Roth,"Young Adult, Science Fiction, Dystopia, Fiction, Science Fiction",2.570917417121152,-1.3187621820761528,0.191228365064085
+83,Ender's Game,Orson Scott Card,"Science Fiction, Fiction, Young Adult, Fantasy",3.529096409439972,1.1807160043307243,0.1899777528733295
+59,Cinder,Marissa Meyer,"Young Adult, Fantasy, Science Fiction, Science Fiction, Dystopia",1.89807663955365,0.6211313357321718,0.18980376300106983
+20235,Shadow Children (Boxed Set): Among the Hidden; Among the Impostors; Among the Betrayed; Among the Barons,Margaret Peterson Haddix,"Young Adult, Science Fiction, Dystopia, Science Fiction, Fiction",-0.238029821788538,1.3672442271969087,0.18957397677416699
+3495,The Calling,"James Frey, Nils Johnson-Shelton","Young Adult, Science Fiction, Dystopia, Fantasy, Science Fiction",-0.1861370056306236,-0.8337888026240724,0.18951633447183355
+1,The Fault in Our Stars,John Green,"Young Adult, Fiction, Romance, Contemporary",11.024047378970044,0.956882136891304,0.18897598763350126
+11142,The Hunger Games: Official Illustrated Movie Companion,Kate Egan,"Nonfiction, Science Fiction, Dystopia",0.2887859853392645,1.964134540368701,0.18785028156752953
+12107,Remnant Population,Elizabeth Moon,"Science Fiction, Fiction, Fantasy",-0.2315056176943035,0.2480748899998001,0.18706988013875397
+92,Red Queen,Victoria Aveyard,"Fantasy, Young Adult, Science Fiction, Dystopia, Romance",1.3217198551090883,0.3226861791462757,0.1868192342421875
+12807,Devices and Desires,K.J. Parker,"Fantasy, Fiction, Science Fiction, Steampunk, Science Fiction",-0.2310641595729571,-1.0949283146367308,0.18658725412265148
+9003,Legend: The Graphic Novel,"Marie Lu, Leigh Dragoon, Kaari","Sequential Art, Graphic Novels, Young Adult, Science Fiction, Dystopia, Sequential Art, Comics",-0.2316071921293036,-0.1995928448790424,0.18646651878297
+730,The Queen of the Tearling,Erika Johansen,"Fantasy, Young Adult, Fiction, Science Fiction, Dystopia",0.019137114086417356,0.1361579562800882,0.18621284947925124
+1696,Partials,Dan Wells,"Young Adult, Science Fiction, Dystopia, Science Fiction",-0.05508645093535604,-0.16228720030580626,0.18604235625036725
+5120,Ruins,Dan Wells,"Young Adult, Science Fiction, Dystopia, Science Fiction",-0.1910789925642803,0.2480748899998001,0.18575192973049212
+10756,Dance of the Red Death,Bethany Griffin,"Young Adult, Science Fiction, Steampunk, Science Fiction, Dystopia, Romance, Fantasy",-0.2311852675531495,-1.2441508929296787,0.18573787701688443
+40,Nineteen Eighty-Four,George Orwell,"Classics, Fiction, Science Fiction, Science Fiction, Dystopia",9.222781042605547,0.658436980305408,0.18437460471379977
+79,The Road,Cormac McCarthy,"Fiction, Science Fiction, Science Fiction, Dystopia, Apocalyptic, Post Apocalyptic",2.1497468358114866,-0.08767591115933222,0.18425842676787657
+342,Unwind,Neal Shusterman,"Young Adult, Science Fiction, Dystopia, Science Fiction, Fiction",0.4120465622118353,0.7330482694518804,0.18407410411112207
+82,The Selection,Kiera Cass,"Young Adult, Romance, Science Fiction, Dystopia, Fantasy",2.3783908889966185,0.5838256911589323,0.18376914513663511
+293,An Ember in the Ashes,Sabaa Tahir,"Fantasy, Young Adult, Romance, Science Fiction, Dystopia",0.2530981982728979,1.2553272934772002,0.18277358670646632
+3325,Endless Knight,Kresley Cole,"Young Adult, Fantasy, Fantasy, Paranormal, Romance, Science Fiction, Dystopia",-0.16556427583407332,1.4791611609166206,0.1824585156062899
+9474,The Other Side of the Island,Allegra Goodman,"Young Adult, Science Fiction, Dystopia, Science Fiction, Fiction",-0.2274426402943012,-1.0949283146367308,0.18173968801713247
+16051,"Sister, Missing",Sophie McKenzie,"Young Adult, Thriller, Mystery",-0.2324744815358425,0.28538053457303625,0.18170518834358218
+180,The Elite,Kiera Cass,"Young Adult, Romance, Science Fiction, Dystopia, Fantasy",0.9929937297765921,0.1361579562800882,0.1814628747123169
+6,The Book Thief,Markus Zusak,"Historical, Historical Fiction, Fiction, Young Adult",5.563862838324409,1.4045498717701483,0.18066034658275407
+2798,Light,Michael  Grant,"Young Adult, Science Fiction, Dystopia, Science Fiction",-0.12863806200251365,1.516466805489857,0.18058886070006863
+10086,Vortex,S.J. Kincaid,"Young Adult, Science Fiction, Science Fiction, Dystopia",-0.2229303913548755,1.1434103597574885,0.18055117489268496
+41,1984,George Orwell,"Classics, Fiction, Science Fiction, Science Fiction, Dystopia",9.220116667041315,0.658436980305408,0.18044228330020923
+1432,Incarceron,Catherine Fisher,"Fantasy, Young Adult, Science Fiction, Dystopia, Science Fiction, Science Fiction, Steampunk",-0.03286899663361252,-1.281456537502915,0.18036505687803428
+10665,Qualify,Vera Nazarian,"Science Fiction, Young Adult, Science Fiction, Dystopia, Fantasy",-0.23027109763814896,1.1061047151842522,0.18030631138958192
+436,Champion,Marie Lu,"Science Fiction, Dystopia, Young Adult, Romance",0.31006192276273825,1.4045498717701483,0.18029436216345407
+2047,The Fall of Five,Pittacus Lore,"Young Adult, Fantasy, Science Fiction",-0.043776528269003384,0.956882136891304,0.1802721256146665
+1724,In the Afterlight,Alexandra Bracken,"Young Adult, Science Fiction, Dystopia, Fantasy",-0.10239669739115244,1.2926329380504364,0.17992075816043696
+3440,On the Beach,Nevil Shute,"Fiction, Science Fiction, Apocalyptic, Post Apocalyptic, Classics, Science Fiction, Dystopia, Science Fiction, Apocalyptic",-0.1259814998563583,-0.1995928448790424,0.17973517296988095
+20125,In Her Name: Redemption,Michael R. Hicks,"Science Fiction, Fantasy, Fiction",-0.2372172263085376,0.8076595585983559,0.17951265502181848
+11441,Eve of Man,"Giovanna Fletcher, Tom  Fletcher","Science Fiction, Dystopia, Young Adult, Fiction",-0.2348966411396901,0.8076595585983559,0.17948165294310403
+21749,Disconnect,Imran Siddiq,"Science Fiction, Young Adult, Science Fiction, Dystopia",-0.2441477281427723,-1.1322339592099668,0.17928186483103536
+1255,The House of the Scorpion,Nancy Farmer,"Young Adult, Science Fiction, Science Fiction, Dystopia, Fiction",0.028587443250461243,0.4346031128659843,0.17927349378028745
+93,Harry Potter and the Goblet of Fire,"J.K. Rowling, Mary GrandPré","Fantasy, Young Adult, Fiction",7.8724348768786205,2.0760514740884126,0.1792207826937921
+8258,Heir Apparent,Vivian Vande Velde,"Fantasy, Young Adult, Science Fiction, Adventure, Fiction",-0.20908892123159836,0.4346031128659843,0.17896427024725745
+10017,Epic,Conor Kostick,"Science Fiction, Fantasy, Young Adult, Science Fiction, Dystopia",-0.22234438499910594,-0.16228720030580626,0.17878928904196653
+1776,Ship Breaker,Paolo Bacigalupi,"Young Adult, Science Fiction, Science Fiction, Dystopia, Fiction, Adventure",-0.10170520989134436,-0.9084000917705448,0.1782898496691186
+6185,Foundation's Edge,Isaac Asimov,"Science Fiction, Fiction",-0.015343499887063988,0.4346031128659843,0.17826458787014784
+13270,The Dark City,Catherine Fisher,"Fantasy, Young Adult, Science Fiction, Adventure, Fiction",-0.23656871260815254,-1.057622670063493,0.17797049563665573
+3255,Lies,Michael  Grant,"Young Adult, Science Fiction, Dystopia, Science Fiction, Fantasy",-0.026934705604186027,0.3972974682927481,0.17794066613846077
+9696,Through the Dark,Alexandra Bracken,"Young Adult, Science Fiction, Dystopia, Fantasy",-0.2315368713666112,1.5537724500630965,0.1777240072711897
+1498,The Long Walk,"Richard Bachman, Stephen King","Horror, Fiction, Science Fiction, Dystopia, Thriller, Science Fiction",0.10750296582742963,0.4719087574392238,0.17770211983699635
+291,Illuminae,"Amie Kaufman, Jay Kristoff","Science Fiction, Young Adult",0.0492695609000885,1.2180216489039608,0.17748160096706667
+391,I Am Number Four,Pittacus Lore,"Young Adult, Fantasy, Science Fiction",0.8867898445659541,-0.16228720030580626,0.1774117424184165
+8825,Adulthood Rites,Octavia E. Butler,"Science Fiction, Fiction, Fantasy",-0.2069558580965971,0.658436980305408,0.1773311866181475
+188,The One,Kiera Cass,"Young Adult, Romance, Science Fiction, Dystopia",0.8558057351818977,0.8449652031715923,0.1770698065448224
+15478,Elites of Eden,"Joey Graceffa, Laura L. Sullivan","Young Adult, Science Fiction, Dystopia, Science Fiction",-0.23858848118103834,1.2180216489039608,0.17702748737158822
+2824,Variant,Robison Wells,"Young Adult, Science Fiction, Dystopia, Science Fiction",-0.16457978515638047,-0.1995928448790424,0.1769353890212689
+863,The Fifth Season,N.K. Jemisin,"Fantasy, Fiction, Science Fiction, Science Fiction, Dystopia",-0.004924306881481079,1.2180216489039608,0.1768457713007025
+218,The Death Cure,James Dashner,"Young Adult, Science Fiction, Dystopia, Science Fiction",0.8864851212609538,-0.7964831580508346,0.17668077161604634
+592,The Winner's Curse,Marie Rutkoski,"Fantasy, Young Adult, Romance, Science Fiction, Dystopia",0.056856389852785176,0.09885231170685202,0.17654597145845338
+11322,Death: The Deluxe Edition,"Neil Gaiman, Chris Bachalo, Mark Buckingham, Michael Dringenberg, P. Craig Russell, Malcolm Jones III, Colleen Doran, Dave McKean","Sequential Art, Graphic Novels, Sequential Art, Comics, Fantasy, Fiction",-0.2257861956619925,1.7403006729292805,0.17654582584366796
+1370,Monsters of Men,Patrick Ness,"Young Adult, Science Fiction, Dystopia, Science Fiction, Fantasy",-0.02654403470033965,0.9941877814645405,0.17608363746165245
+81,The Host,Stephenie Meyer,"Science Fiction, Fiction, Young Adult, Science Fiction, Dystopia, Fantasy, Paranormal, Science Fiction, Aliens",2.9298736569932813,-0.5353436460381764,0.17608088675477834
+8387,Island of Silence,Lisa McMann,"Fantasy, Young Adult, Childrens, Middle Grade, Fiction, Science Fiction, Dystopia, Fantasy, Magic",-0.2082333519521748,1.2926329380504364,0.17604442293741168
+3066,The Running Man,"Richard Bachman, Stephen King","Horror, Fiction, Science Fiction, Science Fiction, Dystopia, Thriller",0.07427640545529518,-0.4980380014649386,0.1758562995726919
+504,Requiem,Lauren Oliver,"Young Adult, Science Fiction, Dystopia, Romance",0.21112060965460447,-0.9084000917705448,0.1754933405511488
+1971,Shades of Grey,Jasper Fforde,"Fantasy, Fiction, Science Fiction, Dystopia, Science Fiction",-0.13083753919116878,0.5838256911589323,0.1754094381872604
+4437,Dark Life,Kat Falls,"Young Adult, Science Fiction, Science Fiction, Dystopia, Fantasy",-0.19328237646197385,-0.3115097785987543,0.1753832285618997
+17099,The Keeping Place,Isobelle Carmody,"Fantasy, Young Adult, Science Fiction, Dystopia, Science Fiction",-0.2256924346450694,0.4346031128659843,0.1751640122855233
+15957,Bradbury Stories: 100 of His Most Celebrated Tales,Ray Bradbury,"Short Stories, Science Fiction, Fiction, Fantasy, Classics",-0.22226625081833667,1.5910780946363323,0.1749842662973375
+5404,Parable of the Talents,Octavia E. Butler,"Science Fiction, Fiction, Science Fiction, Dystopia, Fantasy",-0.18356639108331446,0.919576492318068,0.17498083837061562
+6424,Among the Betrayed,Margaret Peterson Haddix,"Young Adult, Science Fiction, Dystopia, Science Fiction, Fiction",-0.1576727235763765,0.3226861791462757,0.1748939786939822
+746,Warcross,Marie Lu,"Young Adult, Science Fiction, Fantasy",-0.07693667458748397,0.8449652031715923,0.17484906872991474
+8288,Armageddon's Children,Terry Brooks,"Fantasy, Fiction, Science Fiction",-0.18997339390639506,0.3972974682927481,0.17471478561213744
+1236,The Testing,Joelle Charbonneau,"Science Fiction, Dystopia, Young Adult, Science Fiction",-0.05117583518785379,0.2480748899998001,0.17471282906324276
+2384,The Dead and the Gone,Susan Beth Pfeffer,"Young Adult, Science Fiction, Dystopia, Science Fiction, Apocalyptic, Post Apocalyptic, Fiction",-0.1162733278957758,-0.5353436460381764,0.17447983456768443
+8867,Skybreaker,Kenneth Oppel,"Science Fiction, Steampunk, Young Adult, Adventure, Fantasy, Science Fiction, Fiction",-0.20347498034332587,0.9941877814645405,0.17426098830462672
+2605,Monument 14,Emmy Laybourne,"Young Adult, Science Fiction, Dystopia, Science Fiction, Apocalyptic, Post Apocalyptic",-0.16505249695003454,-0.3115097785987543,0.17422557447415948
+5480,Prelude to Foundation,Isaac Asimov,"Science Fiction, Fiction",-0.03577949486726803,0.35999182371951194,0.17406467820886812
+22886,Galax-Arena,Gillian Rubinstein,"Young Adult, Science Fiction, Fantasy, Fiction, Science Fiction, Dystopia",-0.2423701755302713,-0.6099549351846504,0.17388226108165672
+14594,Island of Shipwrecks,Lisa McMann,"Fantasy, Young Adult, Childrens, Middle Grade, Science Fiction, Dystopia, Adventure",-0.22893500314699436,1.7403006729292805,0.17385755081672483
+7507,Inhuman,Kat Falls,"Science Fiction, Dystopia, Young Adult, Science Fiction, Fantasy",-0.22243814601602907,0.3972974682927481,0.17375082402699016
+936,Son,Lois Lowry,"Young Adult, Science Fiction, Dystopia, Fiction, Fantasy",0.02475105497468981,-0.013064622012858192,0.173703081976206
+17073,"Death Note: Black Edition, Vol. 6","Tsugumi Ohba, Takeshi Obata","Sequential Art, Graphic Novels, Sequential Art, Comics, Fantasy, Fiction",-0.23640853753757554,1.7403006729292805,0.17350457777940312
+14829,The Culling,Steven dos Santos,"Young Adult, Science Fiction, Dystopia, Lgbt, Science Fiction",-0.2403386868302701,-0.4607323568917023,0.17332602362530633
+4081,The End of Eternity,Isaac Asimov,"Science Fiction, Fiction, Science Fiction, Time Travel",-0.10369372479192243,0.8822708477448284,0.1732939450194472
+17709,Biting the Sun,Tanith Lee,"Fantasy, Science Fiction, Fiction, Science Fiction, Dystopia",-0.238029821788538,0.956882136891304,0.17323604528572825
+663,The Power,Naomi Alderman,"Fiction, Science Fiction, Feminism, Science Fiction, Dystopia",0.037596314293158725,-0.3861210677452283,0.1731848823160715
+6350,Maximum Ride Forever,James Patterson,"Young Adult, Fantasy, Science Fiction",-0.21008513203640655,0.28538053457303625,0.17312296438085728
+1919,Thunderhead,Neal Shusterman,"Young Adult, Science Fiction, Science Fiction, Dystopia, Fantasy",-0.17098678797946107,2.0760514740884126,0.17298308871372065
+12148,The Selection Stories: The Queen & The Favorite,Kiera Cass,"Romance, Young Adult, Fantasy, Science Fiction, Dystopia",-0.22037540364372016,0.7330482694518804,0.17298088395892147
+1487,Firefight,Brandon Sanderson,"Fantasy, Young Adult, Science Fiction, Science Fiction, Dystopia",-0.002005995229748634,1.1434103597574885,0.1728908889706154
+4481,Zodiac,Romina Russell,"Young Adult, Fantasy, Science Fiction, Romance",-0.2119837926291,-0.9457057363437826,0.17287791250611745
+889,Wither,Lauren DeStefano,"Young Adult, Science Fiction, Dystopia, Fantasy, Science Fiction",0.1194262418128211,-0.6472605797578865,0.17281498499166473
+2071,War Storm,Victoria Aveyard,"Fantasy, Young Adult, Science Fiction, Dystopia",-0.14729259766117822,-0.3115097785987543,0.1726764915010051
+19608,Nexis,A.L. Davroe,"Young Adult, Science Fiction, Dystopia, Science Fiction, Fantasy",-0.2434484272248873,0.1361579562800882,0.17236212885390062
+9683,Shade's Children,Garth Nix,"Young Adult, Science Fiction, Fantasy, Fiction, Science Fiction, Dystopia",-0.20140833126197846,-0.3115097785987543,0.17220447474548473
+9157,The Alliance,Gerald N. Lund,"Science Fiction, Fiction, Lds, Lds Fiction, Science Fiction, Dystopia, Young Adult",-0.2293725545593023,0.8822708477448284,0.17220167963594524
+2554,Flawed,Cecelia Ahern,"Young Adult, Science Fiction, Dystopia",-0.17743676460196475,0.3972974682927481,0.17215162207658175
+12257,Alight,Scott Sigler,"Science Fiction, Young Adult, Science Fiction, Dystopia",-0.2363421234839217,0.7330482694518804,0.17189497235202217
+36,Harry Potter and the Deathly Hallows,"J.K. Rowling, Mary GrandPré","Fantasy, Young Adult, Fiction",7.842177415375718,2.374496630674309,0.17185822652678817
+3231,The Prophet of Yonwood,Jeanne DuPrau,"Young Adult, Science Fiction, Dystopia, Fantasy, Science Fiction, Fiction",-0.14458134158848435,-2.661765386712684,0.17172906990062764
+8153,Obernewtyn,Isobelle Carmody,"Fantasy, Young Adult, Science Fiction, Dystopia, Science Fiction",-0.20436180329505715,-0.05037026658609438,0.17165556024642956
+5436,Unite Me,Tahereh Mafi,"Science Fiction, Dystopia, Young Adult, Romance, Fantasy",-0.19200097589735773,0.8449652031715923,0.17158571190352406
+12056,A King's Ransom,Jude Watson,"Adventure, Mystery, Young Adult, Fiction",-0.16769343226003608,0.5838256911589323,0.1713960375328576
+373,Mahşer,Stephen King,"Horror, Fiction, Fantasy, Science Fiction, Apocalyptic, Post Apocalyptic",1.803022501938788,1.3299385826236725,0.1712551272670807
+7269,The Lost Girl,Sangu Mandanna,"Young Adult, Science Fiction, Science Fiction, Dystopia, Fantasy",-0.2221334227110289,-0.3861210677452283,0.1711675199443894
+933,Gemina,"Amie Kaufman, Jay Kristoff, Marie Lu","Science Fiction, Young Adult",-0.11701169590404545,2.113357118661649,0.1711067037108232
+550,The Young Elites,Marie Lu,"Fantasy, Young Adult, Science Fiction, Dystopia",0.09372400304876788,-0.23689848945228026,0.1709404071239279
+2211,The Obelisk Gate,N.K. Jemisin,"Fantasy, Fiction, Science Fiction, Science Fiction, Dystopia",-0.10217792168499848,1.3299385826236725,0.17089091371149276
+44,The Handmaid's Tale,Margaret Atwood,"Fiction, Classics, Science Fiction, Dystopia, Science Fiction, Feminism",3.452810102045889,0.3972974682927481,0.17085895124168776
+7361,Human.4,Mike A. Lancaster,"Young Adult, Science Fiction, Science Fiction, Dystopia",-0.22311791338872175,-1.4679847603691007,0.17079137667880445
+11560,"Sword Art Online, Vol. 01: Aincrad","Reki Kawahara, abec","Novels, Light Novel, Sequential Art, Manga, Fantasy, Science Fiction",-0.22071919403910503,1.3672442271969087,0.1707091875755754
+3339,Forest Born,Shannon Hale,"Fantasy, Young Adult, Fiction, Fantasy, Fairy Tales",-0.1555904476588753,0.1361579562800882,0.17060831928059716
+10481,The Dervish House,Ian McDonald,"Science Fiction, Fiction, Science Fiction, Cyberpunk, Fantasy",-0.228595119460648,-0.4980380014649386,0.17053352255439497
+160,Legend,Marie Lu,"Young Adult, Romance, Fantasy, Science Fiction, Fiction",1.1592671731626492,0.7330482694518804,0.17029574049026808
+5379,The Drowned Cities,Paolo Bacigalupi,"Young Adult, Science Fiction, Science Fiction, Dystopia, Fiction",-0.20868653020063652,-0.3488154231719905,0.17026411059157176
+564,The Infinite Sea,Rick Yancey,"Young Adult, Science Fiction, Science Fiction, Dystopia",0.1583448772539973,-0.2742041340255165,0.1702436302856492
+7324,Children of Eden,"Joey Graceffa, Laura L. Sullivan","Young Adult, Science Fiction, Dystopia, Science Fiction, Fantasy",-0.22341482327564505,-0.16228720030580626,0.17021781162464766
+14794,Demons and Druids,"James Patterson, Adam Sadler","Young Adult, Fantasy, Science Fiction, Fiction",-0.22663785823237764,-0.3488154231719905,0.16997572330577831
+18667,Run for Cover,Eva Gray,"Young Adult, Science Fiction, Dystopia",-0.2381626498958458,1.0314934260377764,0.16995052687915585
+20314,Betrayer,C.J. Cherryh,"Science Fiction, Fiction, Fantasy",-0.2383892390200767,1.0687990706110126,0.16993008017737546
+17605,Contagion,Teri Terry,"Young Adult, Science Fiction, Science Fiction, Dystopia",-0.24217093336930964,-0.3861210677452283,0.16991746805714825
+9458,Among the Enemy,Margaret Peterson Haddix,"Young Adult, Science Fiction, Dystopia, Science Fiction, Fiction",-0.18096452286369755,0.658436980305408,0.16982948769631903
+2367,Wolf by Wolf,Ryan Graudin,"Historical, Historical Fiction, Young Adult, Fantasy, Historical, Science Fiction, Alternate History",-0.1908953772394725,1.0687990706110126,0.1697116525171234
+3287,Pathfinder,Orson Scott Card,"Fantasy, Science Fiction, Young Adult, Fiction",-0.16564241001484262,-0.013064622012858192,0.16964290706779778
+2820,The Unwanteds,Lisa McMann,"Fantasy, Childrens, Middle Grade, Young Adult, Science Fiction, Dystopia, Fantasy, Magic, Fiction",-0.15844234525695386,0.4346031128659843,0.1696093816498605
+7414,Salt & Stone,Victoria Scott,"Young Adult, Science Fiction, Dystopia, Science Fiction, Fantasy",-0.2262628141646851,1.0687990706110126,0.16938801463893077
+3717,Fire & Flood,"Victoria Scott, Michaela Link","Young Adult, Science Fiction, Dystopia, Fantasy, Science Fiction",-0.20760046508794364,0.2107692454265639,0.16928320252316797
+88,Fahrenheit 451,Ray Bradbury,"Classics, Fiction, Science Fiction, Science Fiction, Dystopia",4.923170369434426,-0.013064622012858192,0.16920920044963877
+22343,Blood Ransom,Sophie McKenzie,"Young Adult, Thriller, Romance, Science Fiction",-0.2374242818875761,0.8449652031715923,0.16875850090620703
+1006,Messenger,Lois Lowry,"Young Adult, Science Fiction, Dystopia, Fiction, Fantasy",0.13754165162417767,-0.2742041340255165,0.16875315122901208
+157,Scarlet,Marissa Meyer,"Young Adult, Fantasy, Science Fiction, Romance, Science Fiction, Dystopia, Retellings, Fiction, Fantasy, Fairy Tales, Audiobook, Adventure",0.7283337259658629,1.1807160043307243,0.16845593958654753
+175,The Scorch Trials,James Dashner,"Young Adult, Science Fiction, Dystopia, Science Fiction",1.2542744302690496,-0.1995928448790424,0.16816974931106066
+2816,For Darkness Shows the Stars,Diana Peterfreund,"Young Adult, Science Fiction, Dystopia, Romance, Science Fiction, Fantasy",-0.1768507582461952,-0.3861210677452283,0.16816725819598827
+2366,Wolf By Wolf,Ryan Graudin,"Historical, Historical Fiction, Young Adult, Fantasy, Historical, Science Fiction, Alternate History",-0.19087975040331864,1.0687990706110126,0.16815460747482275
+658,The City of Ember,Jeanne DuPrau,"Young Adult, Science Fiction, Dystopia, Fantasy, Science Fiction, Fiction",0.6141796878619513,-0.4607323568917023,0.16814086378300297
+18448,The Wrinkle in Time Quintet - Digest Size Boxed Set,Madeleine L'Engle,"Fantasy, Fiction, Young Adult, Science Fiction",-0.2335996137389201,1.4418555163433844,0.16806711099619898
+1917,Calamity,Brandon Sanderson,"Fantasy, Young Adult, Science Fiction, Fiction, Science Fiction, Dystopia",-0.07178763207478871,0.7703539140251199,0.16806667575246326
+18138,Tremor,Patrick Carman,"Science Fiction, Dystopia, Young Adult, Science Fiction",-0.2390885399379617,-0.16228720030580626,0.16799319469095797
+4997,The Finisher,David Baldacci,"Fantasy, Young Adult, Science Fiction, Dystopia, Fiction, Mystery, Science Fiction, Adventure, Did Not Finish, Abandoned, Childrens, Middle Grade",-0.20346716692524894,-0.6845662243311244,0.16790763840689618
+1758,Battle Royale,"Koushun Takami, Nathan Collins","Fiction, Science Fiction, Dystopia, Horror, Science Fiction, Young Adult, Thriller",-0.06723240933593994,0.9941877814645405,0.16789049206732093
+3497,UnDivided,Neal Shusterman,"Young Adult, Science Fiction, Dystopia, Science Fiction",-0.18367187222735296,1.8522176066489924,0.16788863709621782
+657,Gone,Michael  Grant,"Young Adult, Science Fiction, Dystopia, Science Fiction, Fantasy",0.4002600210427901,-0.4607323568917023,0.16782744580764403
+16865,Sword Art Online: Aincrad Omnibus,"Tamako Nakamura, Reki Kawahara, abec, Stephen Paul, Lys Blakeslee, Terri Delgado","Sequential Art, Manga, Fantasy, Science Fiction, Sequential Art, Graphic Novels",-0.2359436391619984,1.6283837392095686,0.16777660700116476
+159,Never Let Me Go,Kazuo Ishiguro,"Fiction, Science Fiction, Science Fiction, Dystopia",1.2305528929874976,-0.6472605797578865,0.1677367914680561
+15926,Prison Nation,Jenni Merritt,"Young Adult, Science Fiction, Dystopia, Science Fiction, Fiction",-0.23948702425988505,-1.3560678266493889,0.16766668616096791
+9538,In the End,Demitria Lunetta,"Young Adult, Science Fiction, Dystopia, Science Fiction, Apocalyptic, Post Apocalyptic, Horror, Zombies",-0.2294077149406485,-0.23689848945228026,0.1674868210993699
+4598,Insignia,S.J. Kincaid,"Young Adult, Science Fiction, Science Fiction, Dystopia",-0.19498960831178253,0.6211313357321718,0.16744341041769203
+3400,The Last Guardian,Eoin Colfer,"Fantasy, Fiction, Young Adult, Science Fiction",-0.06687689881343974,0.5838256911589323,0.16728074016255778
+423,The Darkest Minds,Alexandra Bracken,"Young Adult, Science Fiction, Dystopia, Fantasy, Science Fiction, Romance, Fantasy, Paranormal, Fiction, Did Not Finish, Adventure, Fantasy, Supernatural",0.2046510994869085,0.8822708477448284,0.16727575107164627
+1699,The Rise of Nine,Pittacus Lore,"Young Adult, Fantasy, Science Fiction",0.10022867359781007,0.7330482694518804,0.16724675491091567
+5208,Mystic City,Theo Lawrence,"Fantasy, Young Adult, Science Fiction, Dystopia, Romance",-0.2045180716565957,-0.8710944471973087,0.1672366738035143
+2224,Identical,Ellen Hopkins,"Young Adult, Poetry, Fiction, Contemporary",-0.04007687480957819,1.2553272934772002,0.1666769421542721
+432,The Knife of Never Letting Go,Patrick Ness,"Young Adult, Science Fiction, Dystopia, Science Fiction, Fantasy",0.2541412895861677,-0.05037026658609438,0.16664106581643742
+9076,Kinslayer,Jay Kristoff,"Fantasy, Science Fiction, Steampunk, Young Adult, Science Fiction, Dystopia",-0.2284779181894941,0.024241022560379646,0.1666184537884457
+3980,The Paper Menagerie and Other Stories,Ken Liu,"Short Stories, Fantasy, Fiction, Science Fiction",-0.2036234352867875,1.516466805489857,0.16653204005112177
+4079,United as One,Pittacus Lore,"Young Adult, Fantasy, Science Fiction",-0.17523728741330966,1.2180216489039608,0.16651645742962395
+4224,Oblivion,Jennifer L. Armentrout,"Young Adult, Romance, Fantasy, Paranormal, Science Fiction, Aliens, Fantasy, Science Fiction",-0.19689608232255287,1.5910780946363323,0.16651500540056408
+3272,UnSouled,Neal Shusterman,"Young Adult, Science Fiction, Dystopia, Science Fiction",-0.15843453183887693,0.919576492318068,0.16650935221515495
+237,Winter,Marissa Meyer,"Young Adult, Fantasy, Science Fiction, Romance",0.3092180736104301,1.8522176066489924,0.16638923512338336
+104,11.22.63,Stephen King,"Fiction, Historical, Historical Fiction, Science Fiction, Science Fiction, Time Travel, Fantasy",1.1038622255791557,1.1807160043307243,0.16634688860009972
+105,11/22/1963,Stephen King,"Fiction, Historical, Historical Fiction, Science Fiction, Science Fiction, Time Travel, Fantasy",1.1028503879381937,1.1807160043307243,0.16633926303190835
+12079,Raven Rise,D.J. MacHale,"Fantasy, Young Adult, Science Fiction, Fiction",-0.16517751163926542,0.7703539140251199,0.16631332973947766
+2576,The Diabolic,S.J. Kincaid,"Young Adult, Science Fiction, Fantasy, Science Fiction, Dystopia",-0.18916470513543304,0.3226861791462757,0.1661917118669628
+569,Steelheart,Brandon Sanderson,"Fantasy, Young Adult, Science Fiction, Science Fiction, Dystopia",0.2145858605717219,0.658436980305408,0.16618863646552062
+3117,The Lost Gate,Orson Scott Card,"Fantasy, Fiction, Science Fiction, Young Adult",-0.1543598343117592,-0.6099549351846504,0.16614588969906488
+778,Life As We Knew It,Susan Beth Pfeffer,"Young Adult, Science Fiction, Dystopia, Science Fiction, Fiction",0.16512301743573196,-0.3488154231719905,0.16598639379834618
+65,The Time Traveler's Wife,Audrey Niffenegger,"Fiction, Romance, Fantasy, Science Fiction, Time Travel, Science Fiction",5.25744792831058,-0.08767591115933222,0.16567518047200538
+16904,Extraction,Stephanie  Diaz,"Young Adult, Science Fiction, Science Fiction, Dystopia",-0.24167478132142475,-1.6172073386620491,0.16566086428313292
+22572,The World Of Ptavvs,Larry Niven,"Science Fiction, Fiction",-0.2345841044166129,-0.5353436460381764,0.16555439347983228
+1320,The Ask and the Answer,Patrick Ness,"Young Adult, Science Fiction, Dystopia, Science Fiction, Fantasy",-0.011132067543600029,0.8449652031715923,0.16549250941622
+9997,On the Edge of Gone,Corinne Duyvis,"Young Adult, Science Fiction, Science Fiction, Dystopia, Fiction",-0.2361702282862293,-0.08767591115933222,0.16532182410028448
+3648,Ender in Exile,Orson Scott Card,"Science Fiction, Fiction",-0.08365230742460321,-0.3115097785987543,0.16520520971795355
+5539,Divergent Series Complete Box Set,Veronica Roth,"Young Adult, Fiction, Science Fiction, Dystopia, Science Fiction",-0.1012364048067287,1.2180216489039608,0.16512576708509388
+1726,In The Afterlight,Alexandra Bracken,"Young Adult, Science Fiction, Dystopia, Fantasy, Science Fiction, Romance, Fantasy, Paranormal, Fiction, Did Not Finish, Adventure, Fantasy, Supernatural",-0.10252171208038327,1.2926329380504364,0.165056972655968
+3136,"Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest",Stephen E. Ambrose,"History, Nonfiction, War, War, Military Fiction, War, World War II, Military, Military History",0.0687288786206766,1.6656893837828048,0.16500381425556862
+2835,Slated,Teri Terry,"Young Adult, Science Fiction, Dystopia, Science Fiction",-0.15796572675426127,0.3226861791462757,0.16499376706082192
+1392,Little Brother,Cory Doctorow,"Young Adult, Science Fiction, Fiction, Science Fiction, Dystopia",-0.07520209577440605,-0.1995928448790424,0.16495219807617859
+3568,Mortal Engines,Philip Reeve,"Science Fiction, Steampunk, Young Adult, Science Fiction, Fantasy, Fiction",-0.1583524909490692,-0.1995928448790424,0.16491140042736885
+22310,The Sowing,Steven dos Santos,"Young Adult, Lgbt, Science Fiction, Dystopia, Romance, M M Romance, Science Fiction",-0.24331169240854106,0.919576492318068,0.16474651772178636
+7852,To Your Scattered Bodies Go,Philip José Farmer,"Science Fiction, Fiction, Fantasy",-0.143921107760984,-0.1249815557325684,0.16467898159258715
+3616,The Time Paradox,Eoin Colfer,"Fantasy, Young Adult, Fiction, Science Fiction",0.028278813236422607,0.3226861791462757,0.1646572413530315
+3983,Fragments,Dan Wells,"Science Fiction, Dystopia, Young Adult, Science Fiction",-0.15709453063868384,0.5092144020124599,0.16461015888623665
+4844,Railsea,China Miéville,"Fantasy, Science Fiction, Fiction, Science Fiction, Steampunk, Young Adult",-0.20455323203794187,-0.3488154231719905,0.16456369783904473
+17078,Thunder,Bonnie S. Calhoun,"Fantasy, Science Fiction, Dystopia, Young Adult, Christian Fiction, Science Fiction",-0.2415497666321939,-1.2441508929296787,0.16453942875662975
+8481,The Gate to Women's Country,Sheri S. Tepper,"Science Fiction, Fiction, Fantasy, Science Fiction, Dystopia, Feminism",-0.2024045420667868,0.2480748899998001,0.1644020402947171
+7,A könyvtolvaj,Markus Zusak,"Historical, Historical Fiction, Fiction, Young Adult, Historical, War, World War II, Holocaust, Classics, War, World War II, Writing, Books About Books, Novels",5.562530650542294,1.4045498717701483,0.16434257970957117
+8965,The Chaos,Rachel Ward,"Young Adult, Fantasy, Science Fiction, Science Fiction, Dystopia",-0.21818764658218048,-0.5726492906114126,0.16426809189020897
+20421,Hive,J.K. Accinni,"Science Fiction, Fantasy, Science Fiction, Aliens, Fiction",-0.2434679607700796,1.5910780946363323,0.16423836884629872
+3470,The Player of Games,Iain M. Banks,"Science Fiction, Fiction, Space, Space Opera",-0.05034761287169947,1.0314934260377764,0.16419228345919612
+181,Shatter Me,Tahereh Mafi,"Young Adult, Science Fiction, Dystopia, Romance, Fantasy",0.6599077171571699,0.024241022560379646,0.16415041210669928
+10545,Turnabout,Margaret Peterson Haddix,"Young Adult, Science Fiction, Fiction, Fantasy",-0.219429980056412,-0.9457057363437826,0.16413279143623535
+405,Glass Sword,Victoria Aveyard,"Fantasy, Young Adult, Science Fiction, Dystopia, Romance, Fiction, Did Not Finish, Science Fiction, Fantasy, Magic, Young Adult, Young Adult Fantasy, Audiobook",0.2553093955886684,-0.1995928448790424,0.1640879677808616
+998,Sleeping Giants,Sylvain Neuvel,"Science Fiction, Fiction, Fantasy",-0.06486494365863088,-0.5353436460381764,0.16398938723927392
+1793,The Invasion of the Tearling,Erika Johansen,"Fantasy, Young Adult, Fiction, Science Fiction, Dystopia",-0.09632176483634126,0.5465200465856962,0.16374872091164328
+1941,The Dispossessed,Ursula K. Le Guin,"Science Fiction, Fiction, Fantasy, Science Fiction, Dystopia",0.01340987863602945,0.8076595585983559,0.1637206203804411
+5732,The Left Hand of God,Paul  Hoffman,"Fantasy, Young Adult, Fiction, Science Fiction, Dystopia",-0.18732855188735506,-1.2441508929296787,0.1636793577405553
+18585,The Stone Key,Isobelle Carmody,"Fantasy, Young Adult, Science Fiction, Dystopia",-0.22967727786430245,0.8076595585983559,0.16359319941169184
+8986,Among the Brave,Margaret Peterson Haddix,"Young Adult, Science Fiction, Dystopia, Science Fiction, Fiction",-0.17399104723003972,0.6211313357321718,0.16352192837435892
+9593,Starclimber,Kenneth Oppel,"Science Fiction, Steampunk, Young Adult, Fantasy, Science Fiction, Adventure, Fiction",-0.21591784863083305,0.8449652031715923,0.1634906396612793
+9674,The Soldiers of Halla,D.J. MacHale,"Fantasy, Young Adult, Science Fiction",-0.1606183821913782,1.0314934260377764,0.16348782114379526
+3786,Fear,Michael  Grant,"Young Adult, Science Fiction, Dystopia, Science Fiction",-0.08550408750883505,0.956882136891304,0.16348569638608318
+22971,Exile's Song,Marion Zimmer Bradley,"Fantasy, Science Fiction, Fiction",-0.23510369671872866,0.17346360085332768,0.163427274779127
+15163,The Farseekers,Isobelle Carmody,"Fantasy, Young Adult, Science Fiction, Dystopia, Science Fiction",-0.21905493598871945,0.5838256911589323,0.16329687938048942
+13603,Behind the Gates,Eva Gray,"Science Fiction, Dystopia, Young Adult, Science Fiction",-0.2357483037100752,0.4346031128659843,0.16328358801369697
+2727,The Lathe of Heaven,Ursula K. Le Guin,"Science Fiction, Fiction, Fantasy, Science Fiction, Dystopia",-0.08635965678825863,0.4346031128659843,0.16321648798951546
+2479,The Warrior Heir,Cinda Williams Chima,"Fantasy, Young Adult, Fantasy, Magic",-0.06942407310651813,-0.1249815557325684,0.16314643959611774
+14812,The Abhorsen Trilogy Box Set,Garth Nix,"Fantasy, Young Adult, Fiction, Fantasy, Magic",-0.21216350124486927,2.038745829515177,0.16313054083704326
+16765,Forged,Erin Bowman,"Young Adult, Science Fiction, Dystopia, Science Fiction, Fantasy",-0.2391354204464233,0.3226861791462757,0.16308936907241986
+7659,The White Mountains,John Christopher,"Science Fiction, Young Adult, Fiction, Science Fiction, Dystopia, Fantasy",-0.20376407681217215,-0.1995928448790424,0.1629912332226373
+5142,CivilWarLand in Bad Decline,George Saunders,"Short Stories, Fiction, Humor, Science Fiction, Dystopia, Science Fiction",-0.18619951297523904,0.8822708477448284,0.16286977222829024
+1357,The Rose Society,Marie Lu,"Young Adult, Fantasy, Science Fiction, Dystopia",-0.09190718362287717,0.3972974682927481,0.16277587658061757
+4235,Rise of the Elgen,Richard Paul Evans,"Young Adult, Science Fiction, Fantasy, Fiction, Adventure",-0.1691897018217677,1.1807160043307243,0.1627129242485314
+5698,The Postmortal,Drew Magary,"Fiction, Science Fiction, Science Fiction, Dystopia, Fantasy",-0.2094053646637139,-0.7218718689043606,0.16250186068695996
+2297,The People of Sparks,Jeanne DuPrau,"Young Adult, Science Fiction, Dystopia, Fantasy, Fiction, Science Fiction",-0.06244278405478334,-1.206845248356441,0.16246934924377476
+2837,A Scanner Darkly,Philip K. Dick,"Science Fiction, Fiction, Science Fiction, Dystopia",0.0335645905654641,0.17346360085332768,0.16244640926442774
+2904,The Fever Code,James Dashner,"Young Adult, Science Fiction, Dystopia, Science Fiction",-0.16350544017080293,0.5838256911589323,0.16236209944242408
+15525,Being a Green Mother,Piers Anthony,"Fantasy, Fiction, Science Fiction Fantasy, Science Fiction",-0.17939011912119665,-0.1249815557325684,0.16227500298575948
+4776,Tunnels,"Roderick Gordon, Brian  Williams","Fantasy, Young Adult, Adventure, Fiction",-0.1891295447540869,-1.505290404942337,0.16221119816965407
+2774,The Revenge of Seven,Pittacus Lore,"Young Adult, Fantasy, Science Fiction",-0.10926469188077176,1.1061047151842522,0.16217949759428343
+16782,Ashling,Isobelle Carmody,"Fantasy, Young Adult, Science Fiction, Dystopia, Science Fiction",-0.22220374347372124,0.6957426248786442,0.16202684239283835
+4345,Alive,Scott Sigler,"Young Adult, Science Fiction, Science Fiction, Dystopia, Fiction",-0.21334723408352385,-0.9830113809170188,0.16202130897789196
+502,کوری,"José Saramago, مینو مشیری","Fiction, Science Fiction, Dystopia, Science Fiction, Literature",0.35527426646487964,0.4346031128659843,0.1619801375803303
+2664,"Tomorrow, When the War Began",John Marsden,"Young Adult, Fiction, Science Fiction, Dystopia",-0.07317451378344335,0.2480748899998001,0.16196153131283691
+3662,Plague,Michael  Grant,"Science Fiction, Dystopia, Science Fiction, Young Adult, Horror",-0.06847474281017142,0.7330482694518804,0.16193567907964246
+21045,"Amy, Number Seven",Marilyn Kaye,"Young Adult, Science Fiction, Fiction, Childrens",-0.2383931457291152,-0.9084000917705448,0.16190939180989888
+115,Harry Potter and the Half-Blood Prince,"J.K. Rowling, Mary GrandPré","Fantasy, Young Adult, Fiction",7.533922445404771,2.113357118661649,0.1618346142439922
+10207,"Paper Girls, Vol. 4",Brian K. Vaughan,"Sequential Art, Graphic Novels, Sequential Art, Comics, Science Fiction, Fiction, Science Fiction, Time Travel",-0.22878264149449426,0.7330482694518804,0.16168600698204424
+8408,The Lost City of Faar,D.J. MacHale,"Fantasy, Young Adult, Science Fiction",-0.1366702557855952,0.658436980305408,0.1616533203080464
+21123,Matched Trilogy Box Set,Ally Condie,"Young Adult, Science Fiction, Dystopia, Fantasy, Science Fiction",-0.2319509825246884,0.5465200465856962,0.16164743638665627
+3979,Graduation Day,Joelle Charbonneau,"Science Fiction, Dystopia, Young Adult, Science Fiction",-0.16093873233253222,-0.5726492906114126,0.16161704427651225
+22473,The Wind on Fire Trilogy: The Wind Singer/Slaves of the Mastery/Firesong,William Nicholson,"Fantasy, Young Adult, Fiction, Science Fiction, Dystopia, Childrens",-0.23972142680219286,1.4045498717701483,0.16153605661217718
+6559,The Last Book in the Universe,Rodman Philbrick,"Young Adult, Science Fiction, Science Fiction, Dystopia, Fiction",-0.213112831541216,-0.3115097785987543,0.16151413593060443
+498,Wool,Hugh Howey,"Science Fiction, Fiction, Science Fiction, Dystopia, Apocalyptic, Post Apocalyptic",0.28989549070618825,0.919576492318068,0.1614534666664375
+499,Wool Omnibus,Hugh Howey,"Science Fiction, Fiction, Science Fiction, Dystopia, Apocalyptic, Post Apocalyptic",0.2897743827259959,0.919576492318068,0.16145156027438967
+20262,Planet of Adventure,Jack Vance,"Science Fiction, Fantasy, Fiction",-0.2385767610539229,0.9941877814645405,0.16140106758330883
+1868,Poison Princess,Kresley Cole,"Young Adult, Fantasy, Fantasy, Paranormal, Romance, Science Fiction, Dystopia",-0.1074597923050015,0.5838256911589323,0.1613512563297384
+10932,The Death House,Sarah Pinborough,"Horror, Young Adult, Fiction, Science Fiction, Science Fiction, Dystopia, Fantasy",-0.23677576818719115,-1.057622670063493,0.1612182610317131
+22534,Set Me Free,Eva Gray,"Young Adult, Science Fiction, Dystopia, Science Fiction",-0.2403621270845009,1.1061047151842522,0.16116144665157903
+1940,Čovek praznih šaka,Ursula K. Le Guin,"Science Fiction, Fiction, Fantasy, Science Fiction, Dystopia",0.013566146997568002,0.8076595585983559,0.16109172128835408
+3052,Crewel,Gennifer Albin,"Young Adult, Science Fiction, Dystopia, Fantasy, Science Fiction, Romance",-0.17847594920619614,-0.9457057363437826,0.1610540290601225
+4794,Proxy,Alex London,"Young Adult, Science Fiction, Dystopia, Lgbt, Science Fiction",-0.20872169058198276,-0.3115097785987543,0.1610205920916175
+11479,The Legacies,Pittacus Lore,"Young Adult, Science Fiction, Fantasy",-0.2153630959473712,1.0314934260377764,0.16097435250769213
+10800,Predator's Gold,Philip Reeve,"Science Fiction, Steampunk, Young Adult, Fantasy, Science Fiction, Fiction",-0.21031562786967595,0.28538053457303625,0.160973254484564
+810,Under the Never Sky,Veronica Rossi,"Young Adult, Science Fiction, Dystopia, Romance, Fantasy, Science Fiction",0.15200819519360906,0.061546667133615826,0.160957565915183
+6421,Outside In,Maria V. Snyder,"Young Adult, Science Fiction, Dystopia, Science Fiction",-0.19363007356639714,-0.5726492906114126,0.16093964110450315
+21362,The Margrave,Catherine Fisher,"Fantasy, Young Adult, Science Fiction, Fiction",-0.24142475194296306,-0.05037026658609438,0.16071902471353944
+382,Dune,Frank Herbert,"Science Fiction, Fiction, Fantasy, Classics",2.0444844674791187,0.8449652031715923,0.1607060495746564
+1635,The Adoration of Jenna Fox,Mary E. Pearson,"Young Adult, Science Fiction, Science Fiction, Dystopia, Fiction",-0.07426839231421321,-1.0949283146367308,0.16069906658652866
+2066,Parable of the Sower,Octavia E. Butler,"Science Fiction, Fiction, Science Fiction, Dystopia, Fantasy, Apocalyptic, Post Apocalyptic",-0.10104497606384397,0.6211313357321718,0.16063118479603164
+18767,Legend Trilogy Boxed Set,Marie Lu,"Science Fiction, Dystopia, Young Adult",-0.2325135486262272,2.2998853415278333,0.16043481860430175
+7784,Hunt for Jade Dragon,Richard Paul Evans,"Young Adult, Science Fiction, Fantasy, Fiction",-0.21266356000179268,1.4045498717701483,0.16041610619141256
+8319,The Empress,S.J. Kincaid,"Young Adult, Science Fiction, Fantasy, Science Fiction, Dystopia",-0.2347872532866131,-0.4980380014649386,0.1603884809345797
+10135,Illusive,Emily Lloyd-Jones,"Young Adult, Science Fiction, Fantasy, Science Fiction, Dystopia",-0.2330526744735352,-1.0203170254902567,0.16038782215407588
+12647,The Giver Quartet Omnibus,Lois Lowry,"Fiction, Young Adult, Science Fiction, Dystopia",-0.2254345918485308,1.2926329380504364,0.16033971040098238
+20642,The Shadow Girl,John Larkin,Young Adult,-0.2424873768014252,1.5537724500630965,0.16033015856472077
+22260,The Ships of Air,Martha Wells,"Fantasy, Science Fiction, Steampunk, Fiction, Science Fiction",-0.2404910484827702,0.5092144020124599,0.16027694201649004
+5657,"A Long, Long Sleep",Anna Sheehan,"Young Adult, Science Fiction, Science Fiction, Dystopia, Fantasy",-0.2175195993366032,-0.5726492906114126,0.160252630660208
+16053,Cipher,Aileen Erin,"Young Adult, Fantasy, Science Fiction, Romance, Science Fiction, Dystopia",-0.236900782876422,-0.3488154231719905,0.16020501012699706
+3395,The Fate of Ten,Pittacus Lore,"Young Adult, Fantasy, Science Fiction",-0.15307452703810462,1.2553272934772002,0.1601852837322421
+689,A Gathering of Shadows,V.E. Schwab,"Fantasy, Young Adult, Fantasy, Magic, Fiction",-0.005092295370135022,1.2180216489039608,0.16007943797947966
+1207,The Power of Six,Pittacus Lore,"Young Adult, Fantasy, Science Fiction, Science Fiction, Aliens, Fiction, Adventure, Fantasy, Paranormal, Romance, Action, Young Adult, Teen",0.1952242105770954,0.6957426248786442,0.1600174030293918
+2849,The Compound,S.A. Bodeen,"Young Adult, Science Fiction, Science Fiction, Dystopia, Fiction",-0.16646281891292003,-0.3861210677452283,0.15997879738313883
+1801,Starters,Lissa Price,"Young Adult, Science Fiction, Dystopia, Science Fiction",-0.0959623476048026,-0.2742041340255165,0.15990413122273653
+3607,Firstlife,Gena Showalter,"Fantasy, Young Adult, Science Fiction, Dystopia, Romance",-0.19444657575543609,-0.9084000917705448,0.15989351005688834
+6644,BZRK,Michael  Grant,"Young Adult, Science Fiction, Science Fiction, Dystopia",-0.215488110636602,-1.0949283146367308,0.15972992051568818
+14277,"Uglies, The Collector's Set",Scott Westerfeld,"Young Adult, Science Fiction, Dystopia, Science Fiction, Fantasy",-0.2148942908627555,0.919576492318068,0.15972574731821293
+4759,In the After,Demitria Lunetta,"Young Adult, Science Fiction, Dystopia, Science Fiction, Apocalyptic, Post Apocalyptic",-0.20184978938332493,0.2107692454265639,0.159681254721467
+6702,Vivian Apple at the End of the World,Katie Coyle,"Young Adult, Science Fiction, Dystopia, Fiction",-0.2263956422719929,-0.8710944471973087,0.15965401595009268
+683,Pretties,Scott Westerfeld,"Young Adult, Science Fiction, Dystopia, Science Fiction",0.5933764622321317,-0.4980380014649386,0.15959835977005243
+2002,Dust,Hugh Howey,"Science Fiction, Fiction, Science Fiction, Dystopia, Apocalyptic, Post Apocalyptic",-0.01685930299398793,1.0314934260377764,0.1595573173134594
+2044,Into the Still Blue,Veronica Rossi,"Science Fiction, Dystopia, Young Adult, Romance, Fantasy, Science Fiction",-0.08447271632268061,0.658436980305408,0.15951843795395437
+501,Blindness,"José Saramago, Giovanni Pontiero","Fiction, Science Fiction, Dystopia, Science Fiction, Literature",0.3554344415354566,0.4346031128659843,0.15950204651594685
+15315,The First Pillar,Roy Huff,"Fantasy, Young Adult, Fiction, Science Fiction",-0.2421748400783481,-1.4679847603691007,0.15925811981102528
+10094,The Hitchhiker's Guide to the Galaxy: A Trilogy in Four Parts,Douglas Adams,"Science Fiction, Fiction, Humor, Fantasy",-0.11969951172250852,1.964134540368701,0.15920686217285912
+7759,Solitary,Alexander Gordon Smith,"Young Adult, Horror, Science Fiction, Science Fiction, Dystopia",-0.21714064855987214,0.7330482694518804,0.15920068922997815
+5951,The Gracekeepers,Kirsty Logan,"Fantasy, Fiction, Magical Realism, Science Fiction, Dystopia, Young Adult",-0.22443838104372246,-1.4679847603691007,0.1591901132898505
+8225,The Machine Stops,E.M. Forster,"Science Fiction, Short Stories, Fiction, Classics, Science Fiction, Dystopia",-0.21933621903948886,0.28538053457303625,0.1591534951729488
+19586,The Golden Torc,Julian May,"Science Fiction, Fantasy, Fiction",-0.2214849090106439,0.4719087574392238,0.15909227635423678
+1343,Among the Hidden,Margaret Peterson Haddix,"Young Adult, Science Fiction, Dystopia, Science Fiction, Fiction",0.15812219483880485,-0.05037026658609438,0.159086846499903
+21180,Dream Caster,NR Nada,"Fantasy, Young Adult, Science Fiction, Science Fiction, Dystopia, Apocalyptic, Post Apocalyptic",-0.24409303421623385,0.6211313357321718,0.15900349654954704
+1147,The First Fifteen Lives of Harry August,Claire North,"Science Fiction, Fiction, Fantasy, Science Fiction, Time Travel",-0.061337185396898086,0.2107692454265639,0.15889596548490464
+6154,The Traveler,John Twelve Hawks,"Fantasy, Fiction, Science Fiction, Thriller, Science Fiction, Dystopia",-0.20596746070986574,-0.5726492906114126,0.15887053791689093
+8461,Foundling,D.M. Cornish,"Fantasy, Young Adult, Science Fiction, Steampunk, Fiction",-0.21706642108814134,-0.3861210677452283,0.15886594511239335
+8270,Code,"Kathy Reichs, Brendan Reichs","Young Adult, Science Fiction, Fiction",-0.21203457984659999,0.9941877814645405,0.15882654112924016
+80,Harry Potter and the Chamber of Secrets,J.K. Rowling,"Fantasy, Young Adult, Fiction",8.212013839919969,1.5537724500630965,0.15880809940520751
+17741,Children of the Dust,Louise Lawrence,"Science Fiction, Young Adult, Apocalyptic, Post Apocalyptic, Fiction, Science Fiction, Dystopia",-0.2387916300510385,-0.08767591115933222,0.15880463956187751
+563,Fairest,Marissa Meyer,"Young Adult, Fantasy, Science Fiction",0.06583010051413647,0.1361579562800882,0.15862596783770583
+797,Vicious,"V.E. Schwab, Victoria Schwab","Fantasy, Science Fiction, Adult, Fiction, Fantasy, Paranormal",-0.07068594012594193,1.1434103597574885,0.15860569974747768
+3373,Borne,Jeff VanderMeer,"Science Fiction, Fiction, Fantasy, Science Fiction, Dystopia",-0.18892248917504828,-0.3115097785987543,0.1586051788702326
+2113,Birthmarked,Caragh M. O'Brien,"Young Adult, Science Fiction, Dystopia, Fantasy, Science Fiction",-0.07751877423421508,-0.3488154231719905,0.15860195979069003
+74,Animal Farm,George Orwell,"Classics, Fiction, Science Fiction, Dystopia, Fantasy, Literature",8.494480623528016,-0.3115097785987543,0.15856762597679214
+673,Four: A Divergent Story Collection,Veronica Roth,"Young Adult, Fiction, Science Fiction, Dystopia, Short Stories",0.2773940217831041,0.35999182371951194,0.15854620717870377
+22836,Corridor,Robin Parrish,"Young Adult, Science Fiction, Dystopia, Science Fiction, Fiction, Mystery",-0.24367501634911815,0.061546667133615826,0.15853326526720143
+199,Cress,Marissa Meyer,"Young Adult, Fantasy, Science Fiction, Romance",0.6062998557313699,1.7403006729292805,0.15842108833988106
+633,Androidler Elektrikli Koyun Düşler Mi?,"Philip K. Dick, Damla Işık","Science Fiction, Fiction, Classics, Science Fiction, Dystopia",0.8449841511453531,0.35999182371951194,0.1584191988446185
+9074,Eon,Greg Bear,"Science Fiction, Fiction",-0.1611887617109939,-0.4234267123184645,0.15841267263083392
+1757,The Prisoner of Cell 25,Richard Paul Evans,"Young Adult, Science Fiction, Fantasy, Fiction, Adventure",-0.1253759599553964,0.8449652031715923,0.15838080558964795
+16412,Earth Star,Janet  Edwards,"Science Fiction, Young Adult, Romance, Science Fiction, Dystopia",-0.23794387418969185,0.3972974682927481,0.15831482174717254
+6546,The Forsaken,Lisa M. Stasse,"Science Fiction, Dystopia, Young Adult, Science Fiction",-0.21974251677948906,-1.1322339592099668,0.1582799881281403
+1990,Restore Me,Tahereh Mafi,"Young Adult, Science Fiction, Dystopia, Romance, Fantasy",-0.18446102745312265,1.0687990706110126,0.1582682535040742
+20588,Califia's Daughters,Leigh Richards,"Fiction, Science Fiction, Fantasy, Science Fiction, Dystopia, Apocalyptic, Post Apocalyptic",-0.2423389218579636,-0.6099549351846504,0.15825588400187512
+1943,The Eye of Minds,James Dashner,"Young Adult, Science Fiction, Science Fiction, Dystopia",-0.12482120727193455,-0.4607323568917023,0.15823016762025144
+1208,More Than This,Patrick Ness,"Young Adult, Science Fiction, Lgbt, Science Fiction, Dystopia",-0.09506380452595592,0.09885231170685202,0.1581807461263441
+15191,The Blade of Shattered Hope,James Dashner,"Fantasy, Young Adult, Science Fiction, Fiction",-0.2223482917081444,0.4346031128659843,0.15801311172207172
+6242,The Paladin Prophecy,Mark Frost,"Young Adult, Fantasy, Science Fiction, Fiction",-0.20726448811063572,0.2107692454265639,0.15800614165923
+6436,Raging Star,Moira Young,"Young Adult, Science Fiction, Dystopia, Romance, Fantasy",-0.2153904429106404,-0.6845662243311244,0.15792722342926457
+13350,Metro 2035,"Dmitry Glukhovsky, Andrew Bromfield","Science Fiction, Science Fiction, Dystopia, Fiction, Apocalyptic, Post Apocalyptic, Fantasy",-0.229942934078918,-0.3115097785987543,0.15790924565435469
+10921,Cryptid Hunters,Roland Smith,"Young Adult, Science Fiction, Adventure, Fantasy, Mystery, Fiction",-0.22482514523853045,0.7703539140251199,0.15789674185051122
+13448,A Darkling Plain,Philip Reeve,"Science Fiction, Steampunk, Young Adult, Science Fiction, Fantasy, Fiction",-0.22462199636853036,1.1807160043307243,0.15772175791105597
+16557,The Devil's Alternative,Frederick Forsyth,"Fiction, Thriller, Spy Thriller, Espionage, Mystery",-0.19897054482197712,0.17346360085332768,0.15768228079778984
+7719,Earth Afire,"Orson Scott Card, Aaron Johnston","Science Fiction, Fiction",-0.2021466992702482,0.17346360085332768,0.1576552742943717
+132,Station Eleven,Emily St. John Mandel,"Fiction, Science Fiction, Science Fiction, Dystopia, Apocalyptic, Post Apocalyptic",0.6615563483714016,0.17346360085332768,0.15760218549515617
+8163,White Horse,Alex Adams,"Science Fiction, Dystopia, Fiction, Apocalyptic, Post Apocalyptic, Horror, Science Fiction",-0.2328104585131504,-1.8783468506747072,0.1575726320226818
+4049,Prized,Caragh M. O'Brien,"Science Fiction, Dystopia, Young Adult, Romance, Science Fiction",-0.15862596058176165,-0.013064622012858192,0.1575162753754148
+21846,The Heritage of Hastur,Marion Zimmer Bradley,"Fantasy, Science Fiction, Fiction",-0.23323628979834296,0.17346360085332768,0.15750364178176596
+7248,Shattered,Teri Terry,"Science Fiction, Dystopia, Young Adult, Science Fiction",-0.21135090576486887,0.9941877814645405,0.157332767357504
+18674,X Isle,Steve Augarde,"Young Adult, Science Fiction, Dystopia, Fiction, Science Fiction",-0.2421787467873865,-2.400625874700025,0.15732502811140803
+15375,FUTU.RE,Dmitry Glukhovsky,"Science Fiction, Science Fiction, Dystopia, Fiction, Cultural, Russia, Fantasy",-0.23495133506622856,-0.16228720030580626,0.15723939836322948
+3856,The Merchant of Death,D.J. MacHale,"Young Adult, Fantasy, Fiction, Science Fiction",-0.07495597310498284,-0.1995928448790424,0.15720047613024285
+374,The Stand,Stephen King,"Horror, Fiction, Fantasy, Science Fiction, Apocalyptic, Post Apocalyptic",1.8026865249614799,1.3299385826236725,0.15717027779728923
+16829,Death Note Box Set,"Tsugumi Ohba, Takeshi Obata","Sequential Art, Manga, Sequential Art, Comics, Sequential Art, Graphic Novels, Fantasy, Fiction, Horror",-0.23333786423334305,2.038745829515177,0.15714416955101032
+3750,Inside Out,Maria V. Snyder,"Young Adult, Science Fiction, Dystopia, Science Fiction",-0.1549341205404134,-0.6099549351846504,0.15713964389265217
+2781,Saving the World and Other Extreme Sports,James Patterson,"Young Adult, Fantasy, Science Fiction",0.08308212762799254,0.6211313357321718,0.15712212321932983
+3093,The Book of Ivy,Amy Engel,"Young Adult, Science Fiction, Dystopia, Romance",-0.18652767653447,0.658436980305408,0.15712079158827644
+3945,Things Not Seen,Andrew Clements,"Young Adult, Science Fiction, Fiction, Fantasy",-0.15248070726425814,-0.3861210677452283,0.15710246092161673
+2432,"The Diamond Age: Or, A Young Lady's Illustrated Primer",Neal Stephenson,"Science Fiction, Fiction, Science Fiction, Cyberpunk, Science Fiction, Steampunk",0.038498764081043864,0.7703539140251199,0.15704941303677622
+20692,The Starlight Crystal,Christopher Pike,"Young Adult, Science Fiction, Fiction, Fantasy",-0.2372992671983453,-0.4980380014649386,0.15704482533791364
+721,A Great and Terrible Beauty,Libba Bray,"Young Adult, Fantasy, Historical, Historical Fiction, Fiction, Historical",0.5016274004638098,-0.7218718689043606,0.15697762194536002
+11113,Brain Jack,Brian Falkner,"Science Fiction, Young Adult, Science Fiction, Dystopia, Fiction",-0.23178299403603445,-0.4234267123184645,0.1569566379211017
+14077,The Fog Diver,Joel N. Ross,"Fantasy, Childrens, Middle Grade, Science Fiction, Steampunk, Adventure, Science Fiction, Science Fiction, Dystopia, Fiction",-0.23970970667507746,0.3226861791462757,0.15693767861981306
+3535,Stormdancer,Jay Kristoff,"Fantasy, Science Fiction, Steampunk, Young Adult, Science Fiction, Dystopia, Science Fiction, Fantasy, Mythology, Fiction, Adventure, Did Not Finish, Cultural, Japan",-0.1998690879008238,-0.6845662243311244,0.156925517295848
+4188,The Diamond of Darkhold,Jeanne DuPrau,"Young Adult, Science Fiction, Dystopia, Fantasy, Science Fiction, Fiction",-0.15839155803945382,-0.6845662243311244,0.15691542360834157
+14386,The Forgotten Door,Alexander Key,"Science Fiction, Fantasy, Young Adult, Fiction, Childrens",-0.23645151133699865,0.3972974682927481,0.15690522857573755
+9533,Grass,Sheri S. Tepper,"Science Fiction, Fiction, Fantasy",-0.21003825152794506,0.2107692454265639,0.15689317153558335
+12395,"He, She and It",Marge Piercy,"Science Fiction, Fiction, Science Fiction, Dystopia, Fantasy",-0.2264659630346852,-0.013064622012858192,0.1567834803998735
+1290,Blood Red Road,Moira Young,"Young Adult, Science Fiction, Dystopia, Fantasy, Romance, Science Fiction",-0.026790157369762868,-0.1995928448790424,0.15676713037248427
+11602,The Trap,Andrew Fukuda,"Young Adult, Paranormal, Vampires, Science Fiction, Dystopia, Fantasy, Paranormal",-0.2339434041343049,0.09885231170685202,0.15667068166160197
+103,Harry Potter and the Order of the Phoenix,"J.K. Rowling, Mary GrandPré","Fantasy, Young Adult, Fiction",7.731121397539308,1.8522176066489924,0.15666370486487324
+720,The Bone Clocks,David Mitchell,"Fiction, Fantasy, Science Fiction",0.041811653345661136,-0.6099549351846504,0.15660091660528652
+4866,Perfect Ruin,Lauren DeStefano,"Young Adult, Science Fiction, Dystopia, Fantasy, Science Fiction",-0.21105008916890716,-0.9084000917705448,0.1565463988991079
+19464,The Big Trip Up Yonder,Kurt Vonnegut,"Short Stories, Science Fiction, Fiction, Science Fiction, Dystopia",-0.2374086550514223,-1.281456537502915,0.1565072179314219
+2662,Noughts & Crosses,Malorie Blackman,"Young Adult, Romance, Science Fiction, Dystopia, Fiction",-0.09544275530268692,0.919576492318068,0.15647844332046953
+617,When You Reach Me,Rebecca Stead,"Young Adult, Fiction, Science Fiction, Childrens, Middle Grade, Mystery, Science Fiction, Time Travel",0.0499923020722043,0.35999182371951194,0.15646156092764216
+9516,The Dead Lands,Benjamin Percy,"Fiction, Science Fiction, Science Fiction, Dystopia, Apocalyptic, Post Apocalyptic, Fantasy, Horror",-0.23349803930392005,-2.0648750735408914,0.1564550205334717
+9573,Arclight,Josin L. McQuein,"Young Adult, Science Fiction, Dystopia, Science Fiction, Fantasy",-0.22893500314699436,-1.430679115795863,0.15645050469049315
+21725,Intervention,Julian May,"Science Fiction, Fantasy, Fiction",-0.2345411306171899,0.956882136891304,0.1564211591864304
+10080,Knife Edge,Malorie Blackman,"Young Adult, Science Fiction, Dystopia, Fiction",-0.1909852315473572,0.35999182371951194,0.1564101076055843
+8302,Among the Barons,Margaret Peterson Haddix,"Young Adult, Science Fiction, Dystopia, Science Fiction, Fiction",-0.1697405477961911,0.35999182371951194,0.15637552423436213
+3492,Gameboard of the Gods,Richelle Mead,"Fantasy, Science Fiction, Dystopia, Fantasy, Paranormal, Science Fiction, Fantasy, Mythology",-0.18585962928889269,-0.1995928448790424,0.15623253888802807
+7434,Gravity,Melissa  West,"Young Adult, Science Fiction, Science Fiction, Dystopia, Science Fiction, Aliens, Romance",-0.21285889545371586,-0.6845662243311244,0.15616929754475778
+51,A Game of Thrones,George R.R. Martin,"Fantasy, Fiction, Fantasy, Epic Fantasy, Science Fiction Fantasy, Adult, Fantasy, High Fantasy, Adventure, Fantasy, Dragons, Epic, Audiobook",6.232835973943832,1.7403006729292805,0.15616009495938876
+403,Angelfall,Susan Ee,"Fantasy, Young Adult, Paranormal, Angels, Fantasy, Paranormal, Science Fiction, Dystopia",0.3131169692308169,0.6957426248786442,0.1560908509870954
+207,Uglies,Scott Westerfeld,"Young Adult, Science Fiction, Dystopia, Science Fiction",1.7228763660147033,-0.4607323568917023,0.15605145569821277
+6042,Jumper,Steven Gould,"Science Fiction, Young Adult, Fiction, Fantasy",-0.19788838641832265,-0.3115097785987543,0.15593779072986905
+7379,H.I.V.E. Higher Institute of Villainous Education,Mark Walden,"Young Adult, Science Fiction, Adventure, Fantasy, Fiction",-0.1936339802754356,0.28538053457303625,0.15586020764220823
+21536,Artemis the Loyal,"Joan Holub, Suzanne Williams","Fantasy, Fantasy, Mythology, Fiction, Childrens, Middle Grade, Childrens, Young Adult",-0.23608037397834455,1.1434103597574885,0.15576537965331638
+21883,With the Enemy,Eva Gray,"Young Adult, Science Fiction, Dystopia",-0.239705799966039,1.1061047151842522,0.15571383694361707
+128,A Wrinkle in Time,Madeleine L'Engle,"Fantasy, Young Adult, Fiction, Classics, Science Fiction, Childrens",2.9097267584819235,0.1361579562800882,0.1557080910258351
+17620,Earth Flight,Janet  Edwards,"Science Fiction, Young Adult, Science Fiction, Dystopia, Romance, Science Fiction, Aliens",-0.23992848238123146,1.0687990706110126,0.15565485624528322
+13334,Halo: Ghosts of Onyx,Eric S. Nylund,"Science Fiction, Fiction",-0.20692851113332786,0.6211313357321718,0.1556345796133973
+859,Three Dark Crowns,Kendare Blake,"Fantasy, Young Adult, Did Not Finish",-0.07277212275248159,-0.3861210677452283,0.1556101503838604
+5889,The Supernaturalist,Eoin Colfer,"Fantasy, Young Adult, Science Fiction, Fiction",-0.14445242019021504,-0.4980380014649386,0.15559450241361572
+10475,The Book of Phoenix,Nnedi Okorafor,"Fantasy, Science Fiction, Fiction, Speculative Fiction, Science Fiction, Dystopia, Cultural, Africa",-0.2341699932585358,-0.2742041340255165,0.15559312258199592
+1548,Ender's Shadow,Orson Scott Card,"Science Fiction, Fiction, Young Adult, Fantasy, Science Fiction Fantasy",0.2862388110461861,1.2180216489039608,0.1554458819693133
+1781,Through the Ever Night,Veronica Rossi,"Science Fiction, Dystopia, Young Adult, Romance, Fantasy, Science Fiction",0.006643458581410179,0.658436980305408,0.15542350393400683
+5244,Black City,Elizabeth  Richards,"Young Adult, Science Fiction, Dystopia, Paranormal, Vampires, Fantasy, Fantasy, Paranormal, Romance",-0.203189790583518,-0.8337888026240724,0.15542205379680302
+2931,The Pledge,Kimberly Derting,"Science Fiction, Dystopia, Young Adult, Fantasy, Romance",-0.13596314144963326,-0.6845662243311244,0.1553444428357015
+2080,The Aeronaut's Windlass,Jim Butcher,"Fantasy, Science Fiction, Steampunk, Fiction, Science Fiction",-0.12353589999827995,0.7330482694518804,0.15530961724167436
+15384,The Fabulous Riverboat,Philip José Farmer,"Science Fiction, Fantasy, Fiction",-0.2113548124739073,-0.4234267123184645,0.15521901572637198
+1091,Hyperion,Dan Simmons,"Science Fiction, Fiction, Fantasy",0.3316386767821737,0.8822708477448284,0.15519299212493778
+9980,The Gardener,S.A. Bodeen,"Young Adult, Science Fiction, Science Fiction, Dystopia, Fantasy",-0.2296968114094948,-1.281456537502915,0.15515668803840224
+13998,Random Acts of Senseless Violence,Jack Womack,"Science Fiction, Fiction, Science Fiction, Dystopia, Science Fiction, Cyberpunk",-0.23730708061642225,-0.08767591115933222,0.15508867552838895
+149,Clockwork Angel,Cassandra Clare,"Fantasy, Young Adult, Fantasy, Paranormal, Science Fiction, Steampunk, Romance",1.994556725967552,1.2926329380504364,0.15505093609802412
+1143,Stars Above,Marissa Meyer,"Young Adult, Fantasy, Science Fiction, Short Stories",-0.07513177501171371,1.0314934260377764,0.15501389462259996
+1360,One Second After,William R. Forstchen,"Fiction, Apocalyptic, Post Apocalyptic, Science Fiction, Science Fiction, Apocalyptic, Science Fiction, Dystopia",-0.08794578065787491,-0.1995928448790424,0.15488055828712266
+131,A Monster Calls,Patrick Ness,"Fantasy, Young Adult, Fiction, Horror",0.3898369213281687,1.4418555163433844,0.15485130622238807
+11201,The Resistance,Gemma Malley,"Science Fiction, Dystopia, Young Adult, Science Fiction",-0.21889085420910395,-0.8710944471973087,0.1548385520028273
+3180,Independent Study,Joelle Charbonneau,"Science Fiction, Dystopia, Young Adult, Science Fiction",-0.13605299575751792,-0.05037026658609438,0.15483136199386427
+9963,House of Stairs,William Sleator,"Young Adult, Science Fiction, Fiction, Science Fiction, Dystopia, Horror",-0.2300835756043027,-0.4234267123184645,0.1548178542859482
+6339,The Roar,Emma Clayton,"Science Fiction, Young Adult, Science Fiction, Dystopia, Fiction",-0.21124542462083035,0.28538053457303625,0.15474681873914478
+2527,The Dark Forest,"Liu Cixin, Joel Martinsen","Science Fiction, Fiction",-0.12399298495578022,1.5537724500630965,0.15472753472552192
+11293,Black Water,D.J. MacHale,"Fantasy, Young Adult, Science Fiction",-0.1616302198323403,0.658436980305408,0.15470040128065787
+1580,Renegades,Marissa Meyer,"Fantasy, Young Adult, Science Fiction",-0.15645773706541424,0.5838256911589323,0.1546994000627161
+7893,Memory of Water,Emmi Itäranta,"Science Fiction, Science Fiction, Dystopia, European Literature, Finnish Literature, Young Adult, Fantasy",-0.22860683958776334,-1.057622670063493,0.1546824819523735
+11303,The Final Day,William R. Forstchen,"Fiction, Science Fiction, Apocalyptic, Post Apocalyptic, Audiobook, Science Fiction, Dystopia, Science Fiction, Apocalyptic",-0.2273410658593011,0.5092144020124599,0.15460473906264488
+3539,Abhorsen,Garth Nix,"Fantasy, Young Adult, Fiction",0.11707830968070435,1.1434103597574885,0.15458837798008943
+15618,Animorphs,"K.A. Applegate, Katherine Applegate","Science Fiction, Childrens, Young Adult, Fiction, Fantasy",-0.2305445672708414,1.3299385826236725,0.1545792815528214
+2608,Waking Gods,Sylvain Neuvel,"Science Fiction, Fiction, Fantasy",-0.16500170973253456,0.35999182371951194,0.15454441173853753
+21372,Deceiver,C.J. Cherryh,"Science Fiction, Fiction, Fantasy",-0.23838533231103826,1.0687990706110126,0.15453931113349237
+14643,The Iron Jackal,Chris Wooding,"Science Fiction, Steampunk, Fantasy, Science Fiction, Fiction, Adventure",-0.2328338987673812,1.2180216489039608,0.15453376792884904
+6818,Glitch,Heather Anastasiu,"Science Fiction, Dystopia, Young Adult, Science Fiction, Romance",-0.21412466918217812,-0.9830113809170188,0.15446837779578998
+9881,Robots and Empire,Isaac Asimov,"Science Fiction, Fiction",-0.15780945839272273,0.7330482694518804,0.15446372871144706
+12068,Only Forward,Michael Marshall Smith,"Science Fiction, Fantasy, Fiction",-0.2280403667771861,1.0687990706110126,0.15442535827571424
+4877,Rook,Sharon Cameron,"Young Adult, Science Fiction, Dystopia, Fantasy, Romance, Science Fiction",-0.2151521336592941,-0.7964831580508346,0.15440860688393176
+21885,Article Three,Anna Jakobsson Lund,"Science Fiction, Dystopia, Fantasy, Young Adult",-0.2440617805439261,0.024241022560379646,0.154406608050837
+2077,Found,Margaret Peterson Haddix,"Science Fiction, Young Adult, Mystery, Science Fiction, Time Travel, Fantasy",-0.10795203764384792,-0.013064622012858192,0.15439959126692582
+11556,Watch the Skies,"James Patterson, Ned Rust","Young Adult, Science Fiction, Fantasy, Fiction",-0.2180782587291035,-0.7218718689043606,0.15438939494954407
+10429,Disruption,Jessica Shirvington,"Young Adult, Science Fiction, Dystopia, Science Fiction, Romance",-0.2334824124677662,0.8449652031715923,0.15434570090339203
+19847,The End of Infinity,Matt Myklusch,"Fantasy, Science Fiction, Childrens, Middle Grade, Young Adult, Fiction",-0.23360742715699706,1.6656893837828048,0.15434345905392854
+14313,Divergent Series Box Set,Veronica Roth,"Young Adult, Science Fiction, Dystopia, Romance, Science Fiction, Fiction, Fantasy, Action, Media Tie In, Movies, Young Adult, Teen, Adventure",-0.1866995717321624,2.113357118661649,0.1542410967511682
+3796,Metro 2033,Dmitry Glukhovsky,"Science Fiction, Fiction, Horror, Apocalyptic, Post Apocalyptic, Science Fiction, Dystopia",-0.13075159159232258,0.024241022560379646,0.15422480828951676
+5805,Rise,Anna Carey,"Science Fiction, Dystopia, Young Adult, Romance",-0.20134191720832464,-0.8710944471973087,0.15422114685357663
+17273,Flash Point,Nancy Kress,"Young Adult, Science Fiction, Science Fiction, Dystopia, Fantasy",-0.2417763557564248,-2.549848452992973,0.1541536345260497
+2167,Rot & Ruin,Jonathan Maberry,"Horror, Zombies, Young Adult, Horror, Science Fiction, Dystopia",-0.12623152923481998,0.4346031128659843,0.15407876818365657
+21887,The Sterkarm Handshake,Susan Price,"Fantasy, Science Fiction, Time Travel, Young Adult, Science Fiction, Fiction, Historical, Historical Fiction",-0.2421787467873865,-0.9830113809170188,0.15403850535993635
+3265,Atlantia,Ally Condie,"Young Adult, Fantasy, Science Fiction, Dystopia, Fiction, Science Fiction",-0.1925127547813965,-2.176792007260603,0.15403211268028805
+6792,What Dreams May Come,Richard Matheson,"Fiction, Fantasy, Romance, Horror, Science Fiction",-0.20535410739082696,-0.08767591115933222,0.15402310192271124
+9634,The Inverted World,Christopher Priest,"Science Fiction, Fiction, Science Fiction, Dystopia",-0.2220279415669904,-0.3115097785987543,0.15393543824189104
+191,Brave New World,"Aldous Huxley, David Bradshaw, Margaret Atwood","Classics, Fiction, Science Fiction, Science Fiction, Dystopia",4.460076893433007,-0.013064622012858192,0.1538853668528925
+583,The Age of Miracles,"Karen Thompson Walker, Karen Thompson Walker","Fiction, Young Adult, Science Fiction, Science Fiction, Dystopia",0.04948833660624248,-1.281456537502915,0.15386865705340838
+7549,Asunder,Jodi Meadows,"Fantasy, Young Adult, Romance, Science Fiction, Dystopia",-0.21651948182275646,-0.08767591115933222,0.15382615436532643
+18176,Game Over,"James Patterson, Ned Rust","Young Adult, Fantasy, Science Fiction, Fiction",-0.2349591484843055,-0.1249815557325684,0.1538145900710617
+4898,The Gods Themselves,Isaac Asimov,"Science Fiction, Fiction",-0.06749806555055547,0.3972974682927481,0.15378996044014215
+2255,Hunger,Michael  Grant,"Young Adult, Science Fiction, Dystopia, Science Fiction",0.03025170130084681,0.1361579562800882,0.15374381709314514
+4953,Taken,Erin Bowman,"Young Adult, Science Fiction, Dystopia, Science Fiction, Fantasy",-0.20134191720832464,-0.8337888026240724,0.15373363484906624
+5364,Into the Forest,Jean Hegland,"Fiction, Apocalyptic, Post Apocalyptic, Science Fiction, Dystopia, Science Fiction, Young Adult",-0.20841696727698256,-0.7218718689043606,0.15367177525227743
+12960,Restoring Harmony,Joelle Anthony,"Young Adult, Science Fiction, Dystopia, Science Fiction, Fiction",-0.2374086550514223,-1.1322339592099668,0.15364659492235208
+8151,Forward the Foundation,Isaac Asimov,"Science Fiction, Fiction",-0.0957240383534563,0.5838256911589323,0.1535935310491798
+438,Prodigy,Marie Lu,"Young Adult, Science Fiction, Dystopia, Romance",0.4486289856480101,1.1061047151842522,0.1535701833438285
+18693,The Ship Who Searched,"Anne McCaffrey, Mercedes Lackey","Science Fiction, Fantasy, Fiction",-0.20411568062563396,0.35999182371951194,0.15355836773577833
+3011,This Shattered World,"Amie Kaufman, Meagan Spooner","Science Fiction, Young Adult, Romance, Fantasy",-0.1841328638938917,-0.013064622012858192,0.1534827171841444
+10930,The Burning World,Isaac Marion,"Horror, Zombies, Horror, Young Adult, Science Fiction, Dystopia, Science Fiction, Fantasy",-0.23733833428872994,-0.1995928448790424,0.15343917487249165
+7320,Half Way Home,Hugh Howey,"Science Fiction, Fiction, Young Adult, Science Fiction, Dystopia",-0.200763724270632,-0.9830113809170188,0.15339595324574806
+21558,Below the Root,Zilpha Keatley Snyder,"Fantasy, Fiction, Young Adult, Science Fiction, Childrens",-0.24152241966892465,0.35999182371951194,0.15338319160500458
+21424,Vládkyně jestřábů,Marion Zimmer Bradley,"Fantasy, Science Fiction, Fiction",-0.2291576855621868,0.061546667133615826,0.15335388565964164
+3258,The Mime Order,Samantha Shannon,"Fantasy, Young Adult, Science Fiction, Dystopia, Fantasy, Paranormal, Fiction",-0.18267956813158315,0.7703539140251199,0.15333917625042248
+12078,Full Fathom Five,Max Gladstone,"Fantasy, Fantasy, Urban Fantasy, Fiction, Science Fiction, Science Fiction, Steampunk",-0.23209943746815,0.5092144020124599,0.15333651812607813
+20414,Riverworld: To Your Scattered Bodies Go/The Fabulous Riverboat,Philip José Farmer,"Science Fiction, Fantasy, Fiction",-0.24018632517777005,-0.4980380014649386,0.15332845000730455
+4480,Animal Farm / 1984,"George Orwell, Christopher Hitchens","Classics, Fiction, Science Fiction, Dystopia, Literature, Science Fiction",0.3016234312396565,1.0687990706110126,0.15332220974585953
+1263,The Fireman,Joe Hill,"Horror, Fiction, Science Fiction, Fantasy, Thriller, Science Fiction, Dystopia",-0.09684135713845694,-0.3115097785987543,0.1532756435053088
+14293,Corruption,Jessica Shirvington,"Young Adult, Science Fiction, Dystopia, Science Fiction, Romance",-0.2383462652206536,0.9941877814645405,0.1532618371897616
+18833,Armageddon,"James Patterson, Chris Grabenstein","Young Adult, Science Fiction, Fantasy, Fiction",-0.2381704633139227,0.09885231170685202,0.15324221959632495
+2195,Eve,Anna Carey,"Science Fiction, Dystopia, Young Adult, Romance, Science Fiction, Fantasy, Apocalyptic, Post Apocalyptic, Fiction, Adventure, Young Adult, Teen, Science Fiction, Apocalyptic",-0.08811376914652885,-1.0949283146367308,0.15322359143928072
+1054,Harry Potter Boxset,J.K. Rowling,"Fantasy, Young Adult, Fiction",0.6226338062211869,2.822164365553153,0.1531846552586714
+19549,Miss Peregrine's Peculiar Children Boxed Set,Ransom Riggs,"Fantasy, Young Adult, Fiction",-0.2356701695293059,1.6656893837828048,0.15318205954493774
+14452,Starman Jones,Robert A. Heinlein,"Science Fiction, Fiction, Young Adult",-0.21764852073487248,-0.5726492906114126,0.15316245648363153
+11174,The Zero Game,Brad Meltzer,"Fiction, Thriller, Mystery, Suspense, Thriller, Mystery Thriller",-0.20022459842332396,-0.3115097785987543,0.15309605781108115
+13142,Checkmate,Malorie Blackman,"Young Adult, Science Fiction, Dystopia, Fiction, Romance",-0.1985642470819769,0.6957426248786442,0.1530954464561431
+4448,Their Fractured Light,"Amie Kaufman, Meagan Spooner","Science Fiction, Young Adult, Romance, Fantasy",-0.20804192320929,0.6211313357321718,0.15309188400610654
+4370,The Declaration,Gemma Malley,"Science Fiction, Dystopia, Young Adult, Science Fiction",-0.1659354131927274,-1.0203170254902567,0.1530118996269182
+192,Uljas uusi maailma,"Aldous Huxley, I. H. Orras","Classics, Fiction, Science Fiction, Science Fiction, Dystopia",4.459678409111083,-0.013064622012858192,0.15299244821599303
+22556,The Vanished,Sarah Dalton,"Young Adult, Science Fiction, Dystopia, Fantasy, Romance",-0.24181542284680946,-0.7591775134775984,0.1529874424694903
+1533,Enclave,Ann Aguirre,"Science Fiction, Dystopia, Young Adult, Horror, Zombies, Science Fiction",-0.004607863449365513,-0.23689848945228026,0.15296867330924024
+10855,Tunnel in the Sky,Robert A. Heinlein,"Science Fiction, Fiction, Young Adult",-0.20125206290044,-0.1995928448790424,0.15295877481360817
+9253,Off Armageddon Reef,David Weber,"Science Fiction, Fantasy, Fiction",-0.20906548097736755,0.5465200465856962,0.1529467210672703
+16541,The Family Tree,Sheri S. Tepper,"Fantasy, Science Fiction, Fiction",-0.2341387395862281,0.061546667133615826,0.15290622635162854
+17111,The Sword of the Lictor,Gene Wolfe,"Fantasy, Science Fiction, Fiction",-0.218082165438142,0.6211313357321718,0.15287348791439076
+2611,Replay,Ken Grimwood,"Fiction, Science Fiction, Science Fiction, Time Travel, Fantasy",-0.15236741270214268,0.658436980305408,0.15283962831548015
+22098,The Hidden Coronet,Catherine Fisher,"Fantasy, Young Adult, Science Fiction, Fiction",-0.2410848682566167,-0.08767591115933222,0.1527281681538557
+18539,A Time to Speak,Nadine Brandes,"Science Fiction, Dystopia, Christian Fiction, Christian, Young Adult, Fantasy",-0.2434874943152719,2.598330498113729,0.1526351064757583
+12196,Jack Blank and the Imagine Nation,Matt Myklusch,"Fantasy, Childrens, Middle Grade, Young Adult, Science Fiction, Adventure, Fiction",-0.22314916706102947,0.7703539140251199,0.15261540182306382
+1386,The Rithmatist,"Brandon Sanderson, Ben McSweeney","Fantasy, Young Adult, Science Fiction, Steampunk, Fiction, Mystery",-0.08185131455787141,0.9941877814645405,0.15258868852733037
+1915,The Jewel,Amy Ewing,"Young Adult, Fantasy, Science Fiction, Dystopia, Romance",-0.124016425210011,-0.4234267123184645,0.15257453142232352
+947,World After,Susan Ee,"Fantasy, Paranormal, Young Adult, Science Fiction, Dystopia, Romance, Fantasy, Urban Fantasy",0.0598840893575946,0.8076595585983559,0.15251552348653752
+15947,Onion John,"Joseph Krumgold, Symeon Shimin","Fiction, Young Adult, Childrens",-0.23196660936084226,-2.0648750735408914,0.15249703739451834
+2838,The Water Knife,Paolo Bacigalupi,"Science Fiction, Fiction, Science Fiction, Dystopia, Thriller",-0.17777274157927264,-0.5726492906114126,0.15248492802973818
+1192,The Sparrow,Mary Doria Russell,"Science Fiction, Fiction, Fantasy, Religion",-0.050253851854776335,0.6957426248786442,0.15247298008355814
+20830,Designated Targets,John Birmingham,"Science Fiction, Alternate History, Science Fiction, Fiction, Science Fiction, Time Travel",-0.2335918003208432,0.1361579562800882,0.1524325271151375
+15380,Inside Divergent: The Initiate's World,"Cecilia Bernard, Veronica Roth","Science Fiction, Dystopia, Young Adult",-0.22001207970314307,1.6283837392095686,0.15242451401357884
+2097,Shades of Earth,Beth Revis,"Young Adult, Science Fiction, Science Fiction, Dystopia, Romance",-0.13222832760886188,0.4346031128659843,0.1523500566307454

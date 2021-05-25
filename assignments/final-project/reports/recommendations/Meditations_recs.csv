@@ -1,0 +1,501 @@
+,book_title,book_authors,genres,book_rating_count,book_rating,rec_score
+9323,Letters from a Stoic,"Seneca, Robin Campbell","Philosophy, Nonfiction, Classics, History",-0.19144622321389587,1.2553272934772002,1.0
+10992,The Decline and Fall of the Roman Empire,"Edward Gibbon, Daniel J. Boorstin, Gian Battista Piranesi, Hans-Friedrich Mueller","History, Nonfiction, Classics, History, Ancient History",-0.20345935350717198,-0.05037026658609438,0.888755125294234
+22477,Discourses and Selected Writings,"Epictetus, Robert F. Dobbin","Philosophy, Nonfiction, Classics",-0.24008865745180846,1.6283837392095686,0.834843941445991
+919,The Art of War,"Sun Tzu, Thomas Cleary","Nonfiction, Classics, Philosophy, History, War",0.7214540113491283,-0.08767591115933222,0.7715680281653864
+22667,Parallel Lives,"Plutarch, Arthur Hugh Clough, John Dryden","History, Classics, Biography, Nonfiction, Philosophy",-0.2399323890902699,0.4719087574392238,0.7436383595680748
+12706,Creatures of a Day: And Other Tales of Psychotherapy,"Irvin D. Yalom, پیام یزدانی","Psychology, Nonfiction, Short Stories, Philosophy, Autobiography, Memoir",-0.22956789001122546,0.5465200465856962,0.7121761740498697
+7991,The Nicomachean Ethics,"Aristotle, J.A.K. Thomson, Jonathan Barnes, Hugh Tredennick","Philosophy, Classics, Nonfiction, Politics",-0.13560763092713304,-0.23689848945228026,0.7053804386944744
+21113,Critique of Practical Reason (Texts in the History of Philosophy),"Immanuel Kant, Mary J. Gregor, Andrews Reath","Philosophy, Nonfiction, Classics",-0.2126088660752542,-0.2742041340255165,0.6998360927148586
+9662,The Consolation of Philosophy,"Boethius, Victor Watts","Philosophy, Classics, Nonfiction, Religion, Historical, Medieval",-0.2079481621923669,-0.05037026658609438,0.695833248117371
+7602,A Guide to the Good Life: The Ancient Art of Stoic Joy,William B. Irvine,"Philosophy, Nonfiction, Self Help, Psychology",-0.20886233210736746,0.8076595585983559,0.6938384949922707
+7599,فلسفه‌ای برای زندگی: رواقی زیستن در دنیای امروز,"William B. Irvine, محمود مقدسی","Philosophy, Nonfiction, Self Help, Psychology",-0.2088310784350597,0.8076595585983559,0.6938384949922707
+18548,A Treatise of Human Nature,David Hume,"Philosophy, Nonfiction, Classics, Politics",-0.20587369969294264,-0.2742041340255165,0.6839385663995401
+7391,A History of Western Philosophy,Bertrand Russell,"Philosophy, History, Nonfiction, Classics, Reference",-0.1407058862223283,0.28538053457303625,0.6829844590716193
+17623,Minima Moralia: Reflections from a Damaged Life,"Theodor W. Adorno, Edmund F.N. Jephcott","Philosophy, Nonfiction, Philosophy, Theory, Writing, Essays",-0.2341504597133435,1.0314934260377764,0.6675685587639024
+22112,"The Wisdom of the Native Americans: Including The Soul of an Indian and Other Writings of Ohiyesa and the Great Speeches of Red Jacket, Chief Joseph, and Chief Seattle",Kent Nerburn,"Nonfiction, History, Philosophy, Spirituality",-0.24209279918854035,1.3299385826236725,0.6675090446972387
+1115,The Prince and Other Political Writings (Everyman's Library (Paper)),Niccolò Machiavelli,"Classics, Philosophy, Nonfiction, Politics, History",0.5653653584263464,-0.7218718689043606,0.6658855453330084
+20047,Basic Writings of Nietzsche,"Friedrich Nietzsche, Walter Kaufmann, Peter Gay","Philosophy, Nonfiction, Classics, History, Modern",-0.2317634604908421,0.3972974682927481,0.660984553885779
+7898,The Story of Philosophy: The Lives and Opinions of the World's Greatest Philosophers,Will Durant,"Philosophy, Nonfiction, History",-0.19931433521736194,0.4346031128659843,0.6586079296519431
+7895,The Story of Philosophy,Will Durant,"Philosophy, Nonfiction, History",-0.19930261509024652,0.4346031128659843,0.6586079296519431
+4666,An Echo in the Darkness,Francine Rivers,"Christian Fiction, Historical, Historical Fiction, Christian, Fiction, Romance, Historical",-0.10125984506095947,2.3371909861010733,0.6551867468314376
+17352,Maxims,"François de La Rochefoucauld, Leonard Tancock","Philosophy, Classics, Nonfiction, Cultural, France, Psychology",-0.2345294104900745,0.28538053457303625,0.6530484161658947
+14433,A Brief History of Thought: A Philosophical Guide to Living,Luc Ferry,"Philosophy, Nonfiction, History",-0.2374828825231531,-0.08767591115933222,0.648928345867781
+17705,Retorica,Aristotle,"Philosophy, Classics, Nonfiction",-0.230642234996803,-0.3861210677452283,0.648824788539007
+6697,On the Shortness of Life,"Seneca, Charles Desmond Nuttall Costa","Philosophy, Nonfiction, Classics, Self Help, Writing, Essays",-0.20215060597928666,0.956882136891304,0.640176425366133
+5857,The Symposium,"Plato, Christopher Gill","Philosophy, Classics, Nonfiction",-0.11575764230269855,0.1361579562800882,0.639812398870536
+22427,"The Decline and Fall of the Roman Empire, vol. 1-3: Volumes 1, 2, 3",Edward Gibbon,"History, Nonfiction, Classics, History, Ancient History, History, World History",-0.2423897090754636,1.2926329380504364,0.639726262101713
+4500,The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph,Ryan Holiday,"Philosophy, Nonfiction, Self Help, Business, Self Help, Personal Development, Psychology",-0.1578016449746458,0.5465200465856962,0.6317441461468205
+12405,An Enquiry Concerning Human Understanding,David Hume,"Philosophy, Nonfiction, Classics, Psychology",-0.1871644701077396,-0.2742041340255165,0.6289914465313476
+18054,Either/Or: A Fragment of Life,"Søren Kierkegaard, Victor Eremita, Alastair Hannay","Philosophy, Nonfiction, Classics, Religion",-0.22016444135564314,0.6957426248786442,0.6260270057693389
+15700,Our Oriental Heritage,Will Durant,"History, Nonfiction, Philosophy, History, Ancient History, History, World History, Historical",-0.23756492341296084,1.1061047151842522,0.6248659867872297
+471,Man's Search for Meaning,"Viktor E. Frankl, Harold S. Kushner, William J. Winslade, Isle Lasch","Nonfiction, Psychology, Philosophy, History, Autobiography, Memoir, Classics",0.7394014326718309,1.3672442271969087,0.624222615283417
+7998,Ethics,"Aristotle, J.A.K. Thomson, Jonathan Barnes, Hugh Tredennick","Philosophy, Classics, Nonfiction, Politics",-0.13556856383674842,-0.23689848945228026,0.6209475140735297
+15241,"Human, All Too Human","Friedrich Nietzsche, R.J. Hollingdale","Philosophy, Nonfiction, Classics, European Literature, German Literature",-0.2117572035048691,0.8822708477448284,0.6195053878214797
+10285,Being and Time,Martin Heidegger,"Philosophy, Nonfiction, Classics",-0.1774250444748494,0.09885231170685202,0.6181533991221151
+17522,Bent,Sean Michael,"Erotica, Bdsm, Romance, M M Romance, Contemporary, Adult Fiction, Erotica, Romance",-0.2379243406444995,-1.0949283146367308,0.6168943544438117
+18939,"Plutarch's Lives, Vol 1","Plutarch, Arthur Hugh Clough, John Dryden, James Atlas","History, Classics, Biography, Nonfiction, Philosophy, History, Ancient History",-0.2257822889529541,0.35999182371951194,0.616626014011377
+19424,The Theory of Moral Sentiments,Adam Smith,"Philosophy, Economics, Nonfiction, Classics, Politics, Psychology",-0.2328143652221889,0.2480748899998001,0.6143255611890397
+12300,Being and Nothingness,"Jean-Paul Sartre, Hazel E. Barnes, Mary Warnock, Richard Eyre","Philosophy, Nonfiction, Classics, Cultural, France",-0.1535511455407972,-0.1249815557325684,0.6086586190731651
+19063,The Life of Greece,Will Durant,"History, Nonfiction, History, Ancient History, Philosophy, History, World History",-0.2399089488360391,1.2553272934772002,0.6074513563164557
+17427,Metaphysics,"Aristotle, Joe Sachs","Philosophy, Classics, Nonfiction, Philosophy, Metaphysics",-0.1992674547089004,0.1361579562800882,0.6060159348170036
+422,Sapiens: A Brief History of Humankind,Yuval Noah Harari,"Nonfiction, History, Science, Anthropology, Philosophy",0.41457420295972136,1.7403006729292805,0.6038933601618086
+20455,Code of the Samurai: A Modern Translation of the Bushido Shoshinshu of Taira Shigesuke,"Daidōji Yūzan, Oscar Ratti, Thomas Cleary, Daidōji Yūzan","Philosophy, Combat, Martial Arts, History, Nonfiction, Cultural, Japan, Classics",-0.23585769156315214,0.17346360085332768,0.6038886243904357
+14593,Phaedo,"Plato, David Gallop, R.D. Archer-Hind","Philosophy, Classics, Nonfiction",-0.21371446473313946,0.1361579562800882,0.6034043239471385
+12035,The Birth of Tragedy,"Friedrich Nietzsche, Michael Tanner, Shaun Whiteside","Philosophy, Nonfiction, Classics, European Literature, German Literature",-0.2025217433379407,-0.013064622012858192,0.6008723306567296
+12237,"Capital, Vol 1: A Critical Analysis of Capitalist Production","Karl Marx, Ben Fowkes, Ernest Mandel","Economics, Philosophy, Politics, Nonfiction, History, Classics",-0.21932449891237346,0.8076595585983559,0.5999699639891541
+16951,The Portable Nietzsche,"Friedrich Nietzsche, Walter Kaufmann","Philosophy, Nonfiction, Classics",-0.2124330641685233,0.7703539140251199,0.5985886281193875
+10842,The Nature of Things,"Lucretius, A.E. Stallings, Richard Jenkyns","Philosophy, Poetry, Classics, Nonfiction, Science, History",-0.20545568182582705,-0.013064622012858192,0.5974540644737096
+8078,On Liberty,John Stuart Mill,"Philosophy, Politics, Nonfiction, Classics, History",-0.14991399942598746,-0.1249815557325684,0.5948867180558761
+12024,Understanding Power: The Indispensable Chomsky,"Noam Chomsky, Peter R. Mitchell, John Schoeffel","Politics, Nonfiction, Philosophy, History, Economics",-0.2233757561852604,1.5537724500630965,0.593227507656941
+10889,Hagakure: The Book of the Samurai,"Yamamoto Tsunetomo, William Scott Wilson","Philosophy, Nonfiction, Cultural, Japan, History, Combat, Martial Arts, Classics",-0.2019083900189019,0.3226861791462757,0.592136483656023
+17674,Rights of Man,Thomas Paine,"Philosophy, Politics, Nonfiction, Classics, History",-0.2110774361321764,0.17346360085332768,0.589396751942041
+14767,Doubt: A History: The Great Doubters and Their Legacy of Innovation from Socrates and Jesus to Thomas Jefferson and Emily Dickinson,"Jennifer Michael Hecht, Diagoras of Melos","History, Philosophy, Nonfiction, Religion, Religion, Atheism, Science, Philosophy, Skepticism",-0.2334785057587277,0.28538053457303625,0.5891624096897858
+16866,The Perennial Philosophy,Aldous Huxley,"Philosophy, Nonfiction, Religion, Spirituality, Psychology",-0.2316462592196882,0.8822708477448284,0.5889889116032903
+13472,The Declaration of Independence and The Constitution of the United States,Founding Fathers,"History, Nonfiction, Politics, Classics, Philosophy, Reference",-0.17272527350157746,1.7403006729292805,0.5886410070526067
+21912,Critique of Judgment,"Immanuel Kant, Werner S. Pluhar","Philosophy, Nonfiction, Classics",-0.21844548937871908,0.3226861791462757,0.588484993777019
+6961,"At the Existentialist Café: Freedom, Being, and Apricot Cocktails",Sarah Bakewell,"Philosophy, Nonfiction, History, Biography",-0.2223717319623752,0.8822708477448284,0.5873631815162028
+10900,The Problems of Philosophy,Bertrand Russell,"Philosophy, Nonfiction, Classics",-0.20099812681293985,-0.2742041340255165,0.5871951824140544
+16921,Twilight of the Idols/The Anti-Christ,"Friedrich Nietzsche, Michael Tanner","Philosophy, Nonfiction, Classics, Religion",-0.21709767476044908,0.6211313357321718,0.5836337435097239
+6781,The 5000 Year Leap: A Miracle That Changed the World,W. Cleon Skousen,"History, Nonfiction, Politics, Philosophy",-0.22012537426525847,1.0314934260377764,0.5829540898569658
+14672,The People of the Abyss,Jack London,"Nonfiction, History, Classics",-0.23469349226968994,0.061546667133615826,0.582269999283041
+13813,Letter from the Birmingham Jail,Martin Luther King Jr.,"Nonfiction, History, Politics, Classics, Writing, Essays, Philosophy",-0.2314548304768035,2.5237192089672567,0.5815656776589204
+15207,A Path with Heart: A Guide Through the Perils and Promises of Spiritual Life,Jack Kornfield,"Religion, Buddhism, Spirituality, Nonfiction, Philosophy, Religion",-0.21070629877352234,1.0314934260377764,0.5793305066703114
+10495,The Age of Reason,Thomas Paine,"Philosophy, Nonfiction, Religion, Classics, History, Politics",-0.2172461297039107,0.5465200465856962,0.5776721306324342
+20272,Existentialism from Dostoevsky to Sartre,Walter Kaufmann,"Philosophy, Nonfiction, History",-0.2254931924841077,0.3226861791462757,0.5766301556368609
+20337,Essays,Francis Bacon,"Philosophy, Classics, Writing, Essays, Nonfiction, History, Science",-0.2315056176943035,-0.6099549351846504,0.5738307880954198
+19518,Philosophy: Who Needs It,"Ayn Rand, Leonard Peikoff","Philosophy, Nonfiction, Politics",-0.23488882772161315,-0.4234267123184645,0.5732416877898753
+18913,What Has Government Done to Our Money? and The Case for the 100 Percent Gold Dollar,Murray N. Rothbard,"Economics, Politics, Nonfiction, History, Philosophy",-0.2365101119725756,1.0314934260377764,0.5732326618715853
+22173,The Fall of the Roman Republic: Six Lives,"Plutarch, Rex Warner, Robin Seager","History, Classics, Nonfiction, Biography, History, Ancient History",-0.23152124453045736,0.3972974682927481,0.5729088846315789
+10397,Tractatus Logico-Philosophicus,Ludwig Wittgenstein,"Philosophy, Nonfiction, Philosophy, Logic, Humanities, Language",-0.1908172430587032,0.2480748899998001,0.5702753056317464
+23267,"Left-Wing Communism, an Infantile Disorder: A Popular Essay in Marxian Strategy and Tactics",Vladimir Lenin,"Politics, Nonfiction, Philosophy, History",-0.2412450433271937,-0.1249815557325684,0.5700892237570295
+22574,The Birth of Tragedy/The Case of Wagner,"Friedrich Nietzsche, Walter Kaufmann","Philosophy, Nonfiction, Classics, Music",-0.23428328782065125,0.6957426248786442,0.5692326540617694
+6445,The Histories,"Herodotus, Carolyn Dewald, Robin Waterfield","History, Classics, Nonfiction, History, Ancient History",-0.1064792083363471,-0.05037026658609438,0.5690179101087744
+14599,Gorgias,"Plato, Walter Hamilton, Chris Emlyn-Jones","Philosophy, Classics, Nonfiction, Politics",-0.21231976960640786,-0.1249815557325684,0.5688757943415708
+9630,The Analects,"Confucius, D.C. Lau","Philosophy, Classics, Nonfiction, Religion, Cultural, China",-0.18582056219850804,-0.5353436460381764,0.5679250241489588
+1774,Hamilton: The Revolution,"Lin-Manuel Miranda, Jeremy McCarter","Nonfiction, History, Plays",-0.11616784675173727,1.8522176066489924,0.5663625620813604
+11828,The Worldly Philosophers,Robert L. Heilbroner,"Economics, Philosophy, History, Nonfiction, Biography, Politics",-0.2228561638831447,0.5465200465856962,0.5654342877345955
+14359,The Golden Bough: A Study in Magic and Religion: A New Abridgement,"James George Frazer, Robert Fraser","Fantasy, Mythology, Nonfiction, Religion, History, Anthropology, Classics, Philosophy",-0.21689452589044894,0.1361579562800882,0.5645099833873006
+14351,The Golden Bough,James George Frazer,"Fantasy, Mythology, Nonfiction, Religion, History, Anthropology, Classics, Philosophy",-0.2169062460175644,0.1361579562800882,0.5645099833873006
+16513,The Order of Things: An Archaeology of the Human Sciences,Michel Foucault,"Philosophy, Nonfiction, History, Philosophy, Theory, Science, Sociology",-0.21645697447814105,0.5465200465856962,0.5641143172876395
+23083,Civil War,"Marcus Annaeus Lucanus, Matthew Fox, Ethan Adams","Poetry, History, Classics, Nonfiction, Roman, War",-0.24066294368046265,-0.1995928448790424,0.563974854098455
+22640,On Liberty and Other Essays,"John Stuart Mill, John Gray","Philosophy, Politics, Nonfiction, Classics",-0.2225319070329522,0.2480748899998001,0.5633325433433696
+3792,Mythology: Timeless Tales of Gods and Heroes,"Edith Hamilton, Steele Savage","Fantasy, Mythology, Classics, Nonfiction, History",-0.09294246151807008,0.024241022560379646,0.5623841810496397
+8261,The Federalist Papers,"Alexander Hamilton, James Madison, John Jay, Philo-Publius, Clinton Rossiter, Charles R. Kessler","History, Politics, Nonfiction, Classics, Philosophy, North American Hi..., American History",-0.12240295437712545,0.28538053457303625,0.5607852100441151
+3026,The Swerve: How the World Became Modern,Stephen Greenblatt,"History, Nonfiction, Philosophy, Science, Religion",-0.15464502407156705,-0.5353436460381764,0.5602243467121593
+4105,The Electric Kool-Aid Acid Test,Tom Wolfe,"Nonfiction, History, Classics",-0.0015996974897484009,-0.23689848945228026,0.5585396885158072
+10770,Claudius the God and His Wife Messalina,Robert Graves,"Historical, Historical Fiction, Fiction, Classics, Historical",-0.20297882829544095,0.8822708477448284,0.5583485303518475
+14777,"Moral Tribes: Emotion, Reason, and the Gap Between Us and Them",Joshua D. Greene,"Psychology, Nonfiction, Philosophy, Science, Sociology, Politics",-0.2379555943168072,0.17346360085332768,0.5578001150135842
+14569,مقدمة ابن خلدون,Ibn Khaldun,"Nonfiction, Sociology, Classics, Politics, History, Religion, Historical, Economics, Philosophy, History, World History",-0.2328846859848812,1.1807160043307243,0.5576829325015269
+17025,The Conquest of New Spain,"Bernal Díaz del Castillo, J.M. Cohen","History, Nonfiction, Classics",-0.2365569924810372,0.4346031128659843,0.5571281040075151
+18277,"The World as Will and Representation, Volume 1","Arthur Schopenhauer, E.F.J. Payne","Philosophy, Nonfiction, Classics, European Literature, German Literature",-0.21643353422391026,0.7330482694518804,0.557069542576716
+22866,Gods and Heroes of Ancient Greece,"Gustav Schwab, Olga Marx, Ernst Morwitz","Fantasy, Mythology, Classics, History, Nonfiction",-0.23926434184469256,0.5838256911589323,0.5565789171232892
+15035,A Brief History of Everything,Ken Wilber,"Philosophy, Nonfiction, History, Spirituality, Psychology, Science",-0.2333222373971892,0.17346360085332768,0.5555203175995739
+6682,The Myth of Sisyphus and Other Essays,"Albert Camus, Justin O'Brien","Philosophy, Nonfiction, Writing, Essays, Classics, Cultural, France",-0.11027262281269544,0.7703539140251199,0.5554099148956813
+14438,Sailing the Wine-Dark Sea: Why the Greeks Matter,Thomas Cahill,"History, Nonfiction, Cultural, Greece, History, Ancient History, Philosophy",-0.2348185069589208,-0.7964831580508346,0.5547916230294192
+22543,Century of the Wind,"Eduardo Galeano, Cedric Belfrage","History, Nonfiction",-0.2411200286379629,1.964134540368701,0.5536935886340053
+19656,The Open Society and Its Enemies - Volume One: The Spell of Plato,Karl Popper,"Philosophy, Politics, Nonfiction, History",-0.2369398499668066,0.5092144020124599,0.5535973984374638
+1113,The Prince,"Niccolò Machiavelli, Quentin Skinner, Russell Price","Classics, Philosophy, Nonfiction, Politics, History",0.5656583616042311,-0.7218718689043606,0.5534268308681033
+8311,Discipline and Punish: The Birth of the Prison,"Michel Foucault, Alan Sheridan, Thomas Mathiesen, Walter Seitter, Drago Braco Rotar","Philosophy, Nonfiction, History, Sociology, Philosophy, Theory, Politics, Cultural, France, Psychology, Academic, Classics",-0.16301710154099494,0.8449652031715923,0.5520770681610417
+17666,The Ethics of Ambiguity,Simone de Beauvoir,"Philosophy, Nonfiction, Feminism, Classics, Cultural, France",-0.2293959948135331,0.5465200465856962,0.5499605633095896
+7693,Orientalism,"Edward W. Said, Jean-Leon Gerome","Nonfiction, History, Philosophy, Politics, Philosophy, Theory",-0.1922353784396656,0.35999182371951194,0.5495497682960235
+14199,Phenomenology of Spirit,"Georg Wilhelm Friedrich Hegel, A.V. Miller, John Niemeyer Findlay","Philosophy, Nonfiction, Classics, European Literature, German Literature",-0.19346989849582014,-0.23689848945228026,0.5491987515464064
+16687,I Am That: Talks with Sri Nisargadatta Maharaj,"Nisargadatta Maharaj, Sudhaker S. Dikshit, Maurice Frydman","Spirituality, Philosophy, Nonfiction, Religion",-0.2295835168473793,1.964134540368701,0.5491151440862987
+12918,The I Ching or Book of Changes,"Anonymous, Richard Wilhelm, Cary F. Baynes, C.G. Jung","Philosophy, Religion, Nonfiction, Spirituality, Classics",-0.1829335042190833,0.7330482694518804,0.5489787697525582
+19289,The Passion of the Western Mind: Understanding the Ideas that Have Shaped Our World View,Richard Tarnas,"Philosophy, History, Nonfiction, Psychology",-0.239647199330462,0.919576492318068,0.5486225920490249
+20918,"The History of Sexuality, Volume 2: The Use of Pleasure","Michel Foucault, Robert Hurley","Philosophy, Nonfiction, History, Philosophy, Theory, Sexuality, Sociology",-0.2329159396571889,0.3226861791462757,0.5471940163714444
+5001,Beyond Good and Evil,"Friedrich Nietzsche, R.J. Hollingdale, Michael Tanner","Philosophy, Nonfiction, Classics, European Literature, German Literature",-0.05448091103439416,0.09885231170685202,0.5469798689354832
+19516,Glimpses of World History,Jawaharlal Nehru,"History, Nonfiction, Cultural, India, History, World History",-0.2387760032148846,0.956882136891304,0.5469582115595955
+8941,Arguably: Selected Essays,Christopher Hitchens,"Nonfiction, Writing, Essays, Politics, Philosophy, History",-0.2132183126852545,0.8076595585983559,0.5465496060469186
+11033,Meditations on First Philosophy,"René Descartes, Donald A. Cress","Philosophy, Classics, Nonfiction, Cultural, France",-0.17841734857061914,-1.0949283146367308,0.5454753174498663
+16875,The Yoga Sutras,"Patañjali, Swami Satchidananda","Spirituality, Nonfiction, Philosophy, Religion",-0.22034805668045093,1.5910780946363323,0.5451075112685205
+18118,Ludwig Wittgenstein: The Duty of Genius,Ray Monk,"Philosophy, Biography, Nonfiction, History",-0.2308805442481493,1.3672442271969087,0.5445988882782509
+20428,Days and Nights of Love and War,"Eduardo Galeano, Sandra Cisneros","History, Nonfiction",-0.2408699992595012,1.1434103597574885,0.5438792119055356
+10671,The Doors of Perception,Aldous Huxley,"Philosophy, Nonfiction, Psychology, Classics",-0.212792481400062,-0.16228720030580626,0.5434882960283545
+19365,Abandonment to Divine Providence: The Classic Text with a Spiritual Commentary,"Jean-Pierre de Caussade, Dennis J. Billy","Spirituality, Christianity, Catholic, Religion, Religion, Theology, Nonfiction, Religion, Christianity, Christian, Religion, Faith, Classics, Prayer",-0.23767040455699934,1.5910780946363323,0.5432608178383537
+8574,History of the Peloponnesian War,"Thucydides, Benjamin Jowett","History, Classics, Nonfiction, War, History, Ancient History",-0.14271393466809867,-0.3861210677452283,0.5427799012102776
+7777,The Blank Slate: The Modern Denial of Human Nature,Steven Pinker,"Psychology, Science, Nonfiction, Philosophy, Sociology, Science, Biology",-0.1731823584590777,0.3226861791462757,0.5422514888207894
+2807,Thus Spoke Zarathustra,"Friedrich Nietzsche, Walter Kaufmann","Philosophy, Classics, Nonfiction, European Literature, German Literature",0.10430727783396626,0.3226861791462757,0.5415231494280833
+6590,The Road to Serfdom,Friedrich A. Hayek,"Economics, Politics, Nonfiction, Philosophy, History",-0.1835156038658144,0.7330482694518804,0.5401889305763579
+2108,The Communist Manifesto,"Karl Marx, Friedrich Engels, Eric Hobsbawm","Philosophy, Nonfiction, Politics, Classics, History, Economics",0.08106235905510678,-1.6918186278085232,0.5400470798430077
+656,A Short History of Nearly Everything,Bill Bryson,"Nonfiction, Science, History",0.6692369383410214,0.8076595585983559,0.5387628421932118
+12884,Discourse on the Origin of Inequality,Jean-Jacques Rousseau,"Philosophy, Nonfiction, Politics, Classics, Cultural, France",-0.2016192935500556,-0.5726492906114126,0.5380567271083347
+20096,The Archetypes and the Collective Unconscious,"C.G. Jung, Herbert Read, Michael Fordham, R.F.C. Hull","Psychology, Nonfiction, Philosophy, Classics",-0.2284232242629556,1.1061047151842522,0.5379705119248661
+19170,The Anatomy of Melancholy,"Robert  Burton, William H. Gass","Philosophy, Psychology, Nonfiction, Classics, Writing, Essays, Science",-0.2403933807568086,0.8076595585983559,0.5377814692678571
+5194,Common Sense,Thomas Paine,"History, Nonfiction, Classics, Philosophy, Politics, North American Hi..., American History",-0.14519860161656165,-0.05037026658609438,0.5376908482513687
+13911,Descartes' Bones: A Skeletal History of the Conflict Between Faith and Reason,Russell Shorto,"History, Nonfiction, Philosophy, Science, Religion, Biography",-0.23849081345507675,-1.0203170254902567,0.5374689326917501
+22734,The Lost Book of Enki,Zecharia Sitchin,"Nonfiction, History",-0.2408231187510396,0.5092144020124599,0.5365413799901704
+22198,The Open Society and Its Enemies - Volume Two: Hegel and Marx,Karl Popper,"Philosophy, Politics, Nonfiction, History",-0.2378618332998841,0.17346360085332768,0.5353093978795547
+18307,Autobiography and Other Writings,"Benjamin Franklin, Ormond Seavey","Biography, History, Classics, Nonfiction, Biography, Autobiography",-0.23755320328584545,-0.6845662243311244,0.5347949279188662
+15644,A Collection of Essays,George Orwell,"Writing, Essays, Nonfiction, Classics, Politics, Literature, Philosophy",-0.232259612538727,1.1807160043307243,0.5344340598218571
+10566,A Journal of the Plague Year,"Daniel Defoe, Cynthia Sundberg Wall","Classics, History, Nonfiction",-0.2262862544189159,-1.654512983235285,0.5340153215732019
+16556,"Caliban and the Witch: Women, the Body and Primitive Accumulation",Silvia Federici,"Feminism, History, Nonfiction, Philosophy, Politics",-0.2370414244018067,1.8895232512222289,0.533329892301232
+6585,The Structure of Scientific Revolutions,Thomas S. Kuhn,"Science, Philosophy, Nonfiction, History, Sociology",-0.17008433819157592,0.061546667133615826,0.532740198581239
+21817,The Autobiography of Bertrand Russell,Bertrand Russell,"Biography, Philosophy, Nonfiction, Biography, Autobiography, History",-0.2411825359825783,0.3226861791462757,0.5323298773162746
+10351,A Vindication of the Rights of Woman,"Mary Wollstonecraft, Miriam Brody","Feminism, Nonfiction, Classics, Philosophy, History, Politics",-0.18800050584197084,-0.3115097785987543,0.5318693689559737
+12276,The Complete Essays,"Michel de Montaigne, M.A. Screech","Philosophy, Classics, Writing, Essays, Nonfiction, Cultural, France",-0.20166226734947867,0.956882136891304,0.5318419429120149
+21165,"Basic Writings: Ten Key Essays, plus the Introduction to Being and Time","Martin Heidegger, David Farrell Krell","Philosophy, Nonfiction",-0.2273449725683396,0.3226861791462757,0.5315722866573842
+17768,"The Secret Teachings of All Ages: An Encyclopedic Outline of Masonic, Hermetic, Qabbalistic and Rosicrucian Symbolical Philosophy","Manly P. Hall, J. Augustus Knapp","Philosophy, Occult, Nonfiction, History, Spirituality, Religion",-0.23243932115449634,1.5537724500630965,0.5312617152131178
+12327,"The Art of Living: The Classical Manual on Virtue, Happiness and Effectiveness","Epictetus, Sharon Lebell","Philosophy, Nonfiction, Classics, Self Help, Spirituality, Psychology, History, Self Help, Personal Development, Writing, Essays, Health",-0.228325556536994,1.1434103597574885,0.5295312616615314
+15342,Capital,"Karl Marx, David McLellan","Philosophy, Economics, Politics, Nonfiction, Classics, History, Sociology",-0.21887913408198856,-0.6099549351846504,0.5288567315938323
+8264,The Law,Frédéric Bastiat,"Politics, Philosophy, Economics, Nonfiction, Law, Classics",-0.21012419912679126,1.516466805489857,0.5288166012945545
+2022,Tao Te Ching,"Lao Tzu, Gia-Fu Feng, Jane English, Chungliang Al Huang, Rowena Pattee Kryder, Toinette Lippe","Philosophy, Nonfiction, Religion, Classics, Spirituality, Poetry, Cultural, China, Religion, Taoism, Self Help, Philosophy, Eastern Philosophy",0.11082366851012383,1.2180216489039608,0.5285064842854384
+7026,The Art of Seduction,Robert Greene,"Psychology, Nonfiction, Self Help, Philosophy, History",-0.19128995485235734,0.28538053457303625,0.5283384426920045
+6087,Justice: What's the Right Thing to Do?,Michael J. Sandel,"Philosophy, Nonfiction, Politics, Law",-0.19696249637620675,1.0314934260377764,0.5279950660602738
+13776,Prometheus Rising,"Robert Anton Wilson, Israel Regardie","Philosophy, Psychology, Nonfiction, Occult, Science",-0.2248095184023766,1.0314934260377764,0.5279608147609691
+19534,The Soul of Rumi: A New Collection of Ecstatic Poems,"Rumi, Coleman Barks","Poetry, Spirituality, Classics, Philosophy, Religion",-0.2309039845023801,1.964134540368701,0.5278500000417117
+8336,Democracy in America,"Alexis de Tocqueville, Isaac Kramnick, Gerald Bevan","History, Politics, Nonfiction, Philosophy, Classics, North American Hi..., American History",-0.1669042770342664,0.09885231170685202,0.5278463989942919
+11278,Essays and Aphorisms,"Arthur Schopenhauer, R.J. Hollingdale","Philosophy, Nonfiction, Writing, Essays, Classics, European Literature, German Literature",-0.21148764058121508,0.8076595585983559,0.5276135256863289
+5892,A Night to Remember,"Walter Lord, Nathaniel Philbrick","Nonfiction, History, Historical, Classics",-0.1869144407292779,0.09885231170685202,0.5269215910497709
+14695,Black Lamb and Grey Falcon,"Rebecca West, Christopher Hitchens","History, Travel, Nonfiction, Classics",-0.23820953040430734,0.919576492318068,0.5258986296115683
+8018,Existentialism Is a Humanism,"Jean-Paul Sartre, Arlette Elkaïm-Sartre, Annie Cohen-Solal, Carol Macomber","Philosophy, Nonfiction, Cultural, France, Classics",-0.1728190345185006,-0.08767591115933222,0.5253133667653691
+4660,Il libro dell'inquietudine di Bernardo Soares,"Fernando Pessoa, Antonio Tabucchi, Maria José de Lancastre","Fiction, Poetry, Classics, Philosophy, Literature",-0.1816833573267749,1.8522176066489924,0.5249752665782025
+9529,Ecce Homo,"Friedrich Nietzsche, Michael Tanner, R.J. Hollingdale","Philosophy, Nonfiction, Biography, Classics, European Literature, German Literature",-0.21000309114659885,-0.5726492906114126,0.524770324377382
+20815,Letters on England,Voltaire,"Philosophy, Classics, Nonfiction, History, Cultural, France, Politics",-0.238139209641615,-0.7964831580508346,0.5241957786020426
+22001,Selections from the Prison Notebooks,"Antonio Gramsci, Geoffrey N. Smith, Quintin Hoare","Philosophy, Politics, Nonfiction, Sociology, Philosophy, Theory, History",-0.2283138364098786,0.7330482694518804,0.5241911811707733
+20762,History and Utopia,"Emil M. Cioran, Richard Howard","Philosophy, Nonfiction, History, Writing, Essays",-0.2415575800502708,-0.05037026658609438,0.5239189804209812
+16097,A Thousand Plateaus: Capitalism and Schizophrenia,"Gilles Deleuze, Félix Guattari, Brian Massumi","Philosophy, Philosophy, Theory, Nonfiction, Politics, Academic",-0.2257275950264156,1.1434103597574885,0.523882658269271
+11170,Manufacturing Consent: The Political Economy of the Mass Media,"Noam Chomsky, Edward S. Herman","Politics, Nonfiction, History, Philosophy, Sociology",-0.19670465357966813,0.919576492318068,0.5238009644827597
+2754,Letters To A Young Poet,"Rainer Maria Rilke, Charlie Louth","Poetry, Nonfiction, Classics, Language, Writing, Philosophy",-0.0960482952036488,1.2926329380504364,0.5236133928341409
+22059,The Art of Memory,Frances A. Yates,"History, Nonfiction, Psychology, Philosophy, Science",-0.2403816606296932,0.7703539140251199,0.5235729214678766
+17719,Hirohito and the Making of Modern Japan,Herbert P. Bix,"History, Cultural, Japan, Nonfiction, Biography, Cultural, Asia",-0.2374008416333453,-0.6472605797578865,0.5234293424603753
+17754,A Short History of Decay,"Emil M. Cioran, Richard Howard","Philosophy, Nonfiction, Writing, Essays, History",-0.2351466705181517,1.1061047151842522,0.5234019890496283
+16151,On the Heights of Despair,"Emil M. Cioran, Ilinca Zarifopol-Johnston","Philosophy, Nonfiction, European Literature, Romanian Literature, Writing, Essays",-0.2305367538527645,0.8822708477448284,0.523012951546191
+15556,Bright Star: Love Letters and Poems of John Keats to Fanny Brawne,"John Keats, Jane Campion","Poetry, Classics, Nonfiction, Romance",-0.23554124813103655,1.1434103597574885,0.5226309544441046
+17170,اراده قدرت,"Friedrich Nietzsche, مجید شریف","Philosophy, Nonfiction, Classics, European Literature, German Literature",-0.21360507688006244,0.2107692454265639,0.522072249694884
+17204,The Will to Power,"Friedrich Nietzsche, Walter Kaufmann, R.J. Hollingdale","Philosophy, Nonfiction, Classics, European Literature, German Literature",-0.2136089835891009,0.2107692454265639,0.522072249694884
+11858,The Rebel: An Essay on Man in Revolt,Albert Camus,"Philosophy, Nonfiction, Writing, Essays, Cultural, France, Classics",-0.20514314510274992,0.5838256911589323,0.521411391080361
+14567,"Descartes' Error: Emotion, Reason and the Human Brain",António R. Damásio,"Psychology, Science, Nonfiction, Philosophy, Biology, Neuroscience",-0.21959406183602745,-0.05037026658609438,0.5213132390547837
+16224,The Revolt of the Masses,José Ortega y Gasset,"Philosophy, Politics, Nonfiction, History, Sociology",-0.2333925581598815,0.28538053457303625,0.5211981741539016
+6680,"Enlightenment Now: The Case for Reason, Science, Humanism, and Progress",Steven Pinker,"Nonfiction, Science, Philosophy, History, Psychology, Politics",-0.22142630837506694,0.956882136891304,0.5205976753696068
+12875,Self-Reliance and Other Essays,Ralph Waldo Emerson,"Philosophy, Classics, Nonfiction, Writing, Essays, Literature",-0.1829960115636987,0.5838256911589323,0.519955390307921
+22507,What's Left?,Nick Cohen,"Politics, Nonfiction, Philosophy, History",-0.2416591544852709,0.4346031128659843,0.5197205394678494
+16275,The Ascent of Man,Jacob Bronowski,"Science, History, Nonfiction, Philosophy, Anthropology",-0.2243563401539148,0.7330482694518804,0.5190011487729367
+14192,Civil Disobedience and Other Essays,Henry David Thoreau,"Philosophy, Classics, Nonfiction, Politics, Writing, Essays, History",-0.18768406240985527,0.28538053457303625,0.5184715193260971
+16204,On the Genealogy of Morals / Ecce Homo,"Friedrich Nietzsche, Walter Kaufmann, R.J. Hollingdale","Philosophy, Nonfiction, Classics, European Literature, German Literature",-0.19547404023255205,0.5838256911589323,0.5183107153523104
+22151,Nature and Selected Essays,"Ralph Waldo Emerson, Larzer Ziff","Philosophy, Classics, Nonfiction, Writing, Essays, Environment, Nature, Literature",-0.23833845180257665,0.5465200465856962,0.5176886132083507
+18244,The Story of Civilization,"Will Durant, Ariel Durant","History, Nonfiction, Philosophy, History, World History, Reference",-0.23951437122315425,1.7029950283560444,0.5169344453020572
+21961,Essays & Poems (Library of America College Editions),"Ralph Waldo Emerson, Joel Porte, Harold Bloom, Paul  Kane","Poetry, Classics, Philosophy, Writing, Essays, Nonfiction",-0.1941418524504359,0.061546667133615826,0.5166905717022041
+22321,The Essential Chomsky,"Noam Chomsky, Anthony Arnove","Politics, Nonfiction, Philosophy, History, Writing, Essays",-0.2409676669854628,0.5465200465856962,0.5163308022148038
+22100,Sophist,"Plato, Nicholas P. White","Philosophy, Classics, Nonfiction, Literature, Ancient",-0.2377055649383455,0.4719087574392238,0.5159516959793715
+9788,Critique of Pure Reason,"Immanuel Kant, Paul Guyer, Allen W. Wood","Philosophy, Nonfiction, Classics, European Literature, German Literature",-0.15028123007560298,-0.1995928448790424,0.5144285711640997
+9940,Praise of Folly,"Erasmus, Betty Radice, Nusret Hızır, Çiğdem Dürüşken, Tufan Göbekçin, A.H.T. Levi","Philosophy, Classics, Nonfiction, Religion",-0.2035570212331336,-0.3861210677452283,0.5144195347938559
+2755,Letters to a Young Poet,"Rainer Maria Rilke, Reginald Snell, Franz Xaver Kappus","Poetry, Nonfiction, Classics, Language, Writing, Philosophy",-0.09610689583922576,1.2926329380504364,0.5141488031271699
+22417,I Have a Dream: Writings and Speeches That Changed the World,"Martin Luther King Jr., James Washington, Coretta Scott King","Nonfiction, History, Classics, Biography, Politics",-0.2403855673387317,1.7776063175025167,0.5141378764554339
+5772,A Book of Five Rings: The Classic Guide to Strategy,"Miyamoto Musashi, Victor Harris","Philosophy, Nonfiction, Classics, Combat, Martial Arts, History, Cultural, Japan",-0.13220098064559266,0.35999182371951194,0.5139077717843354
+11282,The Wisdom of Life,"Arthur Schopenhauer, Thomas Bailey Saunders","Philosophy, Nonfiction, Writing, Essays, Classics, European Literature, German Literature",-0.21148764058121508,0.8076595585983559,0.5127210129898752
+4525,The Road to Character,David  Brooks,"Nonfiction, Philosophy, Psychology, Self Help, Biography, History",-0.18561350661946946,-1.1695396037832049,0.5127149380215913
+20405,Following the Equator: A Journey Around the World,Mark Twain,"Travel, Nonfiction, Classics, Humor, Adventure, History",-0.2400105232710392,-0.1249815557325684,0.5116938616220037
+18332,"Common Sense, The Rights of Man and Other Essential Writings","Thomas Paine, Sidney Hook, Jack Fruchtman Jr.","Philosophy, History, Politics, Nonfiction, Classics, North American Hi..., American History",-0.19149701043139591,0.5465200465856962,0.5112398453292493
+16384,"Conversations With God: An Uncommon Dialogue, Book 3",Neale Donald Walsch,"Spirituality, Nonfiction, Religion, Philosophy, Self Help",-0.19093444432985712,0.8076595585983559,0.5104931856985444
+13650,Doing Good Better: How Effective Altruism Can Help You Make a Difference,William MacAskill,"Nonfiction, Philosophy, Economics, Self Help",-0.23595535928911374,0.919576492318068,0.510347867866251
+20321,Celebrating Silence: Excerpts from Five Years of Weekly Knowledge 1995-2000,"Sri Sri Ravi Shankar, Bill Hayden, Anne Elixhauser","Nonfiction, Spirituality, Philosophy",-0.23945967729661574,2.784858720979917,0.5102504027338498
+21576,Narrow Road to the Interior: And Other Writings,"Matsuo Bashō, Sam Hamill","Asian Literature, Japanese Literature, Nonfiction, Travel, Classics, Philosophy",-0.2428975812504639,0.6211313357321718,0.5102420591273001
+4656,The Book of Disquiet,"Fernando Pessoa, Margaret Jull Costa, William  Boyd","Fiction, Poetry, Classics, Philosophy, Literature",-0.181675543908698,1.8522176066489924,0.5101004244446984
+19234,95 Theses,"Martin Luther, Adolph Spaeth","Religion, History, Religion, Theology, Classics, Nonfiction, Philosophy, Religion, Christianity, Christian",-0.23871740257930765,-0.4234267123184645,0.50972771172869
+9783,المياه كلها بلون الغرق,"Emil M. Cioran, إميل سيوران, آدم فتحي","Philosophy, Nonfiction",-0.2340176316060357,-0.9084000917705448,0.5093161732155638
+5085,Logicomix: An Epic Search for Truth,"Apostolos K. Doxiadis, Christos H. Papadimitriou, Alecos Papadatos, Annie Di Donna","Sequential Art, Graphic Novels, Sequential Art, Comics, Philosophy, Nonfiction, History, Biography, Science",-0.19093444432985712,0.1361579562800882,0.5090941608100665
+13,To Kill a Mockingbird,Harper Lee,"Classics, Fiction, Historical, Historical Fiction, Academic, School",14.396873373655446,1.0687990706110126,0.5086099128735597
+14988,O Cérebro de Broca: A Aventura da Ciência (Biblioteca de Divulgação Científica),Carl Sagan,"Science, Nonfiction, Philosophy, History",-0.2104875230673684,0.17346360085332768,0.5083542975203936
+3614,The Book of Joy: Lasting Happiness in a Changing World,"Dalai Lama XIV, Desmond Tutu, Douglas Carlton Abrams","Nonfiction, Spirituality, Philosophy, Self Help, Religion",-0.1754248094471559,1.4045498717701483,0.5083311421980234
+18285,Passionate Minds,David Bodanis,"History, Nonfiction, Biography, Science, Philosophy, Literature, 18th Century",-0.2414755391604631,0.35999182371951194,0.5083015626487712
+20883,Mutual Aid: A Factor of Evolution,Pyotr Kropotkin,"Politics, Philosophy, Nonfiction, History, Sociology, Economics",-0.23897133866680775,0.8449652031715923,0.5082369801649872
+21157,The Fatal Conceit: The Errors of Socialism,"Friedrich A. Hayek, W.W. Bartley III","Economics, Politics, Philosophy, Nonfiction, History",-0.23915104728257716,0.9941877814645405,0.5079727242905752
+19114,The Importance of Living,Lin Yutang,"Philosophy, Nonfiction, Cultural, China, Self Help, Classics",-0.24127239029046296,0.4346031128659843,0.5075327023752465
+6157,The Souls of Black Folk,"W.E.B. Du Bois, Donald B. Gibson, Monica W. Elbert","Nonfiction, History, Classics, Race, Cultural, African American, Writing, Essays, Philosophy",-0.13714687428828778,1.0314934260377764,0.5073616512818402
+10121,The Last Lion: Winston Spencer Churchill: Visions of Glory 1874-1932,William Manchester,"Biography, History, Nonfiction, Politics",-0.2086513698192904,1.6656893837828048,0.5069667300536218
+10109,Notes of a Native Son,James Baldwin,"Nonfiction, Writing, Essays, Autobiography, Memoir, Classics, Race, History",-0.203678129213326,1.4045498717701483,0.5064766249770182
+21059,Desiderata: Words For Life,"Max Ehrmann, Marc Tauss","Poetry, Nonfiction, Philosophy, Inspirational",-0.24143256536104,1.8895232512222289,0.5063561392976084
+124,El Principito,Antoine de Saint-Exupéry,"Classics, Fiction, Fantasy, Childrens, Cultural, France, Young Adult, Philosophy, Literature, European Literature, French Literature, Academic, School",3.776531733100114,1.1434103597574885,0.5061869865936469
+21471,The Sufis,"Idries Shah, Robert Graves","Religion, Nonfiction, Spirituality, Religion, Islam, Philosophy, History",-0.2416122739768093,0.8076595585983559,0.505332975996321
+13662,The Mis-Education of the Negro,Carter G. Woodson,"Nonfiction, History, Education, Race, Cultural, African American, Classics",-0.21806263189294964,1.7776063175025167,0.5045164626622438
+20487,To the Finland Station: A Study in the Writing and Acting of History,Edmund Wilson,"History, Politics, Nonfiction, Cultural, Russia, Philosophy",-0.2408465590052704,0.35999182371951194,0.5041272242603487
+10144,How to Live on 24 Hours a Day,Arnold Bennett,"Nonfiction, Self Help, Philosophy, Classics, Productivity",-0.2289818836554559,-1.2441508929296787,0.5039788190168173
+2509,Zorba the Greek,"Nikos Kazantzakis, Carl Wildman","Fiction, Classics, Philosophy, Novels, Literature",-0.13355660868193955,0.3972974682927481,0.5039167703927168
+18582,"The General Theory of Employment, Interest, and Money",John Maynard Keynes,"Economics, Nonfiction, Politics, Philosophy, Classics, Business, History",-0.2286537200962249,-0.5353436460381764,0.5035637480261019
+18860,The Master and His Emissary: The Divided Brain and the Making of the Western World,Iain McGilchrist,"Psychology, Science, Nonfiction, Philosophy, Biology, Neuroscience, History",-0.240893439513732,1.0314934260377764,0.5035533404366719
+14068,Utilitarianism,"John Stuart Mill, George Sher","Philosophy, Nonfiction, Politics, Classics",-0.17820638628254212,-1.2441508929296787,0.5034088045738232
+1353,The Emperor of All Maladies: A Biography of Cancer,Siddhartha Mukherjee,"Nonfiction, Science, History, Health, Medicine, Medical, Health",-0.001994275102633243,1.1807160043307243,0.5030237314824202
+12065,Politics,Aristotle,"Philosophy, Politics, Classics, Nonfiction, Politics, Political Science, History",-0.14123719865155934,-0.23689848945228026,0.5030220134970924
+22837,The Dark Valley: A Panorama of the 1930s,Piers Brendon,"History, Nonfiction, History, European History, History, World History, Politics",-0.24308900999334865,0.5838256911589323,0.5024813195072215
+11817,The Varieties of Religious Experience,William James,"Philosophy, Religion, Psychology, Nonfiction, Spirituality, Classics",-0.21046017610409912,0.2107692454265639,0.5024265875821835
+7728,Fear and Trembling,"Søren Kierkegaard, Alastair Hannay","Philosophy, Nonfiction, Religion, Classics, Religion, Theology",-0.1836367118460068,0.061546667133615826,0.5019228333781
+8447,The Social Contract,"Jean-Jacques Rousseau, Maurice Cranston","Philosophy, Politics, Nonfiction, Classics, History, Cultural, France",-0.12683706913578185,-0.8710944471973087,0.5000068907584154
+19103,The Romantic Manifesto,Ayn Rand,"Philosophy, Nonfiction, Art",-0.2337871357727664,-0.9084000917705448,0.4999359065853446
+21865,Chuang Tzu: Basic Writings,"Zhuangzi, Burton Watson","Philosophy, Nonfiction, Religion, Classics, Spirituality, Cultural, China, Religion, Taoism",-0.2357678372552675,1.0687990706110126,0.49971164920753913
+8127,When Bad Things Happen to Good People,Harold S. Kushner,"Nonfiction, Religion, Self Help, Spirituality, Philosophy",-0.19536855908851355,0.17346360085332768,0.4996060295962249
+19287,The Art of Dreaming,Carlos Castaneda,"Spirituality, Philosophy, Nonfiction",-0.23027109763814896,0.4719087574392238,0.49957199365311594
+10310,The Virtue of Selfishness: A New Concept of Egoism,"Ayn Rand, Nathaniel Branden","Philosophy, Nonfiction, Politics",-0.1996659390308237,-1.8410412061014692,0.4991423989444129
+7,A könyvtolvaj,Markus Zusak,"Historical, Historical Fiction, Fiction, Young Adult, Historical, War, World War II, Holocaust, Classics, War, World War II, Writing, Books About Books, Novels",5.562530650542294,1.4045498717701483,0.49892975700569736
+15728,History of Beauty,"Umberto Eco, Girolamo De Michele, Alastair McEwen, Agnolo di Cosimo Bronzino","Art, Nonfiction, History, Philosophy, Art, Art History",-0.07629988101421438,-0.8337888026240724,0.49886327419062865
+9166,The Power of Intention: Learning to Co-create Your World Your Way,Wayne W. Dyer,"Self Help, Spirituality, Nonfiction, Self Help, Personal Development, Psychology",-0.1461205849496391,0.7703539140251199,0.49870701744549617
+12446,Free to Choose: A Personal Statement,"Milton Friedman, Rose D. Friedman","Economics, Nonfiction, Politics, Philosophy, Business, History",-0.2201370943923739,0.8822708477448284,0.4986066353429675
+15482,Natasha's Dance: A Cultural History of Russia,Orlando Figes,"History, Cultural, Russia, Nonfiction, History, Russian History, Art",-0.2348966411396901,0.7330482694518804,0.4986022202304463
+13051,The History of the Ancient World: From the Earliest Accounts to the Fall of Rome,Susan Wise Bauer,"History, Nonfiction, History, Ancient History, History, World History",-0.23348631917680465,0.3226861791462757,0.49845157254636424
+11424,Escape from Freedom,"Erich Fromm, Martin Luther","Psychology, Philosophy, Nonfiction, Sociology, Politics, History",-0.21277685456390813,0.919576492318068,0.49812154492064376
+15632,Life of Johnson,"James Boswell, Pat Rogers, Robert William Chapman","Biography, Nonfiction, Classics, History, Literature, 18th Century",-0.2333573977785353,-0.2742041340255165,0.49808351226999037
+18434,Letters from a Father to his Daughter,Jawaharlal Nehru,"Nonfiction, History, Cultural, India",-0.23845565307373054,-0.2742041340255165,0.4980686159049307
+17570,Leonardo's Notebooks,"Leonardo da Vinci, H. Anna Suh","Art, Nonfiction, History, Science, Classics, Biography",-0.1131987478825048,-0.1995928448790424,0.4980119323012468
+6106,The Power Broker: Robert Moses and the Fall of New York,Robert A. Caro,"History, Biography, Nonfiction, Politics, New York",-0.20834664651429025,1.926828895795465,0.4974779924973993
+2715,Bury My Heart at Wounded Knee: An Indian History of the American West,Dee Brown,"History, Nonfiction, North American Hi..., American History, Classics, Historical",-0.0539691321503554,0.8822708477448284,0.49738052049343295
+16648,Shadows of Forgotten Ancestors,"Carl Sagan, Ann Druyan","Science, Nonfiction, Biology, Evolution, History, Philosophy",-0.2263995489810313,0.956882136891304,0.4972076547987597
+15785,Aspho Fields,Karen Traviss,"Science Fiction, Games, Video Games, Fiction",-0.23314252878141986,0.3972974682927481,0.4972040028548461
+10639,Imagined Communities: Reflections on the Origin and Spread of Nationalism,"Benedict Anderson, Alja Brglez Uranjek, Andrej Kurillo, Jože Vogrinc","History, Nonfiction, Politics, Sociology, Anthropology, Philosophy, Philosophy, Theory",-0.2089639065423675,0.4346031128659843,0.4969536338808347
+8446,The Rational Optimist: How Prosperity Evolves,Matt Ridley,"Nonfiction, Economics, History, Science, Business, Philosophy",-0.217914176949488,-0.013064622012858192,0.49689323231367183
+10077,The 100: A Ranking of the Most Influential Persons in History,Michael H. Hart,"History, Biography, Nonfiction",-0.2241492845748762,0.024241022560379646,0.4968501378629556
+22335,"Conquest: Montezuma, Cortes and the Fall of Old Mexico",Hugh Thomas,"History, Nonfiction, History, World History",-0.24239361578450205,1.1061047151842522,0.49672015087930926
+16663,Breaking Open the Head: A Psychedelic Journey Into the Heart of Contemporary Shamanism,"Daniel Pinchbeck, Lee Fukui","Nonfiction, Philosophy, Spirituality, Science",-0.23376760222757406,0.2480748899998001,0.49627627651067474
+10929,The Varieties of Scientific Experience: A Personal View of the Search for God,"Carl Sagan, Ann Druyan","Science, Nonfiction, Philosophy, Religion, Spirituality",-0.2112063575304457,1.0687990706110126,0.4962706022940474
+15413,Emile or On Education,"Jean-Jacques Rousseau, Allan Bloom, Michael Wu","Philosophy, Education, Classics, Nonfiction, Cultural, France",-0.2316814196010344,-1.3560678266493889,0.4961947193828823
+20012,Selected Non-Fictions,"Jorge Luis Borges, Suzanne Jill Levine, Esther Allen, Eliot Weinberger","Nonfiction, Writing, Essays, Philosophy, Literature, Criticism, Literary Criticism, European Literature, Spanish Literature, Classics, Cultural, Latin American, History, Reference",-0.2366507534979603,1.6656893837828048,0.4960732231286996
+17242,History of the Filipino People,"Teodoro A. Agoncillo, Milagros C. Guerrero","History, Nonfiction",-0.2362718027212293,0.8076595585983559,0.4959323176960812
+13145,Why We Can't Wait,"Martin Luther King Jr., Jesse Jackson","Nonfiction, History, Politics, Classics, Race, Cultural, African American",-0.2242469523008378,1.8522176066489924,0.494789088603467
+2642,Qurʾan / القرآن الكريم,Anonymous,"Religion, Religion, Islam, Nonfiction, Classics, Philosophy",-0.05191029648708498,1.3299385826236725,0.4945648784606519
+2641,القرآن الكريم,Anonymous,"Religion, Religion, Islam, Nonfiction, Classics, Philosophy",-0.051855602560546485,1.3299385826236725,0.4945648784606519
+20689,Markings,Dag Hammarskjöld,"Nonfiction, Philosophy, Poetry, Spirituality, Biography, Religion, Autobiography, Memoir",-0.2405887162087318,0.8076595585983559,0.49443651545510087
+20894,Objectivism: The Philosophy of Ayn Rand,Leonard Peikoff,"Philosophy, Nonfiction, Politics",-0.22661441797814685,-0.9084000917705448,0.4941468805485056
+125,Le Petit Prince,Antoine de Saint-Exupéry,"Classics, Fiction, Fantasy, Childrens",3.7753909740608815,1.1434103597574885,0.49413732411583544
+11519,The Conscience of a Liberal,Paul Krugman,"Politics, Economics, Nonfiction, History, Philosophy",-0.22247721310641366,-0.013064622012858192,0.49333806103943617
+13279,The Upanishads: Translations from the Sanskrit,"Anonymous, Juan Mascaró","Religion, Philosophy, Spirituality, Classics, Nonfiction, Cultural, India, Religion, Hinduism",-0.20327573818236425,0.8822708477448284,0.4928245833481175
+21456,Elephant Man,Christine Sparks,"Biography, Nonfiction, Classics, History",-0.23909244664700016,-0.1249815557325684,0.4927432405506919
+172,Night,"Elie Wiesel, Marion Wiesel, François Mauriac","Nonfiction, Classics, History, Autobiography, Memoir, World War II, Holocaust, Biography",2.946066965957714,1.2180216489039608,0.4924697236494757
+22754,The Birth of the Modern: World Society 1815-1830,Paul  Johnson,"History, Nonfiction, Literature, 19th Century, History, European History",-0.2422842279314251,0.5838256911589323,0.4921330655636097
+2510,A Voice in the Wind,"Francine Rivers, Richard Ferrone","Christian Fiction, Historical, Historical Fiction, Christian, Fiction, Romance, Historical",0.008909349823719173,2.150662763234885,0.49182111650037613
+17979,"Diaries, 1910-1923","Franz Kafka, Max Brod, Joseph Kresh, Martin Greenberg","Nonfiction, Biography, Classics",-0.2351896443175749,0.919576492318068,0.49131704934725157
+19628,"Four Princes: Henry VIII, Francis I, Charles V, Suleiman the Magnificent and the Obsessions that Forged Modern Europe",John Julius Norwich,"History, Nonfiction, Biography, History, European History, Cultural, France, Historical",-0.24248347009238674,-0.9830113809170188,0.49119661119834823
+6000,The Bhagavad Gita,"Krishna-Dwaipayana Vyasa, Simon Brodbeck, Juan Mascaró","Religion, Philosophy, Classics, Spirituality, Nonfiction, Poetry",-0.08361714704325704,0.4346031128659843,0.4911587901056968
+21853,Intelligence: The Creative Response to Now,Osho,"Philosophy, Spirituality, Nonfiction, Psychology, Self Help",-0.2415458599231554,0.8076595585983559,0.4907057758350409
+12869,Food of the Gods: The Search for the Original Tree of Knowledge,Terence McKenna,"Nonfiction, Philosophy, History, Spirituality, Science",-0.2198714381777584,0.7330482694518804,0.49050623358331313
+15648,Profit Over People: Neoliberalism and Global Order,"Noam Chomsky, Robert W. McChesney","Politics, Nonfiction, Economics, Philosophy, History",-0.22591121035122336,0.28538053457303625,0.4898230900483698
+21922,"The Collected Poems, 1957-1982",Wendell Berry,"Poetry, Environment, Nature, Nonfiction, Classics",-0.23855332079969216,1.5537724500630965,0.48980935002800235
+14078,"Listen, Little Man!","Wilhelm Reich, William Steig, Ralph Manheim","Philosophy, Psychology, Nonfiction, Politics, Writing, Essays, Classics",-0.2294702222852639,0.17346360085332768,0.4896879254877766
+18744,The First and Last Freedom,"Jiddu Krishnamurti, Aldous Huxley","Philosophy, Spirituality, Nonfiction, Psychology, Religion",-0.2368265554046912,1.5537724500630965,0.48936153853069597
+22899,Cosmos and Psyche: Intimations of a New World View,Richard Tarnas,"Esoterica, Astrology, Philosophy, Psychology, Science, Nonfiction, History, Spirituality",-0.2421084260246942,0.7330482694518804,0.48935220739207397
+4052,SPQR: A History of Ancient Rome,Mary Beard,"History, Nonfiction, History, Ancient History, Historical",-0.17190095789446158,0.35999182371951194,0.4893401537309131
+0,The Hunger Games,Suzanne Collins,"Young Adult, Fiction, Science Fiction, Dystopia, Fantasy, Science Fiction",21.3298442480025,1.2926329380504364,0.4891635609935147
+18516,The Essential Writings of Ralph Waldo Emerson,"Ralph Waldo Emerson, Mary Oliver, Brooks Atkinson","Philosophy, Classics, Writing, Essays, Poetry, Nonfiction, Literature",-0.2326073096431503,1.3672442271969087,0.48868548254297783
+1829,Walden,Henry David Thoreau,"Classics, Nonfiction, Philosophy, Environment, Nature",0.27244031472233204,-0.6845662243311244,0.48862127268538946
+4969,Plato and a Platypus Walk Into a Bar: Understanding Philosophy Through Jokes,"Thomas Cathcart, Daniel Klein","Philosophy, Nonfiction, Humor, Humor, Comedy",-0.202060751671402,-0.7591775134775984,0.48855444119170977
+17173,The Devils of Loudun,Aldous Huxley,"History, Nonfiction, Religion, Classics",-0.2379321540625764,-0.3115097785987543,0.4885099704265912
+13607,2012: The Return of Quetzalcoatl,Daniel Pinchbeck,"Nonfiction, Spirituality, Philosophy, Religion, History",-0.2383228249664228,-2.1394863626873653,0.4884524900683643
+17013,What's Wrong with the World,G.K. Chesterton,"Nonfiction, Philosophy, Writing, Essays, Christian, Classics, Religion",-0.2388424172685385,0.2480748899998001,0.48747918181240957
+6698,The True Believer: Thoughts on the Nature of Mass Movements,Eric Hoffer,"Nonfiction, Philosophy, Politics, Psychology, Sociology, History",-0.22191074029583646,0.919576492318068,0.4874698170031349
+12905,"The Gulag Archipelago, 1918-1956: An Experiment in Literary Investigation, Volume 1","Aleksandr Solzhenitsyn, Thomas P. Whitney","History, Nonfiction, Cultural, Russia, Classics",-0.22453214206064565,1.1061047151842522,0.4872492569749156
+12131,Madness and Civilization: A History of Insanity in the Age of Reason,"Michel Foucault, Richard Howard, José Teixeira Coelho Netto","Philosophy, History, Nonfiction, Psychology, Sociology, Philosophy, Theory",-0.20868653020063652,0.4346031128659843,0.48720234260001155
+20613,"Ecclesiastes, or The Preacher","Anonymous, Doris Lessing","Philosophy, Religion, Nonfiction, Christian, Religion, Theology, Classics",-0.2427569397250792,1.8149119620757532,0.4870041556932826
+3242,The Grand Design,"Stephen Hawking, Leonard Mlodinow","Science, Nonfiction, Science, Physics, Philosophy, Science, Popular Science",-0.03560759966957562,0.17346360085332768,0.486944091216489
+13539,Bad Samaritans: The Myth of Free Trade and the Secret History of Capitalism,Ha-Joon Chang,"Economics, Nonfiction, Politics, History, Business",-0.2316345390925728,0.658436980305408,0.48691996973694707
+17781,"Sacred Economics: Money, Gift, and Society in the Age of Transition",Charles Eisenstein,"Economics, Nonfiction, History, Philosophy, Business, Spirituality",-0.2409520401493089,0.9941877814645405,0.4868691242538742
+21032,The Uncanny,"Sigmund Freud, Adam Phillips, David McLintock, Hugh Haughton","Nonfiction, Psychology, Philosophy, Philosophy, Theory, Psychology, Psychoanalysis, Classics",-0.2367249809696911,0.024241022560379646,0.4863950340958463
+2710,The 48 Laws of Power,"Robert Greene, Joost Elffers","Nonfiction, Business, Psychology, Self Help, Philosophy",-0.04422970651746519,0.7703539140251199,0.48638037983697147
+4754,The Power of Myth,"Joseph Campbell, Bill Moyers","Nonfiction, Fantasy, Mythology, Philosophy, Religion, History, Psychology",-0.09800164972288067,1.1807160043307243,0.48513173086151096
+12295,The Complete Essays of Montaigne,"Michel de Montaigne, Donald Frame","Philosophy, Classics, Writing, Essays, Nonfiction, Cultural, France",-0.2016583606404402,0.956882136891304,0.4848231627296
+8790,"The History of Sexuality, Volume 1: An Introduction","Michel Foucault, Robert Hurley","Philosophy, Nonfiction, History, Philosophy, Theory, Sexuality, Sociology",-0.1846837098683151,0.2107692454265639,0.48457601920077953
+22,The Alchemist,"Paulo Coelho, Alan R. Clarke, James Noel Smith","Fiction, Classics, Fantasy, Philosophy",6.183978670708804,-0.5353436460381764,0.4839892727932288
+3211,The Fire Next Time,James Baldwin,"Nonfiction, Writing, Essays, Race, Classics, History, Politics",-0.13070080437482254,1.926828895795465,0.48386523696111067
+20524,On the Suffering of the World,"Arthur Schopenhauer, R.J. Hollingdale","Philosophy, Nonfiction, Classics, European Literature, German Literature",-0.2394440504604619,-0.3115097785987543,0.4836263769683284
+17840,Culture and Imperialism,Edward W. Said,"Nonfiction, History, Politics, Philosophy, Philosophy, Theory, Cultural",-0.2288685890933405,0.5838256911589323,0.48182672745057525
+16060,The Letters of J.R.R. Tolkien,"J.R.R. Tolkien, Humphrey Carpenter, Christopher Tolkien","Biography, Nonfiction, History",-0.225141588670646,0.5838256911589323,0.48165180633633
+15656,This is Not the End of the Book,"Umberto Eco, Jean-Claude Carrière","Nonfiction, Writing, Books About Books, Philosophy, History, Literature",-0.23825250420373045,0.2107692454265639,0.48164508656072164
+20561,The German Ideology,"Karl Marx, Friedrich Engels","Philosophy, Nonfiction, Politics, Sociology, History, Philosophy, Theory, Economics, Classics, Academic, Cultural, Germany",-0.2342285938941128,0.2480748899998001,0.48147954349638333
+3706,Incidents in the Life of a Slave Girl,Harriet Ann Jacobs,"Nonfiction, History, Classics, Autobiography, Memoir, Biography, Cultural, African American",-0.10417425000365346,0.3972974682927481,0.4813866945296115
+21012,Striking Thoughts: Bruce Lee's Wisdom for Daily Living,"Bruce Lee, John  Little","Philosophy, Combat, Martial Arts, Nonfiction, Biography, Self Help",-0.2391393271554617,1.2553272934772002,0.48135818723742485
+22036,Kierkegaard: A Single Life,Stephen Backhouse,"Biography, Philosophy, History, Nonfiction, Religion, Theology",-0.2438469115468106,0.09885231170685202,0.48115665845104494
+18574,Religion and Science,"Bertrand Russell, Michael Ruse","Philosophy, Science, Religion, Nonfiction, Religion, Atheism, History",-0.2352677784983441,-0.08767591115933222,0.4808473909989045
+2792,Mein Kampf,Adolf Hitler,"History, Nonfiction, Biography, Politics, Philosophy, Classics",-0.13801416369482675,-3.146738766164764,0.48074582113237163
+3116,The Untethered Soul: The Journey Beyond Yourself,Michael A. Singer,"Nonfiction, Spirituality, Self Help, Psychology, Philosophy",-0.14360857103790686,1.0687990706110126,0.48071172058967804
+22295,I Thirst for You,Susan Sizemore,"Fantasy, Paranormal, Romance, Paranormal Romance, Paranormal, Vampires, Romance",-0.2370961183283452,-0.013064622012858192,0.4801436157767636
+13007,Awakening the Buddha Within: Eight Steps to Enlightenment,Lama Surya Das,"Religion, Buddhism, Spirituality, Nonfiction, Religion, Philosophy",-0.198767395951977,0.7703539140251199,0.47970924173523494
+18301,The Culture of Make Believe,Derrick Jensen,"Nonfiction, History, Philosophy, Politics, Sociology, Cultural",-0.23810404926026885,1.0314934260377764,0.4796980237933539
+14784,Shahnameh: The Persian Book of Kings,"Abolqasem Ferdowsi, Dick Davis, Azar Nafisi","Poetry, Classics, History, Cultural, Iran, Literature, Fantasy, Mythology",-0.2304898733443029,1.964134540368701,0.4795006405696579
+7561,The Gulag Archipelago 1918-1956,"Aleksandr Solzhenitsyn, Edward E. Ericson Jr.","History, Nonfiction, Cultural, Russia, Classics, Politics",-0.18718009694389345,0.7703539140251199,0.4792076881113939
+4828,A Little History of the World,"E.H. Gombrich, Caroline Mustill, Clifford Harper","History, Nonfiction, Historical",-0.18979759199966414,0.4719087574392238,0.47896109518403857
+9052,Is dit een mens. Het respijt,Primo Levi,"Nonfiction, History, Biography, World War II, Holocaust, Classics, War, European Literature, Italian Literature",-0.19813060237870744,2.0760514740884126,0.47887583151723345
+9066,If This Is a Man / The Truce,"Primo Levi, Stuart J. Woolf, Paul Bailey","Nonfiction, History, Biography, World War II, Holocaust, Classics, War, European Literature, Italian Literature",-0.1981892030142844,2.0760514740884126,0.4788740932823626
+14590,Montaigne: Essays,"Michel de Montaigne, J.M. Cohen","Philosophy, Writing, Essays, Classics, Nonfiction, Cultural, France",-0.2288842159294943,0.4719087574392238,0.4785265989119662
+14586,Denemeler,Michel de Montaigne,"Philosophy, Writing, Essays, Classics, Nonfiction, Cultural, France",-0.2288842159294943,0.4719087574392238,0.4785265989119662
+12531,"The Last Lion 2: Winston Spencer Churchill: Alone, 1932-40",William Manchester,"Biography, History, Nonfiction",-0.21605849015621773,1.8149119620757532,0.4783744663240963
+19998,"Poetry, Language, Thought","Martin Heidegger, Albert Hofstadter","Philosophy, Poetry, Nonfiction, Art, Humanities, Language",-0.23249401508103484,0.5838256911589323,0.4781394164517678
+21293,Socialism: Utopian and Scientific,Friedrich Engels,"Politics, Philosophy, Nonfiction, Economics, History",-0.23708439820122976,0.2480748899998001,0.47809827204543043
+7999,The Assault on Reason,Al Gore,"Politics, Nonfiction, Philosophy, History",-0.21817201974602665,-0.7964831580508346,0.47808369090381664
+16028,Shadows in Bronze,Lindsey Davis,"Mystery, Historical, Historical Fiction, Historical, Mystery, Crime, Fiction, Mystery, Historical Mystery",-0.2275051476389166,0.17346360085332768,0.4780458555468325
+16646,Steal This Book,Abbie Hoffman,"Nonfiction, Politics, History, Philosophy",-0.23469349226968994,-1.430679115795863,0.4776926299703988
+5813,A Distant Mirror:  The Calamitous 14th Century,Barbara W. Tuchman,"History, Nonfiction, Historical, Medieval, History, Medieval History, History, European History",-0.1423310771823292,0.35999182371951194,0.4776850394804027
+8029,The Road to Wigan Pier,"George Orwell, Richard Hoggart","Nonfiction, History, Classics, Politics, Sociology",-0.2009160859231321,-0.3488154231719905,0.47744815414695924
+18925,Intuition: Knowing Beyond Logic,Osho,"Spirituality, Philosophy, Nonfiction, Self Help",-0.23674060780584494,0.6957426248786442,0.4772163550270186
+22008,"Paradise Lost: Smyrna, 1922",Giles Milton,"History, Nonfiction, War",-0.2428546074510408,0.6211313357321718,0.4772016878753553
+6095,Peace Is Every Step: The Path of Mindfulness in Everyday Life,"Thich Nhat Hanh, Arnold Kotler, Dalai Lama XIV","Nonfiction, Spirituality, Religion, Buddhism, Philosophy, Self Help",-0.15570374222099073,1.3299385826236725,0.47698716286901294
+18328,The Complete Conversations with God: An Uncommon Dialogue,Neale Donald Walsch,"Spirituality, Nonfiction, Religion, Philosophy",-0.2275715616925705,1.4791611609166206,0.4769524410125416
+11662,The 33 Strategies of War,"Robert Greene, Joost Elffers","Nonfiction, Psychology, History, Business, Philosophy, Self Help, War",-0.21390589347602415,1.1807160043307243,0.4765226993333431
+22651,Timaeus/Critias,"Plato, Desmond Lee","Philosophy, Classics, Nonfiction, Literature, Ancient, Cultural, Greece",-0.240405100883924,-0.4607323568917023,0.47618644769414764
+22224,History of the Russian Revolution,"Leon Trotsky, Max Eastman, Ahmed Shawki","History, Nonfiction, Politics, Cultural, Russia, Russian History, Russian Revolution, History, Russian History, Philosophy, Literature, Russian Literature, Classics, Economics",-0.2400691239066161,0.8076595585983559,0.4758791383841342
+11407,The World's Religions: Our Great Wisdom Traditions,Huston Smith,"Religion, Nonfiction, History, Philosophy, Spirituality",-0.20749107723486665,0.3226861791462757,0.4757849548397135
+11426,Letters to Milena: Expanded and Revised in a New Translation,"Franz Kafka, Philip Boehm, Aarno Peromies, Milena Jesenská","Nonfiction, Classics, Biography",-0.2261885866929543,-0.16228720030580626,0.47555244492110027
+17243,The Most Good You Can Do: How Effective Altruism Is Changing Ideas About Living Ethically,Peter Singer,"Philosophy, Nonfiction, Social Movements, Social Justice",-0.2394792108418081,-0.5353436460381764,0.4755073650013537
+4173,Autobiography of a Yogi,Paramahansa Yogananda,"Biography, Nonfiction, Spirituality, Philosophy, Religion",-0.10336946794172992,0.8822708477448284,0.4754587474383161
+9459,The Wretched of the Earth,"Frantz Fanon, Jean-Paul Sartre","Nonfiction, History, Politics, Philosophy, Cultural, Africa, Philosophy, Theory",-0.19100867180158795,0.6957426248786442,0.47539857715681416
+13215,Congo: The Epic History of a People,"David Van Reybrouck, Sam Garrett","History, Nonfiction, Cultural, Africa",-0.2304078324544952,1.2926329380504364,0.4752560762968615
+13764,The Difficulty of Being Good: On the Subtle Art of Dharma,Gurcharan Das,"Philosophy, Nonfiction, Cultural, India, Fantasy, Mythology, History",-0.2322400789935347,0.3226861791462757,0.47515856586952165
+357,Between the World and Me,Ta-Nehisi Coates,"Nonfiction, Autobiography, Memoir, Race, History",0.2984121164100393,1.5537724500630965,0.4751069564649236
+15584,The Beatles Anthology,"The Beatles, Paul McCartney, Ringo Starr, John Lennon, George Harrison","Music, Nonfiction, Biography, History",-0.19050079962658764,1.4045498717701483,0.4750812973649501
+11457,The Closing of the American Mind,Allan Bloom,"Philosophy, Nonfiction, Politics, History, Sociology, Cultural",-0.2283099297008401,-0.8337888026240724,0.4746677184838599
+10218,News of a Kidnapping,"Gabriel García Márquez, Edith Grossman","Nonfiction, History",-0.21184705781275376,-0.5726492906114126,0.4739655988528968
+1620,Ishmael: An Adventure of the Mind and Spirit,Daniel Quinn,"Fiction, Philosophy, Spirituality, Classics, Environment",0.033459109421425576,-0.013064622012858192,0.473796664400159
+5578,Labyrinths:  Selected Stories and Other Writings,"Jorge Luis Borges, Donald A. Yates, James E. Irby, André Maurois","Fiction, Short Stories, Classics, Literature, Magical Realism, Fantasy, Philosophy",-0.14675347181387022,1.7776063175025167,0.4737772275844364
+18136,Meditations from the Mat: Daily Reflections on the Path of Yoga,"Rolf Gates, Katrina Kenison","Nonfiction, Spirituality, Health",-0.2361467880319985,1.3299385826236725,0.47354309892092394
+6373,El segundo sexo,Simone de Beauvoir,"Feminism, Nonfiction, Philosophy, Classics, Gender",-0.15139854886060367,0.4719087574392238,0.4735135389811259
+6372,The Second Sex,"Simone de Beauvoir, H.M. Parshley, Deirdre Bair","Feminism, Nonfiction, Philosophy, Classics, Gender",-0.15142198911483445,0.4719087574392238,0.4735135389811259
+22617,The Greek Myths: Vol. 1,Robert Graves,"Fantasy, Mythology, History, Nonfiction, Classics, Religion",-0.2406082497539241,0.3972974682927481,0.4733468109782076
+22117,"Nothing in This Book Is True, But It's Exactly How Things Are: The Esoteric Meaning of the Monuments on Mars",Bob Frissell,"Nonfiction, Spirituality, Philosophy, Metaphysics, Occult, Philosophy",-0.2419287174089249,-0.6472605797578865,0.47323201545540367
+15695,Illuminations: Essays and Reflections,"Walter Benjamin, Hannah Arendt, Harry Zohn","Philosophy, Writing, Essays, Nonfiction, Philosophy, Theory, Art, Criticism, Literary Criticism",-0.21060472433852226,1.1434103597574885,0.4730359133004137
+522,The Unbearable Lightness of Being,"Milan Kundera, Michael Henry Heim","Fiction, Classics, Philosophy, Literature, Novels",0.8418079966970821,0.3972974682927481,0.47300073638990753
+16071,11-Sep,"Noam Chomsky, Greg Ruggiero, Marili Margomenou, Miguel Mora, Natalie Levisalles, Il Manifesto, Hartford Courant, David Barsamian, Radio B92, Elise Fried, Peter Kreysler, Gionarle del Popolo, Michael Albert","Politics, Nonfiction, History, Philosophy",-0.2321228777223808,-0.9830113809170188,0.4727814063341479
+19953,Practical Ethics,Peter Singer,"Philosophy, Nonfiction, Science",-0.2359787995433445,0.2480748899998001,0.47274958341846207
+15435,"Five Dialogues: Euthyphro, Apology, Crito, Meno, Phaedo","Plato, G.M.A. Grube, John M. Cooper","Philosophy, Classics, Nonfiction, Academic, School",-0.18705898896370105,0.4719087574392238,0.4721611922516105
+17573,"The Origin of the Family, Private Property and the State","Friedrich Engels, Ernest Untermann","Philosophy, Politics, History, Nonfiction, Sociology, Economics, Feminism",-0.2343223549110359,0.3972974682927481,0.47190542830268667
+18635,Human Action: A Treatise on Economics,"Ludwig von Mises, Bettina Bien Greaves","Economics, Philosophy, Politics, Nonfiction",-0.2328651524396889,1.2180216489039608,0.47173457587464507
+1154,A New Earth: Awakening to Your Life's Purpose,Eckhart Tolle,"Nonfiction, Spirituality, Self Help, Philosophy, Psychology",0.2550906198825144,0.2480748899998001,0.4717135597665759
+7226,This I Believe: The Personal Philosophies of Remarkable Men and Women,"Jay Allison, Dan Gediman","Nonfiction, Writing, Essays, Philosophy, Autobiography, Memoir",-0.22414147115679928,-0.4980380014649386,0.4711607247629931
+20145,"The Myth of the Eternal Return or, Cosmos and History","Mircea Eliade, Willard R. Trask","Philosophy, Religion, Nonfiction, Fantasy, Mythology, History, Anthropology",-0.2366116864075757,0.919576492318068,0.47097274820643886
+8949,"Bonds That Make Us Free: Healing Our Relationships, Coming to Ourselves",C. Terry Warner,"Nonfiction, Self Help, Psychology, Relationships, Philosophy",-0.23135325604180346,1.3299385826236725,0.47084927658701753
+17948,The Marx-Engels Reader,"Karl Marx, Friedrich Engels, Robert C. Tucker","Philosophy, Nonfiction, Politics, Sociology, Economics, History",-0.2233952897304527,-0.1249815557325684,0.47061506078097776
+22376,The Story of Britain: From the Romans to the Present: A Narrative History,Rebecca  Fraser,"History, Nonfiction, European Literature, British Literature",-0.2429600885950793,-0.08767591115933222,0.47055672211133026
+21084,On Revolution,Hannah Arendt,"Philosophy, Politics, History, Nonfiction, Politics, Political Science",-0.2386080147262307,0.09885231170685202,0.47044672943370325
+20182,Quantum Psychology: How Brain Software Programs You & Your World,Robert Anton Wilson,"Psychology, Nonfiction, Philosophy, Science, Occult, Philosophy, Metaphysics",-0.23656089919007564,0.919576492318068,0.47042946724473517
+12256,Being George Washington,Glenn Beck,"History, Nonfiction, Biography, Politics, North American Hi..., American History",-0.23277529813180425,0.2107692454265639,0.4699322569654426
+9965,Relativity: The Special and the General Theory,"Albert Einstein, Nigel Calder, Robert W. Lawson","Science, Science, Physics, Nonfiction, Classics, Philosophy",-0.18578540181716185,0.6957426248786442,0.4697211549240924
+3891,Schindler's List,Thomas Keneally,"History, Nonfiction, Classics, World War II, Holocaust, War",0.2153007883257608,1.3299385826236725,0.46943848343753136
+21401,Erotism: Death and Sensuality,"Georges Bataille, Mary Dalwood","Philosophy, Nonfiction, Philosophy, Theory, Sexuality, Cultural, France, Anthropology",-0.23684218224084505,0.4719087574392238,0.4690405989511519
+12154,The Protestant Ethic and the Spirit of Capitalism,"Max Weber, Michael D. Coe, Talcott Parsons, R.H. Tawney","Sociology, Nonfiction, Economics, History, Religion, Academic, Philosophy",-0.2099640240562142,-0.3488154231719905,0.4686974183464586
+12441,The Interesting Narrative of the Life of Olaudah Equiano: Written by Himself,"Olaudah Equiano, Robert J. Allison","History, Nonfiction, Classics, Biography, Autobiography, Memoir",-0.20900688034179055,-0.9830113809170188,0.468288644528326
+21852,When I Was a Slave: Memoirs from the Slave Narrative Collection,Norman R. Yetman,"History, Nonfiction, North American Hi..., American History, Biography",-0.24188965031854026,1.2926329380504364,0.4680654590644704
+9080,Postwar: A History of Europe Since 1945,Tony Judt,"History, Nonfiction, History, European History, Politics",-0.2143239113431398,1.3299385826236725,0.4680329231160695
+16722,Dialectic of Enlightenment: Philosophical Fragments,"Theodor W. Adorno, Max Horkheimer, Gunzelin Schmid Nörr, Edmund Jephcott","Philosophy, Nonfiction, Philosophy, Theory, Sociology, Politics",-0.22564555413660786,0.3972974682927481,0.46790032525046743
+14585,On War,"Carl von Clausewitz, Michael Eliot Howard, Peter Paret","History, Nonfiction, Philosophy, War, War, Military Fiction, Politics, Classics",-0.2061510760346736,-0.013064622012858192,0.4678501815254121
+22912,Violence and the Sacred,"René Girard, Patrick Gregory","Philosophy, Nonfiction, Religion, Anthropology, Psychology, Religion, Theology, History",-0.2421045193156557,0.4719087574392238,0.46779021634224977
+8877,A Confession,Leo Tolstoy,"Philosophy, Nonfiction, Classics, Religion, Literature, Russian Literature, Cultural, Russia, Biography",-0.21985971805064294,0.3972974682927481,0.4677861192120195
+965,The Four Agreements: A Practical Guide to Personal Freedom,Miguel Ruiz,"Nonfiction, Self Help, Spirituality, Philosophy",0.2838127447333001,0.5838256911589323,0.46776326633878823
+16926,The Great Transformation: The Political and Economic Origins of Our Time,"Karl Polanyi, Joseph E. Stiglitz, Fred L. Block","Economics, Politics, History, Sociology, Nonfiction, Philosophy",-0.232318213174304,0.7703539140251199,0.4675755874852141
+819,The Hiding Place: The Triumphant True Story of Corrie Ten Boom,"Corrie ten Boom, John Sherrill, Elizabeth Sherrill","Nonfiction, Biography, History, Christian, Classics, Autobiography, Memoir",0.5823907964159716,1.5910780946363323,0.467527727472297
+12542,Ill Fares the Land,Tony Judt,"Politics, History, Nonfiction, Economics, Philosophy, Writing, Essays",-0.2333261441062276,0.2107692454265639,0.46749075870689716
+22474,The Conquest of the Incas,John Hemming,"History, Nonfiction, History, World History",-0.2420068515896941,0.35999182371951194,0.4674906469110681
+19577,"Consolations: The Solace, Nourishment and Underlying Meaning of Everyday Words",David Whyte,"Poetry, Nonfiction, Philosophy, Writing, Essays, Spirituality, Language, Writing",-0.2416239941039247,1.516466805489857,0.46720628252844254
+19310,The Affluent Society,John Kenneth Galbraith,"Economics, Nonfiction, Politics, Philosophy, Sociology, History",-0.2363460301929601,0.024241022560379646,0.4670597689446503
+6386,The Doors of Perception & Heaven and Hell,Aldous Huxley,"Philosophy, Nonfiction, Psychology, Writing, Essays, Classics",-0.12505560981424238,-0.08767591115933222,0.46697552140550613
+23170,The Structural Transformation of the Public Sphere: An Inquiry Into a Category of Bourgeois Society,"Jürgen Habermas, Thomas Burger","Philosophy, Sociology, Nonfiction, Philosophy, Theory, History, Politics",-0.2382251572404612,-0.4607323568917023,0.46684676839623296
+11615,Discourse on Method and Meditations on First Philosophy,"René Descartes, Donald A. Cress","Philosophy, Nonfiction, Classics, Cultural, France, Academic, School",-0.14997260006156438,-1.0949283146367308,0.46673346706112917
+284,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,Daniel James Brown,"Nonfiction, History, Sports and Games, Sports, Biography, Historical",0.408573497876641,1.3299385826236725,0.46667745937562966
+20270,Areopagitica,John Milton,"Philosophy, Classics, Nonfiction, Politics, History, Poetry, Writing, Essays",-0.2381274895144996,-0.4607323568917023,0.4660047558360014
+22257,Lady in Red,Karen Hawkins,"Romance, Historical Romance, Romance, Historical, Historical, Regency, Historical, Historical Fiction",-0.2398776951637314,-0.16228720030580626,0.46578891665165933
+19438,"The Vertigo Years: Change and Culture in the West, 1900-1914",Philipp Blom,"History, Nonfiction, History, European History, War, World War I",-0.24114346889219365,-0.08767591115933222,0.46553041838719667
+7316,The Essential Rumi,"Rumi, Coleman Barks","Poetry, Spirituality, Philosophy, Classics, Religion",-0.12654797266693554,1.6656893837828048,0.46521059324466
+19963,The War on Women,Sue Lloyd-Roberts,"Nonfiction, Feminism, Womens, History",-0.2421240528608481,2.822164365553153,0.4644657209165383
+11781,The Great War for Civilisation: The Conquest of the Middle East,Robert Fisk,"History, Nonfiction, Politics, War",-0.23015389636699504,1.516466805489857,0.46413250445902454
+22583,Pride & Prejudice: Music from the Motion Picture Soundtrack,Dario Marianelli,"Music, Nonfiction, Classics",-0.23975658718353898,1.8895232512222289,0.46406934839907055
+8695,Peter the Great: His Life and World,Robert K. Massie,"Biography, History, Nonfiction, Cultural, Russia, History, Russian History",-0.20307649602140254,0.919576492318068,0.4638891857627494
+18095,The Art of Living: Vipassana Meditation: As Taught by S. N. Goenka,William Hart,"Religion, Buddhism, Spirituality, Nonfiction, Philosophy",-0.2382329706585381,1.2553272934772002,0.46380562086093047
+19448,Homo Sacer: Sovereign Power and Bare Life,"Giorgio Agamben, Daniel Heller-Roazen","Philosophy, Nonfiction, Philosophy, Theory, Politics",-0.2312712151519957,0.1361579562800882,0.46368008601176414
+19462,"Resistance, Rebellion and Death: Essays","Albert Camus, Justin O'Brien","Philosophy, Writing, Essays, Nonfiction, Politics",-0.2354865542044981,0.7703539140251199,0.46366838180113057
+4306,Welcome to the Monkey House,Kurt Vonnegut,"Fiction, Short Stories, Science Fiction, Classics",-0.06082149980382087,0.5838256911589323,0.4634125182241686
+15317,The Letters of Abélard and Héloïse,"Héloïse d'Argenteuil, Pierre Abélard, Betty Radice, M.T. Clanchy","Classics, History, Nonfiction, Historical, Medieval, Cultural, France, Religion",-0.2302906311833413,-0.9084000917705448,0.4633623386968468
+17612,Legends over Generations,Ashraf Haggag,"Nonfiction, History, Biography, Self Help",-0.24414382143373384,0.4346031128659843,0.4630403702047256
+23038,Western Attitudes toward Death: From the Middle Ages to the Present,Philippe Ariès,"History, Nonfiction, Death, Philosophy, Religion",-0.2428038202335408,-0.4234267123184645,0.46291384600746466
+12532,Simulacra and Simulation,"Jean Baudrillard, Sheila Faria Glaser","Philosophy, Nonfiction, Philosophy, Theory, Sociology",-0.20783486763025144,-0.013064622012858192,0.4628477001353626
+22527,Occidental Mythology,Joseph Campbell,"Fantasy, Mythology, Nonfiction, Religion, History, Philosophy",-0.2388853910679616,1.1807160043307243,0.4628246604770447
+16657,The Book of Love: Poems of Ecstasy and Longing,"Rumi, Coleman Barks","Poetry, Classics, Spirituality, Philosophy, Romance",-0.2325838693889195,1.3672442271969087,0.46275641908379206
+22501,Report from Engine Co. 82,Dennis  Smith,"Nonfiction, Biography, History",-0.2416982215756555,1.4045498717701483,0.46267154262537996
+22650,Ain't Nobody's Business if You Do: The Absurdity of Consensual Crimes in a Free Society,Peter McWilliams,"Nonfiction, Politics, Philosophy, Sociology",-0.24267489883527146,1.6283837392095686,0.4621442731840628
+13934,The Marriage of Heaven and Hell,William Blake,"Poetry, Classics, Philosophy, Religion, Art, Fiction, Literature",-0.2152068275858326,0.9941877814645405,0.4621389338669533
+23028,Rabelais and His World,"Mikhail Bakhtin, Hélène Iswolsky, Krystyna Pomorska, Michael Holquist, François Rabelais","Nonfiction, Philosophy, Philosophy, Theory, Criticism, Literary Criticism, History, Criticism, Cultural, Russia",-0.2405691826635395,0.9941877814645405,0.4620635213570454
+20697,Maya Angelou: The Complete Poetry,Maya Angelou,"Poetry, Nonfiction, Feminism, Classics",-0.24242877616584824,1.7029950283560444,0.46202946632584424
+10050,The Art of Always Being Right,Arthur Schopenhauer,"Philosophy, Nonfiction, Psychology, Classics",-0.2235476513829528,-1.4679847603691007,0.46191882985879185
+16591,"Eleanor Roosevelt, Volume 1: 1884-1933",Blanche Wiesen Cook,"Biography, History, Nonfiction",-0.228376343754494,0.7330482694518804,0.46185031282581573
+15362,The Last Campaign: Robert F. Kennedy and 82 Days That Inspired America,Thurston Clarke,"History, Nonfiction, Politics, Biography",-0.2325330821714195,1.0314934260377764,0.4617537969272518
+9813,Pop,Gordon Korman,"Sports and Games, Sports, Young Adult, Realistic Fiction, Football, Fiction, Young Adult, Teen",-0.23085319728488005,-0.23689848945228026,0.4617058675890673
+7051,Apology,"Plato, James J. Helm","Philosophy, Classics, Nonfiction, History, Academic, School, Politics, Literature, Ancient, Cultural, Greece, Literature, History, Ancient History",-0.13792430938694208,0.658436980305408,0.4613959433917646
+16355,Who Is J.K. Rowling?,"Pam Pollack, Meg Belviso, Stephen Marchesi, Nancy Harrison","Biography, Nonfiction, History",-0.2392096479181541,0.8822708477448284,0.46126440074214536
+22635,The Power of the Powerless,"Václav Havel, John Keane","Politics, Nonfiction, Philosophy, History, Writing, Essays, European Literature, Czech Literature",-0.2421006126066173,0.956882136891304,0.4611925630355408
+10462,The Holographic Universe,Michael Talbot,"Science, Nonfiction, Philosophy, Science, Physics, Philosophy, Metaphysics, Spirituality",-0.21663668309391035,0.658436980305408,0.461114032704676
+12922,The Poetics of Space,"Gaston Bachelard, Étienne Gilson, John R. Stilgoe, Maria Jolas","Philosophy, Architecture, Nonfiction, Poetry, Art, Philosophy, Theory",-0.2178516696048726,0.7703539140251199,0.4610906291872252
+19642,هیچ,"Frank Close, فیروز آرش","Science, Philosophy, Nonfiction, Science, Physics",-0.2419052771546941,-1.206845248356441,0.4610478486034799
+21793,The Younger Man,Zoë Foster Blake,"Womens Fiction, Chick Lit, Romance, Fiction",-0.24192090399084795,-1.393373471222627,0.4610165413241626
+20567,True Hallucinations,Terence McKenna,"Nonfiction, Philosophy, Psychology",-0.2378266729185379,0.7330482694518804,0.46033147492133347
+21297,What We Say Goes: Conversations on U.S. Power in a Changing World,"Noam Chomsky, David Barsamian","Politics, Nonfiction, History",-0.2404715149375779,0.2107692454265639,0.4602913310929926
+20112,The Gift: The Form and Reason for Exchange in Archaic Societies,Marcel Mauss,"Anthropology, Nonfiction, Sociology, History, Philosophy, Economics, Philosophy, Theory",-0.2350880698825748,-0.16228720030580626,0.46019832155403795
+22460,The Awful Rowing Toward God,Anne Sexton,"Poetry, Feminism, Nonfiction, Classics",-0.24227641451334814,0.8822708477448284,0.4600981923154799
+684,Dead Wake: The Last Crossing of the Lusitania,Erik Larson,"Nonfiction, History, Audiobook",0.08889140396818818,0.35999182371951194,0.4600245450232624
+5868,Misquoting Jesus: The Story Behind Who Changed the Bible and Why,Bart D. Ehrman,"Religion, Nonfiction, History, Religion, Christianity, Religion, Theology, Philosophy",-0.19655229192716805,-0.2742041340255165,0.46001071863830745
+6118,A Sand County Almanac and Sketches Here and There,Aldo Leopold,"Nonfiction, Environment, Nature, Science, Environment, Philosophy, Classics",-0.16235686771349456,0.9941877814645405,0.45987349617106554
+20753,Practical Programming for Strength Training,"Mark Rippetoe, Lon Kilgore","Sports, Fitness, Health, Nonfiction, Sports and Games, Sports",-0.23781885950046094,1.2926329380504364,0.45985056594159274
+16546,Why Marx Was Right,Terry Eagleton,"Philosophy, Politics, Nonfiction, Economics, History, Philosophy, Theory",-0.2365765260262295,-0.3115097785987543,0.45981452932759354
+13268,Rilke's Book of Hours: Love Poems to God,"Rainer Maria Rilke, Anita Barrows, Joanna Macy","Poetry, Spirituality, Religion, Classics, European Literature, German Literature, Nonfiction",-0.2281341277941093,1.7776063175025167,0.4596961367202008
+15815,The Sacred and the Profane: The Nature of Religion,"Mircea Eliade, Willard R. Trask","Religion, Philosophy, Nonfiction, History, Anthropology, Fantasy, Mythology",-0.2228210035017985,0.3972974682927481,0.45958619174261883
+16031,Intellectuals and Society,Thomas Sowell,"Politics, Economics, Nonfiction, History, Philosophy, Sociology",-0.23787746013603794,0.8076595585983559,0.45930889617868353
+2943,The Autobiography of Benjamin Franklin,"Benjamin Franklin, Lewis Leary","Biography, History, Nonfiction, Classics, Biography, Autobiography",-0.03394334161919005,-0.6099549351846504,0.4592866340251593
+20543,Collapse of Complex Societies 1ed,Joseph A. Tainter,"History, Nonfiction, Politics, Sociology, Science, Economics, Anthropology",-0.242073265643348,0.5465200465856962,0.4592631702973766
+17292,Nature,Ralph Waldo Emerson,"Philosophy, Nonfiction, Classics, Environment, Nature, Writing, Essays, Poetry",-0.23328707701584303,-0.5726492906114126,0.45923357239510937
+23147,The Big Red Book,"Rumi, Coleman Barks","Poetry, Spirituality, Philosophy, Religion",-0.2425342573098868,1.8895232512222289,0.45919563588385437
+22437,Letters to a Young Conservative,Dinesh D'Souza,"Politics, Nonfiction, Philosophy",-0.24230766818565586,-0.7591775134775984,0.4588260543650019
+7816,Rubicon: The Last Years of the Roman Republic,Tom Holland,"History, Nonfiction, History, Ancient History",-0.19626710216736015,0.6957426248786442,0.45865200218908897
+1007,The Prophet,Kahlil Gibran,"Poetry, Philosophy, Classics, Fiction, Spirituality, Religion",0.4697252144557146,0.919576492318068,0.45857076356811277
+8042,Who Will Cry When You Die? Life Lessons from the Monk Who Sold His Ferrari,Robin S. Sharma,"Self Help, Nonfiction, Philosophy",-0.1973258203167839,-0.08767591115933222,0.4579178884297512
+21672,We Make the Road by Walking: Conversations on Education and Social Change,"Myles Horton, Paulo Freire","Education, Nonfiction, Politics, Philosophy, Teaching, Social Movements, Social Justice",-0.2419677844993095,1.3299385826236725,0.4575622417993374
+9779,Walt Disney: The Triumph of the American Imagination,Neal Gabler,"Biography, Nonfiction, History, Business",-0.21974251677948906,0.5092144020124599,0.4574107158260713
+10020,The Twelve Caesars,"Suetonius, Michael Grant, Robert Graves","History, Classics, Nonfiction, Biography, History, Ancient History, Historical, Literature, Ancient, Roman, Politics, Humanities, Classical Studies",-0.1899343268160104,0.2480748899998001,0.4572669181098711
+14579,"The Metamorphosis, In the Penal Colony, and Other Stories: The Great Short Works of Franz Kafka",Franz Kafka,"Fiction, Classics, Short Stories, Literature, Philosophy",-0.188465404217548,0.2107692454265639,0.45692278166484407
+20564,The Occult,Colin Wilson,"Occult, Nonfiction, History, Religion, Fantasy, Paranormal, Philosophy",-0.2388346038504616,-0.2742041340255165,0.4569151340722287
+119,The Immortal Life of Henrietta Lacks,Rebecca Skloot,"Nonfiction, Science, Biography, History, Health, Medicine",1.6102381310177156,0.2480748899998001,0.45657249234846714
+3511,The Art of Happiness,"Dalai Lama XIV, Howard C. Cutler","Nonfiction, Spirituality, Philosophy, Religion, Buddhism, Self Help",0.050250144868742914,0.658436980305408,0.4565001503535655
+22441,The Mountains of California,"John Muir, Gretel Ehrlich","Environment, Nature, Nonfiction, Travel, Classics, History, Environment",-0.24130755067180915,0.5465200465856962,0.45609493427603076
+5898,Memoirs of Hadrian,"Marguerite Yourcenar, Grace Frick","Historical, Historical Fiction, Fiction, Classics, Cultural, France, Historical",-0.18895764955639446,0.9941877814645405,0.4558727625511725
+15672,"The Age of Extremes: A History of the World, 1914-1991",Eric Hobsbawm,"History, Nonfiction, Politics, History, World History",-0.2283997840087248,0.919576492318068,0.45560946986634565
+23228,The Inner Reaches of Outer Space: Metaphor as Myth and as Religion (Collected Worksl),Joseph Campbell,"Fantasy, Mythology, Nonfiction, Philosophy, Religion, Psychology",-0.2408309321691165,0.919576492318068,0.45553944666027696
+21195,The Science of Mind,Ernest Holmes,"Spirituality, Psychology, Nonfiction, Science, Philosophy",-0.23717425250911445,1.4418555163433844,0.45530578955712775
+4443,The Story of My Experiments With Truth,Mahatma Gandhi,"Biography, Nonfiction, History, Biography, Autobiography, Cultural, India, Philosophy",-0.0983337199911501,0.3226861791462757,0.4552993040796872
+4252,The Amazing Book is Not on Fire,"Dan Howell, Phil Lester",Nonfiction,-0.17867128465811932,1.926828895795465,0.45504769268848966
+11541,The Origins of Totalitarianism,Hannah Arendt,"History, Philosophy, Nonfiction, Politics, Politics, Political Science, Sociology",-0.22102782405314364,1.0687990706110126,0.4548784664990576
+12819,A Man on the Moon,"Andrew Chaikin, Tom Hanks, Bronson Pinchot, Michael Kramer","History, Nonfiction, Space, Science",-0.2271926109158395,1.7403006729292805,0.4548448548251799
+4249,The Amazing Book is Not on Fire: The World of Dan and Phil,"Dan Howell, Phil Lester",Nonfiction,-0.17865956453100393,1.926828895795465,0.4545863549916147
+17400,The Greek Myths,Robert Graves,"Fantasy, Mythology, Classics, Nonfiction, History, Reference",-0.22396176254102995,0.8076595585983559,0.45422427614378846
+4524,The Hero With a Thousand Faces,Joseph Campbell,"Nonfiction, Fantasy, Mythology, Philosophy, Psychology, Language, Writing, History",-0.14886309469464065,0.8822708477448284,0.4541732859452543
+20058,Karate-Do: My Way of Life,Gichin Funakoshi,"Combat, Martial Arts, Biography, Nonfiction, Philosophy, History",-0.23833454509353816,0.8076595585983559,0.4541234585212796
+22644,Liberalism: The Classical Tradition,"Ludwig von Mises, Bettina Bien Greaves","Politics, Philosophy, Nonfiction, Economics",-0.24147944586950154,0.7703539140251199,0.45404720563853107
+1042,Stranger In A Strange Land,Robert A. Heinlein,"Science Fiction, Fiction, Classics, Science Fiction Fantasy",0.7187154083131652,-0.2742041340255165,0.4540242175501905
+1043,Stranger in a Strange Land,Robert A. Heinlein,"Science Fiction, Fiction, Classics, Science Fiction Fantasy",0.7183208307002804,-0.2742041340255165,0.4540120499060947
+16218,Intellectuals: From Marx and Tolstoy to Sartre and Chomsky,Paul  Johnson,"History, Philosophy, Biography, Nonfiction, Politics",-0.2386705220708461,-0.5726492906114126,0.45390529829930837
+4522,The Hero with a Thousand Faces,"Joseph Campbell, David Kudler","Nonfiction, Fantasy, Mythology, Philosophy, Psychology, Language, Writing, History",-0.14882012089521754,0.8822708477448284,0.4538395850926855
+16175,Cutting Through Spiritual Materialism (Shambhala Dragon Editions),Chögyam Trungpa,"Religion, Buddhism, Spirituality, Philosophy, Nonfiction, Religion",-0.221957620804298,1.1061047151842522,0.4538072569630597
+20222,Caesar and Christ,Will Durant,"History, Nonfiction, History, Ancient History, History, World History",-0.2403230599941163,1.4418555163433844,0.4536091331155473
+1514,Holy Bible: King James Version,Anonymous,"Religion, Classics, Nonfiction, Christian, Religion, Christianity, History, Philosophy, Reference, Spirituality, Christianity, Lds",0.5055419229203505,1.6283837392095686,0.4534268386590015
+22475,The New World,Winston S. Churchill,"History, Nonfiction, History, European History",-0.24152241966892465,0.7703539140251199,0.4531805062846148
+15911,How the Other Half Lives,"Jacob A. Riis, Luc Sante","History, Nonfiction, Classics, New York, Sociology, Art, Photography",-0.2368695292041143,-0.8337888026240724,0.45303710612534887
+12228,The World as I See It,Albert Einstein,"Science, Nonfiction, Philosophy, Biography, History, Science, Physics",-0.22718870420680104,-0.3488154231719905,0.45232242122558997
+19054,The Shift: Taking Your Life from Ambition to Meaning,Wayne W. Dyer,"Self Help, Nonfiction, Spirituality, Philosophy",-0.239217461336231,0.919576492318068,0.45220854003011757
+5303,The Feminine Mystique,"Betty Friedan, Anna Quindlen","Feminism, Nonfiction, Classics, History, Womens",-0.17329955973023162,-0.4607323568917023,0.45208297666025454
+73,"Unbroken: A World War II Story of Survival, Resilience and Redemption",Laura Hillenbrand,"Nonfiction, History, Biography, War, War, World War II",2.1709172920909223,1.4791611609166206,0.4520080020054366
+4514,When Things Fall Apart: Heart Advice for Difficult Times,Pema Chödrön,"Nonfiction, Religion, Buddhism, Spirituality, Self Help, Philosophy",-0.1397760894711739,1.1807160043307243,0.45193649894504023
+16241,Walden and other writings,Henry David Thoreau,"Classics, Philosophy, Nonfiction, Writing, Essays, Literature",-0.2281380345031477,-0.1249815557325684,0.45131438777213606
+9851,Gulag: A History,Anne Applebaum,"History, Nonfiction, Cultural, Russia, History, Russian History, Politics",-0.21686327221814125,0.8076595585983559,0.4512574368042721
+11131,The Constitution of the United States of America,Founding Fathers,"History, Nonfiction, Politics, Classics, Philosophy, Law, Reference, North American Hi..., American History, Historical, Politics, Political Science",-0.15881738932464634,2.113357118661649,0.45110589458286465
+19552,Chicago: City on the Make,"Nelson Algren, Studs Terkel, David Schmittgens, Bill Savage","Poetry, Nonfiction, History",-0.2415810203045016,0.658436980305408,0.4508921067852456
+22780,Euclid's Elements,"Euclid, Thomas L. Heath, Dana Densmore","Science, Mathematics, Science, Classics, Nonfiction, Philosophy",-0.23427156769353585,1.1434103597574885,0.4508508905467433
+3526,Slouching Towards Bethlehem,Joan Didion,"Nonfiction, Writing, Essays, Autobiography, Memoir, History, Classics, Short Stories",-0.1408543411657899,0.8822708477448284,0.450796624547088
+11044,A Lover's Discourse: Fragments,"Roland Barthes, Richard Howard","Philosophy, Nonfiction, Writing, Essays, Philosophy, Theory, Cultural, France",-0.22160211028179785,1.4045498717701483,0.4507638469831172
+20211,A Beautiful Question: Finding Nature's Deep Design,Frank Wilczek,"Science, Nonfiction, Science, Physics, Philosophy, History, Science, Mathematics",-0.2420341985529634,-0.4607323568917023,0.4507619531501962
+19985,Dream Psychology,Sigmund Freud,"Psychology, Nonfiction, Classics, Philosophy",-0.23735786783392224,-2.102180718114129,0.4504708830560681
+21657,Rameau's Nephew / D'Alembert's Dream,"Denis Diderot, Leonard Tancock","Philosophy, Classics, Fiction, Cultural, France",-0.2399441092173853,-1.206845248356441,0.4500691241017445
+20919,The Fall of Constantinople 1453,Steven Runciman,"History, Nonfiction, History, Medieval History, Historical, Medieval",-0.2410262676210397,1.1061047151842522,0.44979902182811404
+8646,Malcolm X: A Life of Reinvention,Manning Marable,"Biography, Nonfiction, History, Politics, Cultural, African American, Race",-0.1910907126913957,0.8449652031715923,0.4497067723880832
+21145,A New Guide to Rational Living,"Albert Ellis, Melvin Powers, Robert A. Harper","Psychology, Self Help, Nonfiction, Philosophy",-0.23961203894911584,0.28538053457303625,0.4496196187895494
+13558,The Discoverers: A History of Man's Search to Know His World and Himself,Daniel J. Boorstin,"History, Nonfiction, Science, History, World History",-0.2042641355690956,0.5092144020124599,0.4495654195755663
+14972,The Future of Freedom: Illiberal Democracy at Home and Abroad,Fareed Zakaria,"Politics, Nonfiction, History, Philosophy, Politics, Political Science",-0.2340332584421896,0.09885231170685202,0.44953758038613145
+14772,Second Treatise of Government,"John Locke, C.B. Macpherson","Philosophy, Politics, Nonfiction, Classics, Politics, Political Science, History",-0.17914008974273496,-0.8337888026240724,0.44944831380891603
+1,The Fault in Our Stars,John Green,"Young Adult, Fiction, Romance, Contemporary",11.024047378970044,0.956882136891304,0.4491267329782077
+8482,Will in the World: How Shakespeare Became Shakespeare,Stephen Greenblatt,"Biography, Nonfiction, History",-0.21669528372948726,-0.1995928448790424,0.44909838502578747
+3406,"I, Claudius",Robert Graves,"Historical, Historical Fiction, Fiction, Classics, Historical, Literature",-0.0634624351138224,1.0687990706110126,0.4490836119256927
+1103,The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,"Nonfiction, Spirituality, Self Help, Philosophy, Psychology",0.30587783738254354,0.5092144020124599,0.44873928273726743
+8054,The Interpretation of Dreams,Sigmund Freud,"Psychology, Nonfiction, Philosophy, Classics, Science",-0.049574084482083634,-0.5726492906114126,0.4484753907281227
+12100,How Should We Then Live? The Rise and Decline of Western Thought and Culture,Francis A. Schaeffer,"Philosophy, Christian, Religion, Theology, History, Nonfiction, Religion, Christianity, Cultural",-0.20418600138832627,0.658436980305408,0.4483756028740833
+11281,Awareness: Conversations with the Masters,"Anthony de Mello, J. Francis Stroud","Spirituality, Nonfiction, Philosophy, Self Help, Psychology, Religion",-0.22635657518160826,1.3299385826236725,0.4480494391727497
+19396,TAZ: The Temporary Autonomous Zone (New Autonomy),"Hakim Bey, Peter Lamborn Wilson","Philosophy, Nonfiction, Politics, Poetry, Philosophy, Theory",-0.23727192023507604,0.17346360085332768,0.4480435586996234
+9071,The Sunflower: On the Possibilities and Limits of Forgiveness,Simon Wiesenthal,"Nonfiction, World War II, Holocaust, Philosophy, History, Religion, Autobiography, Memoir",-0.2198479979235276,0.3972974682927481,0.4480130190919076
