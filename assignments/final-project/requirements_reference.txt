@@ -1,0 +1,7 @@
+sklearn
+tqdm
+pandas
+numpy
+argparse
+requests
+goodreads
