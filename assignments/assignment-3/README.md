@@ -39,15 +39,13 @@ Because this project uses Spacy's nlp.pipe() method for the processing, the prog
 
 __Weekly and monthly mean sentiments scores based on the full dataset:__
 
-<img width="400" alt="week_mean" src="reports/figures/1195191_week_plot_mean.png">
-<img width="400" alt="month_mean" src="reports/figures/1195191_month_plot_mean.png">
+<img width="400" alt="week_mean" src="reports/figures/1195191_week_plot_mean.png"><img width="400" alt="month_mean" src="reports/figures/1195191_month_plot_mean.png">
 
 Looking at the monthly and weekly mean scores we see that the general sentiment of ABC news seems to be ever so slightly positive and without much fluctuation. There does seem to be a slight overall drift in the shape of a very flat sine wave with about 10-year cycles. That being said the curve is so flat and we know so little about the field, that we don't know if this pattern is strong enough to be significant. We also see two distinct spikes in sentiment on the weekly timeline. One negative spike in late 2007 and one positive spike in early 2015. This gets completely smoothed out in the monthly plot. We wonder whether it would be useful to apply some sort of low pass filter to rule out noise and make it easier to find seasonal patterns.
 
 __Variance of weekly and monthly sentiments scores based on the full dataset:__
 
-<img width="400" alt="week_var" src="reports/figures/1195191_week_plot_variance.png">
-<img width="400" alt="month_var" src="reports/figures/1195191_month_plot_variance.png">
+<img width="400" alt="week_var" src="reports/figures/1195191_week_plot_variance.png"><img width="400" alt="month_var" src="reports/figures/1195191_month_plot_variance.png">
 
 
 The variance of sentiments seems to be fairly low and quite stable through the sampled period. Unsurprisingly, The size of the rolling window greatly affects the variance. It seems to only smoothen the local variance, but the general trends seem to be strong enough to stay using weekly windows. We see a general small dip in variance around the period between 2011 to 2014 and follow by a seemingly equally proportioned increase in the years afterward. Similarly to the mean sentiment scores, we don't know enough about the fields to conclude whether these results are significant or not.
@@ -55,8 +53,7 @@ The variance of sentiments seems to be fairly low and quite stable through the s
 
 __Variance of weekly sentiments scores based on the full 50000:__
 
-<img width="400" alt="week_mean" src="reports/figures/50000_week_plot_mean.png">
-<img width="400" alt="week_variance" src="reports/figures/50000_week_plot_variance.png">
+<img width="400" alt="week_mean" src="reports/figures/50000_week_plot_mean.png"><img width="400" alt="week_variance" src="reports/figures/50000_week_plot_variance.png">
 
 Sample size seems to highly influential on the readability as well as the reliability of the analysis. We consider it very difficult to conclude anything from our original plots based on 50000. We, of course, see a huge increase in variance, and an uncountable amount of spikes compared to the full sample size.
 
