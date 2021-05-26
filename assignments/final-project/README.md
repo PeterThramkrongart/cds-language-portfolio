@@ -14,7 +14,7 @@ Both Peter Thramkrongart and Jakub Raszka contributed equally to every stage of 
 
 ##  Description
 
-In this project, the goal is to create a  content-based book recommender using book summaries along with book  rating, genre, and number of reviews.
+In this project, the goal is to create a  content-based book recommendation engine using information from Goodreads about the books such as summaries, genres, authors, and ratings.
 
 ## Methods
 
