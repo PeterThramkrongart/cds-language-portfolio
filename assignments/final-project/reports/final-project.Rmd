@@ -1,11 +1,17 @@
 ---
 output:
+  html_document:
+    df_print: paged
   word_document: default
-  html_document: default
 ---
 Self-assigned Assignment - Book Recommender
 ==============================
 **Peter Thramkrongart and Jakub Raszka**
+
+```{r, message=FALSE,echo=FALSE}
+knitr::opts_chunk$set(message = FALSE, echo=F,warning=F)
+library(tidyverse)
+```
 
 ##	Github link
 
@@ -70,93 +76,38 @@ We are rather satisfied with our interactive weighting scheme. The default setti
 
 Top 10 recommendations based on __1984__ by George Orwell:
 
-```
-|book_title                       |book_authors                        | rec_score|
-|:--------------------------------|:-----------------------------------|---------:|
-|A Collection of Essays           |George Orwell                       | 1.0000000|
-|Animal Farm / 1984               |George Orwell, Christopher Hitchens | 0.9189596|
-|Animal Farm                      |George Orwell                       | 0.9107122|
-|Nineteen Eighty-Four             |George Orwell                       | 0.8405285|
-|Down and Out in Paris and London |George Orwell                       | 0.8336836|
-|Keep the Aspidistra Flying       |George Orwell                       | 0.7785718|
-|Shooting an Elephant             |George Orwell                       | 0.7247096|
-|Homage to Catalonia              |George Orwell, Lionel Trilling      | 0.6990492|
-|Coming Up for Air                |George Orwell                       | 0.6568643|
-|The Road to Wigan Pier           |George Orwell, Richard Hoggart      | 0.6183259|
+```{r}
+read_csv("recommendations/1984_recs.csv") %>% select(c("book_title", "book_authors", "rec_score")) %>% head(10) %>% knitr::kable("pipe")
 ```
 
 
 Top 10 recommendations based on __Ulysses__ by James Joyce:
 
-```
-|book_title                                 |book_authors                                            | rec_score|
-|:------------------------------------------|:-------------------------------------------------------|---------:|
-|Дъблинчани/ Портрет на художника като млад |James Joyce, Джеймс Джойс, Асен Георгиев Христофоров... | 1.0000000|
-|Finnegans Wake                             |James Joyce                                             | 0.9937516|
-|A Portrait of the Artist as a Young Man    |James Joyce, Seamus Deane                               | 0.9635664|
-|Dubliners                                  |James Joyce, Terence Brown, Colum McCann, Roman Muradov | 0.9014175|
-|Eveline                                    |James Joyce                                             | 0.8856827|
-|Elmer Gantry                               |Sinclair Lewis                                          | 0.4147498|
-|The Last Temptation of Christ              |Nikos Kazantzakis, Nikos Kazantzakis, Peter A. Bien     | 0.4130681|
-|Tropic of Capricorn                        |Henry Miller                                            | 0.3965215|
-|The Sound and the Fury                     |William Faulkner                                        | 0.3933700|
-|Sometimes a Great Notion                   |Ken Kesey, Charles Bowden                               | 0.3870019|
-
+```{r}
+read_csv("recommendations/Ulysses_recs.csv") %>% select(c("book_title", "book_authors", "rec_score")) %>% head(10) %>% knitr::kable("pipe")
 ```
 
 
 Top 10 recommendations based on __The Hunger Games__ by Suzanne Collins:
 
-```
-|book_title                             |book_authors    | rec_score|
-|:--------------------------------------|:---------------|---------:|
-|Mockingjay                             |Suzanne Collins | 1.0000000|
-|Catching Fire                          |Suzanne Collins | 0.9928887|
-|The Hunger Games Trilogy Boxset        |Suzanne Collins | 0.5725807|
-|The World of the Hunger Games          |Kate Egan       | 0.5240631|
-|The Hunger Games Tribute Guide         |Emily Seife     | 0.4442769|
-|Gregor and the Prophecy of Bane        |Suzanne Collins | 0.4304272|
-|Gregor and the Code of Claw            |Suzanne Collins | 0.4160059|
-|Gregor and the Curse of the Warmbloods |Suzanne Collins | 0.4012589|
-|Gregor and the Marks of Secret         |Suzanne Collins | 0.4001130|
-|Gregor the Overlander                  |Suzanne Collins | 0.3842942|
+```{r}
+read_csv("recommendations/The Hunger Games_recs.csv") %>% select(c("book_title", "book_authors", "rec_score")) %>% head(10) %>% knitr::kable("pipe")
 ```
 
 
 Top 10 recommendations based on __A Game of Thrones__ by George R.R. Martin:
 
-```
-|book_title                                                                        |book_authors         | rec_score|
-|:---------------------------------------------------------------------------------|:--------------------|---------:|
-|A Storm of Swords                                                                 |George R.R. Martin   | 1.0000000|
-|Tormenta de espadas                                                               |George R.R. Martin   | 0.6612630|
-|A Game of Thrones: The First 5 Books                                              |George R.R. Martin   | 0.4452066|
-|A Clash of Kings                                                                  |George R.R. Martin   | 0.3666152|
-|A Dance with Dragons 2: After the Feast                                           |George R.R. Martin   | 0.3473805|
-|The World of Ice and Fire: The Untold History of Westeros and the Game of Thrones |George R.R. Martin...| 0.3131561|
-|A Dance with Dragons                                                              |George R.R. Martin   | 0.3106538|
-|A Storm of Swords: Steel and Snow                                                 |George R.R. Martin   | 0.3098506|
-|A Storm of Swords: Blood and Gold                                                 |George R.R. Martin   | 0.3054644|
-|A Dance with Dragons: Dreams and Dust                                             |George R.R. Martin   | 0.2973343|
+```{r}
+read_csv("recommendations/A Game of Thrones_recs.csv") %>% select(c("book_title", "book_authors", "rec_score")) %>% head(10) %>% knitr::kable("pipe")
 ```
 
 
 Top 10 recommendations based on __A Feast for Crows__ by George R.R. Martin. These recommendations deemphasizes the authors by -1.0:
 
+```{r}
+read_csv("recommendations/A Feast for Crows_recs.csv") %>% select(c("book_title", "book_authors", "rec_score")) %>% head(10) %>% knitr::kable("pipe")
 ```
-|book_title                                                                  |book_authors      | rec_score|
-|:---------------------------------------------------------------------------|:-----------------|---------:|
-|The Iron Fey Boxed Set: The Iron King, The Iron Daughter, The Iron Queen... |Julie Kagawa      | 1.0000000|
-|King of Thorns                                                              |Mark  Lawrence    | 0.8882314|
-|Treason                                                                     |Orson Scott Card  | 0.8856870|
-|Malice                                                                      |John Gwynne       | 0.8829934|
-|The Iron Legends                                                            |Julie Kagawa      | 0.8807191|
-|The Name of the Wind                                                        |Patrick Rothfuss  | 0.8739155|
-|The Iron Man: [A Children's Story In Five Nights]                           |Ted Hughes        | 0.8738872|
-|Kings or Pawns                                                              |J.J. Sherwood     | 0.8735123|
-|Words of Radiance                                                           |Brandon Sanderson | 0.8726171|
-|Black Wolves                                                                |Kate Elliott      | 0.8722374|
-```
+
 
 ## Reproducibility
 
