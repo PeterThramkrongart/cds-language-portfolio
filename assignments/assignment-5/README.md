@@ -23,7 +23,7 @@ The task in this assignment is to train an LDA model on your data to extract str
 
 ### Research statement:
 
-We didn’t know much about western philosophy so we wanted to investigate what major philosophical topics have been discussed throughout time. We used the History of Philosophy data set available at: https://www.kaggle.com/kouroshalizadeh/history-of-philosophy.The data set contains over 300,000 sentences from 51 texts spanning 11 schools of philosophy. The represented schools are: Plato, Aristotle, Rationalism, Empiricism, German Idealism, Communism, Capitalism, Phenomenology, Continental Philosophy, Stoicism, and Analytic Philosophy. We don't know the schools very well, but in this project, we assume that they together as a whole have discussed many of the same topics but with differing viewpoints over time. For this project, we used the probabilistic, unsupervised learning method latent Dirichlet allocation to attempt to allocate the words of the text into major topics of western philosophy.
+We didn’t know much about western philosophy so we wanted to investigate what major philosophical topics have been discussed throughout time. We used the [History of Philosophy](https://www.kaggle.com/kouroshalizadeh/history-of-philosophy) dataset that contains over 300,000 sentences from 51 texts spanning 11 schools of philosophy. The represented schools are: Plato, Aristotle, Rationalism, Empiricism, German Idealism, Communism, Capitalism, Phenomenology, Continental Philosophy, Stoicism, and Analytic Philosophy. We don't know the schools very well, but in this project, we assume that they together as a whole have discussed many of the same topics but with differing viewpoints over time. For this project, we used the probabilistic, unsupervised learning method latent Dirichlet allocation to attempt to allocate the words of the text into major topics of western philosophy.
 
 The data used for the pre-processing and modeling can be found in the _assignments/assignment-5/data/interim/_ called _small_dataset.csv_. It was created from the data linked above by trimming some columns as we had no need of them and we could get around Github LFS.
 
@@ -34,7 +34,8 @@ __Preprocessing pipeline:__
 
 The pre-processing pipeline consists of 3 major steps.    
 First, we loaded the data as sentences and collapsed them into large text strings of individual books.  
-Second, we divided the texts into chunks of 2000 tokens for easier modeling. The chunk size of 2000 tokens was chosen as a balance between strain on memory or CPU, sufficient context to words, and reasonable computational time.   
+Second, we divided the texts into chunks of 2000 tokens for easier modeling. The chunk size of 2000 tokens was chosen as a balance between strain on memory or CPU, sufficient context to words, and reasonable computational time.  
+
 Third, we removed stopwords and then tokenized, lemmatized, and pos-tagged the texts using a modified version of Ross' function for pre-processing with spaCy. We chose to only consider nouns, adjectives, and verbs, and to disregard n-grams entirely. This was because this analysis was about the major concepts and topics in philosophy and not the major individuals or places. We, therefore, don't expect n-grams to be of much use for us. Lastly, we chose to bind lemmas to their POS-tag to aid comprehension of the models and to attempt to individualize homonyms(words that are spelled the same way but have multiple meanings like the word "show").
 
 Because this project uses Spacy's nlp.pipe() method for the processing, the progress bar is a bit weird. That is the cost of mini-batches and parallelization. If you monitor the machine with ```htop ```, you can see that the machine is indeed working and not stuck.
@@ -69,7 +70,7 @@ In our view, this model largely sums up the philosophical topics we have heard a
 
 This project mainly ordered texts by titles. This was because we don't know that much about philosophy, to begin with. To further the project, we could attempt to find out what schools and authors are related to each topic. 
 
-Here are some screen shots of the interactive plots created with LDAvis (https://github.com/cpsievert/LDAvis). The plots are available at reports/figures/philosophy_LDAvis.html. You can open it in an internet browser and explore the different topics. We recommend starting with the relevance slider at 0.6.
+Here are some screen shots of the interactive plots created with [LDAvis](https://github.com/cpsievert/LDAvis). The plots are available at _reports/figures/philosophy_LDAvis.html_. You can open it in an internet browser and explore the different topics. We recommend starting with the relevance slider at 0.6.
 
 <img src="./reports/figures/LDAvis_blank.PNG" alt="LDA_blank" width="1000"/>
 <img src="./reports/figures/LDAvis_topic.PNG" alt="LDA_topic" width="1000"/>
@@ -108,6 +109,7 @@ Our projects are mainly made for Linux/Mac users. Our python scripts should run 
 Project Organization
 ------------
 The folder structure of our projects is based on a simplified version of the cookiecutter data science folder structure https://drivendata.github.io/cookiecutter-data-science/. For the sake of generalizability, some folders will remain empty for some projects, but overall this will make folder navigation easier.
+
 
 
     ├── LICENSE
