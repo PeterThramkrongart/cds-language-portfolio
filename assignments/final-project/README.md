@@ -14,40 +14,56 @@ Both Peter Thramkrongart and Jakub Raszka contributed equally to every stage of 
 
 ##  Description
 
-In this project, the goal is to create a  content-based book recommender using a  short book description, its rating, genre, and number of reviews. To do so, we used  
+In this project, the goal is to create a  content-based book recommender using book summaries along with book  rating, genre, and number of reviews.
 
 ## Methods
 
 __Data__
 
-Originally we wanted to use the continuously updated _"Goodreads Book Datasets With User Rating 10M"_ (https://www.kaggle.com/bahramjannesarr/goodreads-book-datasets-10m). This is a very extensive data set with a lot of recent and well documented information. Problematically, it does not contain book summaries for the first 600k entries. Those entries are where most of the good and well known books are, so we had to find another dataset. We then stumbled upon a 8+ GB datased containing over 2.3 million books (https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/books?authuser=0). All that was contained in a single JSON file that we could not download using wget or other automatized download methods. Furthermore, we don't think the size and the trouble of the dataset is justified given the small size of this project. We settled for smaller, but much more concise, dataset which contains only 52 932 best-rated books (https://www.kaggle.com/meetnaren/goodreads-best-books). Although it has only has a fraction of the other datasets, we still deem the number of books sufficient, because those books were selected from a "best of" list. Our chosen dataset was not without problems, though. The ISBN codes were corrupted, so we could no longer discern title duplicates from one another as easily, and it prohibited enriching the dataset with information from other datasets. The dataset comes with images for each entry. We did not use the images for this project, so we choose to delete them, thereby, making the dataset below 100mb (the github size threshold).
+Originally we wanted to use the continuously updated [Goodreads Book Datasets With User Rating 10M](https://www.kaggle.com/bahramjannesarr/goodreads-book-datasets-10m). This is a very extensive data set with a lot of recent and well-documented information. Problematically, it does not contain book summaries for the first 600k entries. Those entries are where most of the good and well-known books are, so we had to find another dataset. 
+
+We then stumbled upon a 8+ GB [dataset containing over 2.3 million books](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/books?authuser=0). All that was contained in a single JSON file that we could not download using wget or other automatized download methods. Furthermore, we don't think the size and the trouble of the dataset are justifiable given the small size of this project. We settled for a smaller, but much more concise, [Goodreads dataset](https://www.kaggle.com/meetnaren/goodreads-best-books) that contains only 52 932 best-rated books. Although it is only a fraction of the other datasets, we still deem the number of books sufficient, because those books were selected from a "best of" list. 
+
+Our chosen dataset was not without problems, though. The ISBN codes were corrupted, so we could no longer discern title duplicates from one another as easily, and it prohibited enriching the dataset with information from other datasets. The dataset comes with images for each entry. We did not use the images for this project, so we choose to delete them, thereby, making the dataset within the github file’s size limit of 100 MB.
 
 __Data pre-processing__
 
-The data required some pre-processing. Specifically, we dropped all duplicated books to have only one entry per one book. We also decided to keep only books with 50 and more reviews on goodreads for the sake of optimalisation assuming that a reader has a still many thousands books to choose from.
+The data required some pre-processing. Specifically, we dropped all duplicated books to have only one entry per one book. We also decided to keep only books with 50 and more reviews on Goodreads for the sake of optimization assuming that a reader has still many thousands of books to choose from.
 
-The dataset also contained some books in different languages. To ensure that only English-written books are included, we used a module called _Spacy FastLang_
-(https://github.com/thomasthiebaud/spacy-fastlang) which adds a language detection functionality into the _Spacy_ world.  The module utilizes facebook’s library called _fastText_ (https://github.com/facebookresearch/fastText) which is a very extensive library of word embeddings and text classifications. We managed to filter out most non-english books but we weren’t 100 % successful. We further used _Spacy_ to lemmatize our book summaries. After the pre-processing, the contained only 23 266 unique English books.
+The dataset also contained some books in different languages. To ensure that only English-written books are included, we used a module called [Spacy FastLang](https://github.com/thomasthiebaud/spacy-fastlang) which adds a language detection functionality into the _Spacy_ world.  The module utilizes facebook’s library [fastText] (https://github.com/facebookresearch/fastText) which is a very extensive library of word embeddings and text classifications. We further used _Spacy_ to lemmatize our book summaries. After the pre-processing, the dataset contained only 23 266 unique English books.
 
-We z-score scaled all numeric values. This allows us to use them as weights in the final recommender ranking. Using sklearns vectorizers, we created count vectors of the author and genre columns, and tfidf vectors of the book summaries. We used a seperator for splitting the authors and genres columns instead of tokenizing single words. This allowed us too keep George Orwell separate from George Saunders and to keep Science Fiction separate from Historical Fiction. The tfidf vectorizer used unigrams, bigrams and trigrams and deleted regular English stopwords.
+We z-score scaled all numeric values. This allows us to use them as weights in the final recommender ranking. Using _sklearn_ vectorizers, we created count vectors of the author, genre columns, and TF-IDF vectors of the book summaries. We used a custom seperator for splitting the authors and genres columns instead of tokenizing single words. This allowed us to keep George Orwell separate from George Saunders and to keep Science Fiction separate from Historical Fiction. The TF-IDF vectorizer used unigrams, bigrams, and trigrams and deleted regular English stopwords.
 
-The dataframe was saved as a .csv and the vectorized columns were saved in Numpy's proprietary binary format for fast loading, when using the recommender.
+The data frame was saved as a .csv and the vectorized columns were saved in Numpy's proprietary binary format for fast loading when using the recommender.
 
 __Recommender__
 
-The recommender itself is very simple. it loads the processed data, and calculates similarity scores for each vectorized variable using cosine similarity and z-score scales them to math the other variables. After that it it calculates a final recommendation score by adding a together the different scaled scores timed by their individual weights. The score is min max scaled, to be of the same size no matter the weights. The score is no way universal, but gives some aid, when comparing accross recommendations. Normalizing the score makes it easier to understand the distribution of scores in the final recommendation. It finally sorts the full dataset based on the recommendation score, and outputs the head of the dataset.
+The recommender itself is very simple. It loads the processed data and calculates similarity scores for each vectorized variable using cosine similarity. Afterwards, we z-score scale them so their scales match. A final recommendation score is calculated by summing the different scaled scores multiplied by their weights. Also, the score is min-max scaled, to be of the same size no matter the weights. The score is in no way universal but gives some aid in understanding scores distribution and when comparing recommendations for different books. Lastly, the recommender sorts the full dataset based on the recommendation score and outputs the first 20 entries of the dataset.
 
 The weighting scheme in Python code:
 
 ```python
-df["rec_score"] = df.tfidf_sim*tfidf_weight+df.genres_sim*genre_weight+df.book_review_count*review_count_weight+df.book_rating*rating_weight+df.authors_sim*authors_weight
+df["rec_score"] = 
+    df.tfidf_sim         * tfidf_weight        +
+    df.genres_sim        * genre_weight        +
+    df.book_review_count * review_count_weight +
+    df.book_rating       * rating_weight       +
+    df.authors_sim       * authors_weight
 ```
 
 
 ## Results
-We find that it is difficult to reliably produce good content based recommendations that work well in all scenarios. Most of the time our recommendations a somewhat logical. We are heavily reliant on clean data, and our recommendations shows that our preprocessing still let many errors slip through. We still find it difficult to capture different editions. E.g. in the case of Animal Farm/ 1984 where the books have been joined together to form a new third book. Our scheme for language detection was also far from perfect as shown in the recommendations based on Ulysses by James Joyce. We believe that some summaries are in english, but the books themselves are translations of other works. Our recommender tend to also recommend book compilations and spinoff works as shown in the recommendations based on The Hunger Games and A Game of Thrones.This is can maybe be avoided using a much more advanced embedding scheme, that can capture the feel and themes of the books and filter out named entities. But in general, that is where collaborative filtering methods (recommendations based on what other people liked) are much better suited. Finally, we are rather satisified with our interactive weighting scheme. The default settings emphasizes the similarities in summaries, authors and genres. To combat getting spinoff works, one may deamphasize authors or summaries, and mainly go on genre, with fairly acceptable results as shown in in the recommendations based on A Feast for Crows vs A Game of Thrones. The recommendations based on AFFC demphasized authors, to find similar books, but from other authors.
 
-Top 10 recommendations based on 1984 by George Orwell:
+We find that it is difficult to reliably produce good content-based recommendations that work well in all scenarios. But most of the time our recommendations are somewhat logical. We heavily rely on our cleaning pipeline. Our recommendations are proof of that as the pipeline still lets many errors slip through. We also find it difficult to capture different editions of the same book, e.g., in the case of Animal Farm/ 1984 where the books were joined together to form a new third book. 
+
+Our scheme for language detection is also far from perfect as can be seen in the recommendations based on Ulysses by James Joyce. We noticed that while some summaries are in English,  their book titles are in different languages suggesting that they might be translations with the original English summary. The discrepancy could be solved by running the language detection also on book titles. However, we think it would do more harm than good. Many titles are single-word strings that are sometimes tweaked or twisted on purpose. Or titles often contain non-English words which could lead to the loss of many great books. Instead, we choose to have here and there a title in the Cyrillic or Phoenician alphabet.
+
+ Our recommender also tends to recommend book compilations and spinoff works as shown in the recommendations based on The Hunger Games and A Game of Thrones. This is could be avoided using a much more advanced embedding scheme, that can capture the feel and themes of the books and filter out named entities. But in general, that is where collaborative filtering methods (recommendations based on what other people liked) are much better suited. 
+ 
+We are rather satisfied with our interactive weighting scheme. The default setting emphasizes the similarities in summaries, authors, and genres. If one wishes not to be shown spinoff works, one may deemphasize authors or summaries and mainly rely on the genre. That leads to fairly acceptable results as can be seen in the recommendations based on A Feast for Crows (AFFC) with the deemphasized author, compared to A Game of Thrones with the default setting.
+
+
+Top 10 recommendations based on __1984__ by George Orwell:
 
 ```
 |book_title                       |book_authors                        | rec_score|
@@ -64,7 +80,8 @@ Top 10 recommendations based on 1984 by George Orwell:
 |The Road to Wigan Pier           |George Orwell, Richard Hoggart      | 0.6183259|
 ```
 
-Top 10 recommendations based on Ulysses by James Joyce:
+
+Top 10 recommendations based on __Ulysses__ by James Joyce:
 
 ```
 |book_title                                 |book_authors                                            | rec_score|
@@ -82,7 +99,8 @@ Top 10 recommendations based on Ulysses by James Joyce:
 
 ```
 
-Top 10 recommendations based on The Hunger Games by Suzanne Collins:
+
+Top 10 recommendations based on __The Hunger Games__ by Suzanne Collins:
 
 ```
 |book_title                             |book_authors    | rec_score|
@@ -99,7 +117,8 @@ Top 10 recommendations based on The Hunger Games by Suzanne Collins:
 |Gregor the Overlander                  |Suzanne Collins | 0.3842942|
 ```
 
-Top 10 recommendations based on A Game of Thrones by George R.R. Martin:
+
+Top 10 recommendations based on __A Game of Thrones__ by George R.R. Martin:
 
 ```
 |book_title                                                                        |book_authors         | rec_score|
@@ -115,7 +134,9 @@ Top 10 recommendations based on A Game of Thrones by George R.R. Martin:
 |A Storm of Swords: Blood and Gold                                                 |George R.R. Martin   | 0.3054644|
 |A Dance with Dragons: Dreams and Dust                                             |George R.R. Martin   | 0.2973343|
 ```
-Top 10 recommendations based on A Feast for Crows by George R.R. Martin. These recommendations deemphasizes the authors by -1.0:
+
+
+Top 10 recommendations based on __A Feast for Crows__ by George R.R. Martin. These recommendations deemphasizes the authors by -1.0:
 
 ```
 |book_title                                                                  |book_authors      | rec_score|
@@ -199,7 +220,7 @@ python prepare_data.py
                 help = float, The weight of ratings on recommendations
 ```  
 
-- Make sure that the book's title matches perfectly with the book's title on Goodreads
+- Make sure that the book's title matches perfectly with the book's title on [Goodreads](https://www.goodreads.com/) and was published no later than in 2017
 
 
 ```console
