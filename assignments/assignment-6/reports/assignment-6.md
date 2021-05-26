@@ -1,3 +1,8 @@
+---
+output:
+  word_document: default
+  html_document: default
+---
 Assignment 6 - Text Classification Using Deep Learning (GoT)
 ==============================
 **Peter Thramkrongart and Jakub Raszka**
@@ -33,7 +38,7 @@ For a better neural network model, we various advanced architectures using CNNs 
 
 This was our final neural net architecture:
 
-<img width="400" src="models/nn_model_architecture.png">
+![](../models/nn_model_architecture.png){width=400}
 
 Because, the performance of our neural network model was far from satisfying, we decided to try a stochastic gradient descent classifier on the same TFIDF-embeddings. We based our decision on the decision tree below by Sklearn. Luckily, training SGD classifiers are fairly fast. We, therefore, used grid search to find the best performing hyper-parameters for the whole modeling pipeline.
 
@@ -49,7 +54,8 @@ parameters = {
 ```
 
 How to choose the right classifier engine(From Sci-Kit-Learn): 
-<img width="1000" src="https://scikit-learn.org/stable/_static/ml_map.png">
+![](https://scikit-learn.org/stable/_static/ml_map.png){width=1000}
+
 
 ## Results
 
@@ -94,9 +100,10 @@ Surprisingly, despite the efforts outlined in the methods, the neural network mo
 weighted avg       0.30      0.27      0.28       267
 
 ```
+
 Training history of the neural network:
 
-<img width="400" src="models/nn_training_history.png">
+![](../models/nn_training_history.png){width=400}
 
 As the plot of the history shows, the model overfits dramatically, already at the second epoch. But the validation accuracy still improve for a handful of epochs before it stagnates.
 

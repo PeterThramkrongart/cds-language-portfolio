@@ -1,3 +1,8 @@
+---
+output:
+  word_document: default
+  html_document: default
+---
 Assignment 5 -Unsupervised machine learning
 ==============================
 
@@ -72,8 +77,11 @@ This project mainly ordered texts by titles. This was because we don't know that
 
 Here are some screen shots of the interactive plots created with [LDAvis](https://github.com/cpsievert/LDAvis). The plots are available at _reports/figures/philosophy_LDAvis.html_. You can open it in an internet browser and explore the different topics. We recommend starting with the relevance slider at 0.6.
 
-<img src="./reports/figures/LDAvis_blank.PNG" alt="LDA_blank" width="1000"/>
-<img src="./reports/figures/LDAvis_topic.PNG" alt="LDA_topic" width="1000"/>
+
+
+![](figures/LDAvis_blank.PNG){width=1000}
+![](figures/LDAvis_topic.PNG){width=1000}
+
 
 ## Reproducibility
 
@@ -105,35 +113,3 @@ bash philosophy_LDA.sh
 ## Running the project on something else than Linux
 
 Our projects are mainly made for Linux/Mac users. Our python scripts should run on any machine, though our bash scripts may not work. For this case, we recommend using the python distribution system [Anaconda](https://www.anaconda.com/) to set up environments using our requirements.txt files.
-
-Project Organization
-------------
-The folder structure of our projects is based on a simplified version of the [cookiecutter data science folder structure](https://drivendata.github.io/cookiecutter-data-science/). For the sake of generalizability, some folders will remain empty for some projects, but overall this will make folder navigation easier.
-
-
-    ├── LICENSE
-    ├── README.md          <- The top-level README for developers using this project.
-    ├── data
-    │   ├── interim        <- Intermediate data that has been transformed.
-    │   ├── processed      <- The final, canonical data sets for modeling.
-    │   └── raw            <- The original, immutable data dump.
-    │
-    ├── models             <- Trained and serialized models, model predictions, or model summaries
-    │
-    ├── utils              <- utility scripts with reusable functions and classes
-    |  └──__init__.py      <- Makes utils a Python module
-    |
-    ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-    │                         the creator's initials, and a short `-` delimited description, e.g.
-    │                         `1.0-jqp-initial-data-exploration`.
-    ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
-    |
-    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-    │   └── figures        <- Generated graphics and figures to be used in reporting
-    |
-    ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-    │                         generated with `pip freeze > requirements.txt`
-    │
-    └── src                <- Source code for use in this project.
-    └── __init__.py    <- Makes src a Python module
---------

@@ -14,9 +14,7 @@ Both Peter Thramkrongart and Jakub Raszka contributed equally to every stage of 
 
 ##  Description
 
-https://www.kaggle.com/therohk/million-headlines
-
-This is a dataset of over a million headlines taken from the Australian news source ABC (Start Date: 2003-02-19 ; End Date: 2020-12-31). The task is to:
+This is a [dataset of over a million headlines](https://www.kaggle.com/therohk/million-headlines) taken from the Australian news source ABC (Start Date: 2003-02-19 ; End Date: 2020-12-31). The task is to:
 
 - Calculate the sentiment score for every headline in the data. You can do this using the spaCyTextBlob approach that we covered in class or any other dictionary-based approach in Python.
 - Create and save a plot of sentiment over time with a 1-week rolling average
@@ -27,7 +25,8 @@ This is a dataset of over a million headlines taken from the Australian news sou
 
 ## Methods
 
-We used SpacyTextBlob and Spacy to extract a 1-month and 1-week rolling averages and variance. Spacy and its pre-trained model _en_core_web_sm_ (https://spacy.io/models/en) to pre-process the headlines. Then we used the spacytextblob pipeline which utilizes Textblob package and returns a polarity value in the range of -1 to 1.
+We used SpacyTextBlob and Spacy to extract a 1-month and 1-week rolling averages and variance. Spacy and its pre-trained model [en_core_web_sm](https://spacy.io/models/en) to pre-process the headlines. Then we used the spacytextblob pipeline which utilizes Textblob package and returns a polarity value in the range of -1 to 1.
+
 
 Originally, we were using a 2.3.2 version of Spacy which was considerably slower compared to the Spacy >= 3.0.0. For the final version of this project, we used the newest version of spacy available (spacy==3.0.6) and spacytextblob (spacytextblob==3.0.1). This allowed us to use the nlp.pipe() method instead, which can distribute the workload in mini-batches. It additionally allows the calculations to be made in parallel to increase speed dramatically. Initially, we used the default model pipeline, but we chose to disable named entity recognition, as we assume that only names like Voldemort and Hitler are going to influence the score if at all. We, therefore, deemed NER unnecessary and slow. That warranted a 20% increase in speed. Originally, we only able to run the project on less than 1/20th of the dataset, but after our improvements, we are now able to utilize the whole dataset. Using all data and all available processing power on worker2 it takes about 14 minutes to run the project. 
 
@@ -144,8 +143,6 @@ Our projects are mainly made for Linux/Mac users. Our python scripts should run 
 Project Organization
 ------------
 The folder structure of our projects is based on a simplified version of the [cookiecutter data science folder structure](https://drivendata.github.io/cookiecutter-data-science/). For the sake of generalizability, some folders will remain empty for some projects, but overall this will make folder navigation easier.
-
-
 
 
     ├── LICENSE

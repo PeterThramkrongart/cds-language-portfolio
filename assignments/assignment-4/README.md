@@ -23,7 +23,7 @@ The purpose of this assignment is to create a reusable network analysis pipeline
 
 ## Methods
 
-By default, the script runs on an edgelist created by taken from the real headlines from the "real or fake news" dataset from kaggle (https://www.kaggle.com/rchitic17/real-or-fake). To create the network graph, the script network_analysis.py_ expects the data to be in a csv format with three columns: _nodeA_, _nodeB_, _weight_. To achieve so, we extracted only the entities tagged as _person_ the named entity recognition from the natural language processing library Spacy's pipeline. Using python's build in modules, we then counted the co-occurrences of each possible pair of persons.
+By default, the script runs on an edgelist created by taken from the real headlines from the [real or fake news](https://www.kaggle.com/rchitic17/real-or-fake) dataset from kaggle . To create the network graph, the script network_analysis.py_ expects the data to be in a csv format with three columns: _nodeA_, _nodeB_, _weight_. To achieve so, we extracted only the entities tagged as _person_ the named entity recognition from the natural language processing library Spacy's pipeline. Using python's build in modules, we then counted the co-occurrences of each possible pair of persons.
 
 Because our code for creating the edge list uses Spacy's nlp.pipe() method for the processing, the progress bar is a bit weird. That is the cost of mini-batches and parallelization. If you monitor the machine with ```htop ```, you can see that the machine is indeed working and not stuck.
 
@@ -88,7 +88,7 @@ cd assignments/assignment-4
 ```console
 bash network_analysis.sh
 ```  
-By default, the script runs on an edgelist created by taken from the real headlines from the "real or fake news" dataset from kaggle (https://www.kaggle.com/rchitic17/real-or-fake). If you want to run the script manually, you can do as follows:  
+By default, the script runs on an edgelist created by taken from the real headlines from the [real or fake news](https://www.kaggle.com/rchitic17/real-or-fake) dataset from kaggle . If you want to run the script manually, you can do as follows:  
 
 **Step 1: Clone repository**  
 
@@ -178,11 +178,11 @@ bash kill_network_analysis_venv.sh
 
 ## Running the project on something else than Linux
 
-Our projects are mainly made for Linux/mac users. Our python scripts should run on any machine, though our bash scripts may not work. For this case, we recommend using the python distribution system from https://www.anaconda.com/ to setup environments using our requirements.txt files. We have heard about people having problems with networkx and matplotlib on Windows machines, so this specific script might not run as intended on Windows.
+Our projects are mainly made for Linux/Mac users. Our python scripts should run on any machine, though our bash scripts may not work. For this case, we recommend using the python distribution system [Anaconda](https://www.anaconda.com/) to set up environments using our requirements.txt files.
 
 Project Organization
 ------------
-The folder structure of our projects is based on a simplified version of the cookiecutter datascience folder structure https://drivendata.github.io/cookiecutter-data-science/. For the sake of generalizability, some folders will remain empty in some projects but overall this will make folder navigation easier.
+The folder structure of our projects is based on a simplified version of the [cookiecutter data science folder structure](https://drivendata.github.io/cookiecutter-data-science/). For the sake of generalizability, some folders will remain empty for some projects, but overall this will make folder navigation easier.
 
 
     ├── LICENSE
@@ -211,4 +211,3 @@ The folder structure of our projects is based on a simplified version of the coo
     └── src                <- Source code for use in this project.
     └── __init__.py    <- Makes src a Python module
 --------
-
