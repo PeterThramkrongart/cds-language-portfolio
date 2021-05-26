@@ -17,6 +17,8 @@ python recommender.py -t "The Dark Tower"
 python recommender.py -t "Meditations"
 python recommender.py -t "Harry Potter and the Sorcerer's Stone"
 python recommender.py -t "Ulysses"
+python recommender.py -t "A Game of Thrones"
+python recommender.py -t "A Feast for Crows" -aw -1.0
 
 
 cd ..
