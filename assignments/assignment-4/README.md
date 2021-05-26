@@ -60,8 +60,7 @@ Below are the top 20 entries sorted by their degree of centrality, and plots of 
     | 41|Johnson         | 0.0505051|   0.0191713|   0.0680789|
     | 83|Abedin          | 0.0505051|   0.0000000|   0.0543916|
 
-<img src="./reports/figures/network_visualization.png" alt="Cropped Image" width="450"/>
-<img src="./reports/figures/network_visualization_no_labels.png" alt="Cropped Image" width="450"/>
+<img src="./reports/figures/network_visualization.png" alt="Cropped Image" width="450"/><img src="./reports/figures/network_visualization_no_labels.png" alt="Cropped Image" width="450"/>
 
 ## Reproducibility
 
