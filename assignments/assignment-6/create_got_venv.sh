@@ -13,7 +13,7 @@ python -m ipykernel install --user --name=$VENVNAME
 
 test -f requirements.txt && pip install -r requirements.txt
 
-pip freeze | grep -v "pkg-resources" > requirements.txt
+#pip freeze | grep -v "pkg-resources" > requirements.txt
 
 deactivate
 echo "build $VENVNAME"

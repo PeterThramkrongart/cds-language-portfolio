@@ -9,7 +9,7 @@ cd src
 
 #run the scripts
 
-#python create_network_data.py
+python create_network_data.py
 python network_analysis.py -l -p
 
 cd ..

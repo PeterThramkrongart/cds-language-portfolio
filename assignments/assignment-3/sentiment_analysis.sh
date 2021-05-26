@@ -15,4 +15,4 @@ cd ..
 deactivate
 
 # kill the environment
-bash kill_sentiment_analysis.sh
+bash kill_sentiment_analysis_venv.sh

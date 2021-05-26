@@ -9,6 +9,7 @@ matplotlib.use("Agg")
 import spacy # for nlp pipeline
 from spacytextblob.spacytextblob import SpacyTextBlob  #For sentiment analysis
 import argparse
+from tqdm import tqdm
 
 # initialise spacy
 nlp = spacy.load("en_core_web_sm")  #load spacy language model
@@ -54,6 +55,7 @@ def main(samples = 1195191, cores = -1):
 	data_path = os.path.join("..", "data", "raw", "abcnews-date-text.csv") #path to data
 	data = pd.read_csv(data_path) # read data
 	
+	print("Succesfully loaded data")
 	# set a column to a date type and sample data frame 
 	data['publish_date'] = pd.to_datetime(data.publish_date, format="%Y%m%d") #convert variable to datetime format
 	data = data.sample(samples) # sample x random headlines
@@ -63,9 +65,11 @@ def main(samples = 1195191, cores = -1):
 
 	# empty list for sentiment scores
 	senti_list = []
-
+	
+	print(f"Processing texts using {cores} cores")
+	
 	# a loop to extract sentiment score for every headline
-	for doc in nlp.pipe(data.headline_text, disable = ["ner"], n_process = cores): #for each headline...
+	for doc in tqdm(nlp.pipe(data.headline_text, disable = ["ner"], n_process = cores)): #for each headline...
 	    #doc = nlp(headline)  #process headline
 	    score = doc._.polarity #extract sentiment score
 	    senti_list.append(score) #append to list
@@ -91,7 +95,8 @@ def main(samples = 1195191, cores = -1):
 	# calculating and plotting variance per month
 	data_month_var = data.resample("M",on ="publish_date").var()
 	sentiment_plot(data_month_var, y_lim = (0,0.125), title = "Variance of Monthly Sentiment Scores", filename = "month_plot_variance",samples= samples)
-
+	
+	print(f"Done :-) \n Plots are available at {os.path.join('..', 'reports', 'figures')}")
 
 if __name__ =="__main__":
 

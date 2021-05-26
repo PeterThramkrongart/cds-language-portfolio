@@ -15,7 +15,7 @@ test -f requirements.txt && pip install -r requirements.txt
 
 python -m spacy download en_core_web_sm
 
-pip freeze | grep -v "pkg-resources" > requirements.txt
+#pip freeze | grep -v "pkg-resources" > requirements.txt
 
 deactivate
 echo "build $VENVNAME"
